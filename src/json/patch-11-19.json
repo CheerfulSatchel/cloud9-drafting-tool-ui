@@ -1,101 +1,572 @@
 {
-    "fetchedTimestamp": "2021-10-13 13:50:31.181971",
-    "champions": [
-      { 
-        "name": "Sona",
-        "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Aatrox.png",
-        "patchSummary": "Base armor reduced. Passive damage bug fixed. Q can no longer target hidden enemies. Power Chord E bug fixed.",
-        "patchComment": "Sona's songs have been a bit too powerful, especially in Skilled play. In addition to a few bugfixes, we're nerfing her base defenses a bit, all of which should add up to an appropriate nerf for the virtuoso.",
-        "attributePatches": [
-          {
-            "name": "Base Stats",
-            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaE.png",
-            "changes": [
+  "champions": [
+      {
+          "name": "Aatrox",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Aatrox.png",
+          "summary": "W cooldown decreased.",
+          "comment": "Aatrox's W cooldown was heavily nerfed in patch 9.9 in an effort to reduce his Pro domination. He's not running over the Pro scene anymore, so we're loosening his chains a bit.",
+          "attributePatches": [
               {
-                "name": "Base Armor",
-                "type": "None",
-                "before": 28,
-                "after": 26
+                  "name": "W - Infernal Chains",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/AatroxW.png",
+                  "changes": [
+                      {
+                          "name": "Cooldown",
+                          "flag": "",
+                          "before": "26/23/20/17/14 seconds",
+                          "after": "20/18.5/17/15.5/14 seconds",
+                          "removed": ""
+                      }
+                  ]
               }
-            ]
-          },
-          {
-            "name": "Passive - Power Chord",
-            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaQ.png",
-            "changes": [
-              {
-                "name": "Damage increases by",
-                "type": "BUGFIX",
-                "before": "20-245 (based on level)",
-                "after": "20-240 (based on level)"
-              }
-            ]
-          }
-        ]
+          ]
       },
-      { 
-        "name": "Rammus",
-        "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Aatrox.png",
-        "patchSummary": "Base armor reduced. Passive damage bug fixed. Q can no longer target hidden enemies. Power Chord E bug fixed.",
-        "patchComment": "Sona's songs have been a bit too powerful, especially in Skilled play. In addition to a few bugfixes, we're nerfing her base defenses a bit, all of which should add up to an appropriate nerf for the virtuoso.",
-        "attributePatches": [
-          {
-            "name": "Base Stats",
-            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaE.png",
-            "changes": [
+      {
+          "name": "Akali",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Akali.png",
+          "summary": "Base health regen increased.",
+          "comment": "In a rare flip of events, Akali has room for some power at all levels of play. We're taking this opportunity to make her missteps a bit more forgiving in a way that doesn't win her more fights, but instead helps her subtly throughout her games.",
+          "attributePatches": [
               {
-                "name": "Base Armor",
-                "type": "None",
-                "before": 28,
-                "after": 26
+                  "name": "Base Stats",
+                  "imageUrl": "https://www.lakotamall.com/wp-content/uploads/2017/12/article-1-6.png",
+                  "changes": [
+                      {
+                          "name": "Health Regen",
+                          "flag": "",
+                          "before": "8",
+                          "after": "9",
+                          "removed": ""
+                      },
+                      {
+                          "name": "Health Regen Growth",
+                          "flag": "",
+                          "before": "0.5",
+                          "after": "0.9",
+                          "removed": ""
+                      }
+                  ]
               }
-            ]
-          },
-          {
-            "name": "Passive - Power Chord",
-            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaQ.png",
-            "changes": [
-              {
-                "name": "Damage increases by",
-                "type": "BUGFIX",
-                "before": "20-245 (based on level)",
-                "after": "20-240 (based on level)"
-              }
-            ]
-          }
-        ]
+          ]
       },
-      { 
-        "name": "Zed",
-        "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Aatrox.png",
-        "patchSummary": "Base armor reduced. Passive damage bug fixed. Q can no longer target hidden enemies. Power Chord E bug fixed.",
-        "patchComment": "Sona's songs have been a bit too powerful, especially in Skilled play. In addition to a few bugfixes, we're nerfing her base defenses a bit, all of which should add up to an appropriate nerf for the virtuoso.",
-        "attributePatches": [
-          {
-            "name": "Base Stats",
-            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaE.png",
-            "changes": [
+      {
+          "name": "Cho'Gath",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Chogath.png",
+          "summary": "Q cooldown decreased.",
+          "comment": "Despite being terrifyingly tanky, Cho'Gath is still weak across the board. We're increasing his CC and zoning capabilities so that he has more influence in fights.",
+          "attributePatches": [
               {
-                "name": "Base Armor",
-                "type": "None",
-                "before": 28,
-                "after": 26
+                  "name": "Q - Rupture",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/Rupture.png",
+                  "changes": [
+                      {
+                          "name": "Cooldown",
+                          "flag": "",
+                          "before": "7 seconds",
+                          "after": "6 seconds",
+                          "removed": ""
+                      }
+                  ]
               }
-            ]
-          },
-          {
-            "name": "Passive - Power Chord",
-            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaQ.png",
-            "changes": [
+          ]
+      },
+      {
+          "name": "Fizz",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Fizz.png",
+          "summary": "Passive damage reduction against basic attacks removed. W damage reduced. E cooldown decreased late. R damage increased.",
+          "comment": "The 11.18 changes were an unintentional nerf to Fizz. We overestimated the Passive and W buffs and underestimated the R nerf. Rather than trying to fine tune those changes, we're reverting them entirely and doing a simpler buff instead. Go fish!",
+          "attributePatches": [
               {
-                "name": "Damage increases by",
-                "type": "BUGFIX",
-                "before": "20-245 (based on level)",
-                "after": "20-240 (based on level)"
+                  "name": "Passive - Nimble Fighter",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/passive/Fizz_P.png",
+                  "changes": [
+                      {
+                          "name": "BACK TO THE BASICS",
+                          "flag": "removed",
+                          "before": "",
+                          "after": "",
+                          "removed": "Bonus damage reduction against champion basic attacks removed"
+                      }
+                  ]
+              },
+              {
+                  "name": "W - Seastone Trident",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/FizzW.png",
+                  "changes": [
+                      {
+                          "name": "On-Hit Damage",
+                          "flag": "",
+                          "before": "20/25/30/35/40 (+35% AP)",
+                          "after": "10/15/20/25/30 (+35% AP)",
+                          "removed": ""
+                      }
+                  ]
+              },
+              {
+                  "name": "E - Playful / Trickster",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/FizzE.png",
+                  "changes": [
+                      {
+                          "name": "Cooldown",
+                          "flag": "",
+                          "before": "16/14.5/13/11.5/10 seconds",
+                          "after": "16/14/12/10/8 seconds",
+                          "removed": ""
+                      }
+                  ]
+              },
+              {
+                  "name": "R - Chum the Waters",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/FizzR.png",
+                  "changes": [
+                      {
+                          "name": "Guppy Damage",
+                          "flag": "",
+                          "before": "150/225/300 (+70% AP)",
+                          "after": "150/250/350 (+80% AP)",
+                          "removed": ""
+                      },
+                      {
+                          "name": "Chomper Damage",
+                          "flag": "",
+                          "before": "200/275/300 (+85% AP)",
+                          "after": "225/325/425 (+100% AP)",
+                          "removed": ""
+                      },
+                      {
+                          "name": "Gigalodon Damage",
+                          "flag": "",
+                          "before": "250/325/400 (+100% AP)",
+                          "after": "300/400/500 (+120% AP)",
+                          "removed": ""
+                      }
+                  ]
               }
-            ]
-          }
-        ]
+          ]
+      },
+      {
+          "name": "Galio",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Galio.png",
+          "summary": "W cooldown now decreases with rank.",
+          "comment": "",
+          "attributePatches": [
+              {
+                  "name": "W - Shield of Durand",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/GalioW.png",
+                  "changes": [
+                      {
+                          "name": "Cooldown",
+                          "flag": "",
+                          "before": "18 seconds",
+                          "after": "18/17.5/17/16.5/16 seconds",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Gragas",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Gragas.png",
+          "summary": "W damage AP scaling increased.",
+          "comment": "Gragas didn't benefit much from the Predator changes last patch, so he's still pretty weak. We're helping his various AP builds pack more of a punch and speed up his mid-game clear. However, please remember to always drink responsibly.",
+          "attributePatches": [
+              {
+                  "name": "W - Drunken Rage",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/GragasW.png",
+                  "changes": [
+                      {
+                          "name": "Bonus Magic Damage",
+                          "flag": "",
+                          "before": "20/50/80/110/140 (+7% target's maximum health) (+60% AP)",
+                          "after": "20/50/80/110/140 (+7% of target's maximum health) (+70% AP)",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Gwen",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Gwen.png",
+          "summary": "Base health regen increased.",
+          "comment": "Gwen's E nerf in 11.15 was effective in snipping her overwhelming early lane power, especially in Pro. Now, similar to Akali's situation, there's room to weave in some more durability for Gwen players at all levels.",
+          "attributePatches": [
+              {
+                  "name": "Base Stats",
+                  "imageUrl": "https://www.lakotamall.com/wp-content/uploads/2017/12/article-1-6.png",
+                  "changes": [
+                      {
+                          "name": "Health Regen",
+                          "flag": "",
+                          "before": "7",
+                          "after": "8.5",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Kennen",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Kennen.png",
+          "summary": "Q damage decreased.",
+          "comment": "Kennen's been on a dramatic rise in Pro priority since our changes in 11.15. We\u2019re reducing his power by walking back on those changes slightly.",
+          "attributePatches": [
+              {
+                  "name": "Q - Thundering Shuriken",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/KennenShurikenHurlMissile1.png",
+                  "changes": [
+                      {
+                          "name": "Damage",
+                          "flag": "",
+                          "before": "85/130/175/220/265 (+80% AP)",
+                          "after": "75/120/165/210/255 (+75% AP)",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Mordekaiser",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Mordekaiser.png",
+          "summary": "E cooldown decreased early.",
+          "comment": "Mordekaiser's bummed that he\u2019s been falling behind his peers. We don\u2019t want the god of metal to be the butt of jokes, so we\u2019re buffing him for skilled players by granting him more access to his most flexible spell.",
+          "attributePatches": [
+              {
+                  "name": "E - Death's Grasp",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/MordekaiserE.png",
+                  "changes": [
+                      {
+                          "name": "Cooldown",
+                          "flag": "",
+                          "before": "22/19/16/13/10 seconds",
+                          "after": "18/16/14/12/10 seconds",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Poppy",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Poppy.png",
+          "summary": "Passive cooldown decreased.",
+          "comment": "Poppy hasn't been looking too heroic lately, especially in top lane. We're enhancing her early lane power so that she can take greater advantage of favorable matchups, which should also make her more appealing as a Pro pick in specific situations.",
+          "attributePatches": [
+              {
+                  "name": "Passive - Iron Ambassador",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/passive/Poppy_Passive.png",
+                  "changes": [
+                      {
+                          "name": "Cooldown",
+                          "flag": "",
+                          "before": "16/12/8 seconds (at levels 1/7/13)",
+                          "after": "13/10/7 seconds (at levels 1/7/13)",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Qiyana",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Qiyana.png",
+          "summary": "E+Q combo targeting on dashing targets adjusted. Q bonus damage against monsters increased.",
+          "comment": "",
+          "attributePatches": [
+              {
+                  "name": "Q - Edge of Ixtal",
+                  "imageUrl": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt08a38223e8a01ca8/6142a5ae8ab9337efb40343e/092121_Qiyana_Edge_of_Ixtal_Icon.png",
+                  "changes": [
+                      {
+                          "name": "CATCH ME ONLY IF YOU CAN",
+                          "flag": "updated",
+                          "before": "",
+                          "after": "If the target of Qiyana's E+Q combo is still within Qiyana's default attack range (150 units) of Qiyana at the end of her E, it will not be dodgeable",
+                          "removed": ""
+                      },
+                      {
+                          "name": "Bonus Damage VS Monsters",
+                          "flag": "",
+                          "before": "25%",
+                          "after": "50%",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Renekton",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Renekton.png",
+          "summary": "Base health and health growth increased. W self-lockout duration decreased and empowered animation sped up.",
+          "comment": "We over swung on Renekton's nerf last patch. We still believe reducing the stun on his empowered W was a step in the right direction to mitigate his Pro dominance, so we're improving its look and feel. We're also giving him more chances to start fights and increasing his tankiness.",
+          "attributePatches": [
+              {
+                  "name": "W - Ruthless Predator",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/RenektonPreExecute.png",
+                  "changes": [
+                      {
+                          "name": "FAST FORWARD",
+                          "flag": "updated",
+                          "before": "",
+                          "after": "Empowered animation sped up by ~13%",
+                          "removed": ""
+                      },
+                      {
+                          "name": "Self-Lockout Duration",
+                          "flag": "",
+                          "before": "0.525 seconds",
+                          "after": "0.375 seconds (for both normal and empowered)",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Ryze",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Ryze.png",
+          "summary": "Q AP ratio reduced. E cooldown increased.",
+          "comment": "Ryze has risen above the other mid laners in most regions. We're nerfing his overall output to ensure he doesn't completely dominate at Worlds.",
+          "attributePatches": [
+              {
+                  "name": "Q - Overload",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/RyzeQWrapper.png",
+                  "changes": [
+                      {
+                          "name": "Magic Damage",
+                          "flag": "",
+                          "before": "75/100/125/150/175 (+45% AP) (+3% bonus mana)",
+                          "after": "75/100/125/150/175 (+40% AP) (+3% bonus mana)",
+                          "removed": ""
+                      }
+                  ]
+              },
+              {
+                  "name": "E - Spell Flux",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/RyzeE.png",
+                  "changes": [
+                      {
+                          "name": "Cooldown",
+                          "flag": "",
+                          "before": "3.25/3/2.75/2.5/2.25 seconds",
+                          "after": "3.5/3.25/3/2.75/2.5 seconds",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Sejuani",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Sejuani.png",
+          "summary": "Q cooldown decreased and damage increased.",
+          "comment": "Sejuani has been a bit of a boar lately. We\u2019re slightly boosting her damage and giving her more access to her Q so she can stir up some more action!",
+          "attributePatches": [
+              {
+                  "name": "Q - Arctic Assault",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SejuaniQ.png",
+                  "changes": [
+                      {
+                          "name": "Cooldown",
+                          "flag": "",
+                          "before": "20/18/16/14/12 seconds",
+                          "after": "18/16.5/15/13.5/12 seconds",
+                          "removed": ""
+                      },
+                      {
+                          "name": "Damage",
+                          "flag": "",
+                          "before": "80/130/180/230/280 (+60% AP)",
+                          "after": "90/140/190/240/290 (+60% AP)",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Seraphine",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Seraphine.png",
+          "summary": "R cooldown decreased.",
+          "comment": "",
+          "attributePatches": [
+              {
+                  "name": "R - Encore",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SeraphineR.png",
+                  "changes": [
+                      {
+                          "name": "Cooldown",
+                          "flag": "",
+                          "before": "180/150/120 seconds",
+                          "after": "160/130/100 seconds",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Sion",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Sion.png",
+          "summary": "W shield increased.",
+          "comment": "Sion isn't doing so hot right now, so we're carefully buffing his shield to help him lane more stably.",
+          "attributePatches": [
+              {
+                  "name": "W - Soul Furnace",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SionW.png",
+                  "changes": [
+                      {
+                          "name": "Shield",
+                          "flag": "",
+                          "before": "50/75/100/125/150 (+40% AP) (+8/9/10/11/12% maximum health)",
+                          "after": "60/85/110/135/160 (+40% AP) (+8/9/10/11/12% maximum health)",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Sona",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Sona.png",
+          "summary": "Base armor reduced. Passive damage bug fixed. Q can no longer target hidden enemies. Power Chord E bug fixed.",
+          "comment": "Sona's songs have been a bit too powerful, especially in Skilled play. In addition to a few bugfixes, we're nerfing her base defenses a bit, all of which should add up to an appropriate nerf for the virtuoso.",
+          "attributePatches": [
+              {
+                  "name": "Passive - Power Chord",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/passive/Sona_Passive_Charged.png",
+                  "changes": [
+                      {
+                          "name": "BUGFIX",
+                          "flag": "",
+                          "before": "20-245 (based on level)",
+                          "after": "20-240 (based on level)",
+                          "removed": ""
+                      }
+                  ]
+              },
+              {
+                  "name": "Q - Hymn of Valor",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaQ.png",
+                  "changes": [
+                      {
+                          "name": "BUGFIX",
+                          "flag": "",
+                          "before": "",
+                          "after": "No longer targets enemies Sona cannot see",
+                          "removed": ""
+                      }
+                  ]
+              },
+              {
+                  "name": "E - Song of Celerity",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaE.png",
+                  "changes": [
+                      {
+                          "name": "BUGFIX",
+                          "flag": "",
+                          "before": "",
+                          "after": "Power Chord - Tempo's slow no longer bypasses the target's slow reduction effects",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Soraka",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Soraka.png",
+          "summary": "R healing decreased.",
+          "comment": "Soraka got a bit too powerful with her new ability to cleanse Grievous Wounds before applying her buffed ult's heal. We still think this strategy works to help her against heal reduction, so we're just tapping down the numbers.",
+          "attributePatches": [
+              {
+                  "name": "R - Wish",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SorakaR.png",
+                  "changes": [
+                      {
+                          "name": "Base Heal",
+                          "flag": "",
+                          "before": "150/250/350 (+55% AP)",
+                          "after": "130/215/300 (+55% AP)",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Sylas",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Sylas.png",
+          "summary": "Base mana and mana regen increased.",
+          "comment": "Our 11.15 nerfs to Sylas's Q and W restrained him more than intended. We're offering him back some power by easing up on his mana constraints in lane, allowing him to be more proactive with his spells earlier in the game.",
+          "attributePatches": [
+              {
+                  "name": "Base Stats",
+                  "imageUrl": "https://www.lakotamall.com/wp-content/uploads/2017/12/article-1-6.png",
+                  "changes": [
+                      {
+                          "name": "Base Mana",
+                          "flag": "",
+                          "before": "280",
+                          "after": "310",
+                          "removed": ""
+                      },
+                      {
+                          "name": "Base Mana Regen",
+                          "flag": "",
+                          "before": "7",
+                          "after": "8",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Varus",
+          "isNew": false,
+          "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Varus.png",
+          "summary": "Q cooldown increased.",
+          "comment": "",
+          "attributePatches": [
+              {
+                  "name": "Q - Piercing Arrow",
+                  "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/VarusQ.png",
+                  "changes": [
+                      {
+                          "name": "Cooldown",
+                          "flag": "",
+                          "before": "16/14.5/13/11.5/10 seconds",
+                          "after": "16/15/14/13/12 seconds",
+                          "removed": ""
+                      }
+                  ]
+              }
+          ]
       }
-    ]
-  }
+  ],
+  "patchVersion": "11.19"
+}

@@ -4,7 +4,7 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 
 .card-container {
-    text-align: center;
+    text-align: left;
     display: flex;
     flex-wrap: wrap;
     margin: -0.5rem;
@@ -30,7 +30,7 @@
 }
 
 .change-container {
-    padding-left: 40px;
+    padding-left: 55px;
 }
 
 .section {
@@ -42,10 +42,20 @@
 
 .attribute-name {
     font-size: 20px;
+    font-weight: 500;
+    padding-left: 15px;
 }
 
 .flex {
     display: flex;
+}
+
+.change-before {
+    color: #E02401;
+}
+
+.change-after {
+    color:green;
 }
 
 .champ-name {
@@ -55,12 +65,20 @@
 }
 .card {
   position: relative;
+  border-radius: 10px;
+  min-height: 500px;
+  max-height: 500px;
+  overflow: hidden;
 
   &.card-plain {
     background: transparent;
     box-shadow: none;
     border: none;
   }
+}
+
+.card-body {
+    padding: 20px;
 }
 
 $transition-base:             all .15s ease !default;
@@ -157,5 +175,6 @@ $transition-collapse:         height .35s ease !default;
     &:hover {
         transform: translateY(-20px);
         @include transition($transition-base);
+        max-height: max-content;
     }
 }
