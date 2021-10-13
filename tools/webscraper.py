@@ -68,12 +68,10 @@ def retrieve_all_attribute_patches(champion_container):
         elif h3_find:
             itr = h3_find
 
-    print(itr)
     while not itr == None:
         if not (itr.name == 'hr' and itr.get('class') == 'divider'):
             attribute_patch = {}
             if itr.name == 'h4' or itr.name == 'h3':
-                print(itr.get('class'))
                 if len(itr.get('class')) > 1:
                     if itr.get('class')[0] == 'change-detail-title' and itr.get('class')[1] == 'ability-title':
                         attribute_patch['name'] = itr.contents[1] # index 1 contains the name, index 0 contains the img element 
