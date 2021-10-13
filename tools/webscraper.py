@@ -78,7 +78,7 @@ def retrieve_all_attribute_patches(champion_container):
                         attribute_patch['imageUrl'] = itr.contents[0]['src']
                 else:
                     attribute_patch['name'] = itr.string
-                    attribute_patch['imageUrl'] = ""
+                    attribute_patch['imageUrl'] = "https://www.lakotamall.com/wp-content/uploads/2017/12/article-1-6.png"
 
                 attribute_patch['changes'] = []
                 itr = itr.next_sibling
