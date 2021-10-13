@@ -1,0 +1,101 @@
+{
+    "fetchedTimestamp": "2021-10-13 13:50:31.181971",
+    "champions": [
+      { 
+        "name": "Sona",
+        "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Aatrox.png",
+        "patchSummary": "Base armor reduced. Passive damage bug fixed. Q can no longer target hidden enemies. Power Chord E bug fixed.",
+        "patchComment": "Sona's songs have been a bit too powerful, especially in Skilled play. In addition to a few bugfixes, we're nerfing her base defenses a bit, all of which should add up to an appropriate nerf for the virtuoso.",
+        "attributePatches": [
+          {
+            "name": "Base Stats",
+            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaE.png",
+            "changes": [
+              {
+                "name": "Base Armor",
+                "type": "None",
+                "before": 28,
+                "after": 26
+              }
+            ]
+          },
+          {
+            "name": "Passive - Power Chord",
+            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaQ.png",
+            "changes": [
+              {
+                "name": "Damage increases by",
+                "type": "BUGFIX",
+                "before": "20-245 (based on level)",
+                "after": "20-240 (based on level)"
+              }
+            ]
+          }
+        ]
+      },
+      { 
+        "name": "Rammus",
+        "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Aatrox.png",
+        "patchSummary": "Base armor reduced. Passive damage bug fixed. Q can no longer target hidden enemies. Power Chord E bug fixed.",
+        "patchComment": "Sona's songs have been a bit too powerful, especially in Skilled play. In addition to a few bugfixes, we're nerfing her base defenses a bit, all of which should add up to an appropriate nerf for the virtuoso.",
+        "attributePatches": [
+          {
+            "name": "Base Stats",
+            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaE.png",
+            "changes": [
+              {
+                "name": "Base Armor",
+                "type": "None",
+                "before": 28,
+                "after": 26
+              }
+            ]
+          },
+          {
+            "name": "Passive - Power Chord",
+            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaQ.png",
+            "changes": [
+              {
+                "name": "Damage increases by",
+                "type": "BUGFIX",
+                "before": "20-245 (based on level)",
+                "after": "20-240 (based on level)"
+              }
+            ]
+          }
+        ]
+      },
+      { 
+        "name": "Zed",
+        "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Aatrox.png",
+        "patchSummary": "Base armor reduced. Passive damage bug fixed. Q can no longer target hidden enemies. Power Chord E bug fixed.",
+        "patchComment": "Sona's songs have been a bit too powerful, especially in Skilled play. In addition to a few bugfixes, we're nerfing her base defenses a bit, all of which should add up to an appropriate nerf for the virtuoso.",
+        "attributePatches": [
+          {
+            "name": "Base Stats",
+            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaE.png",
+            "changes": [
+              {
+                "name": "Base Armor",
+                "type": "None",
+                "before": 28,
+                "after": 26
+              }
+            ]
+          },
+          {
+            "name": "Passive - Power Chord",
+            "icon": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/spell/SonaQ.png",
+            "changes": [
+              {
+                "name": "Damage increases by",
+                "type": "BUGFIX",
+                "before": "20-245 (based on level)",
+                "after": "20-240 (based on level)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
