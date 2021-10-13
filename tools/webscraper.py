@@ -25,6 +25,7 @@ def fetch_champions_patch_data(patch_content):
     itr = champions_start
     while not itr == None and not itr == champions_end:
         if not isinstance(itr, element.NavigableString):
+            is_new = True if not itr.find('span', attrs={'class': 'new'}) == None else False
             champion_name_tag = itr.find('h3', attrs={'class': 'change-title'})
             if not champion_name_tag == None:
                 champion_name = champion_name_tag.findChild().string
@@ -35,6 +36,7 @@ def fetch_champions_patch_data(patch_content):
 
                 champions_patch_data['champions'].append({
                     'name': champion_name,
+                    'isNew': is_new,
                     'imageUrl': champion_image,
                     'summary': champion_patch_summary,
                     'comment': champion_patch_comment.strip() if not champion_patch_comment == None else '',
