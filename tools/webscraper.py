@@ -35,10 +35,10 @@ def fetch_champions_patch_data(patch_content):
                 champion_attribute_patches = retrieve_all_attribute_patches(itr)
 
                 champions_patch_data['champions'].append({
-                    'name': champion_name,
+                    'name': champion_name.strip(),
                     'isNew': is_new,
                     'imageUrl': champion_image,
-                    'summary': champion_patch_summary,
+                    'summary': champion_patch_summary.strip(),
                     'comment': champion_patch_comment.strip() if not champion_patch_comment == None else '',
                     'attributePatches': champion_attribute_patches
                 })
@@ -74,7 +74,9 @@ def retrieve_all_attribute_patches(champion_container):
             if itr.name == 'h4' or itr.name == 'h3':
                 if len(itr.get('class')) > 1:
                     if itr.get('class')[0] == 'change-detail-title' and itr.get('class')[1] == 'ability-title':
-                        attribute_patch['name'] = itr.contents[1] # index 1 contains the name, index 0 contains the img element 
+                        if itr.contents[0] == '\n':
+                            itr.contents.pop(0)
+                        attribute_patch['name'] = itr.contents[1].strip() # index 1 contains the name, index 0 contains the img element 
                         attribute_patch['imageUrl'] = itr.contents[0]['src']
                 else:
                     attribute_patch['name'] = itr.string
