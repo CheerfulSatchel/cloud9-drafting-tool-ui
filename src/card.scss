@@ -1,0 +1,180 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.card-container {
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    margin: -0.5rem;
+}
+
+.icon {
+    border-radius: 15px;
+    height:80px;
+    
+}
+
+.icon-attribute {
+    border-radius: 10px;
+    height:40px;
+}
+
+.attribute-container {
+    text-align: left;
+}
+
+.attribute-header {
+    padding-bottom: 20px;
+}
+
+.change-container {
+    padding-left: 55px;
+}
+
+.section {
+    width: 400px;
+    margin: 1rem;
+    color: black;
+    font-size: 14px;
+}
+
+.attribute-name {
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 15px;
+}
+
+.flex {
+    display: flex;
+}
+
+.change-before {
+    color: #E02401;
+}
+
+.change-after {
+    color:green;
+}
+
+.champ-name {
+    font-size: 40px;
+    line-height: 80px;
+    margin-left: 20px;
+}
+.card {
+  position: relative;
+  border-radius: 10px;
+  min-height: 500px;
+  max-height: 500px;
+  overflow: hidden;
+
+  &.card-plain {
+    background: transparent;
+    box-shadow: none;
+    border: none;
+  }
+}
+
+.card-body {
+    padding: 20px;
+}
+
+$transition-base:             all .15s ease !default;
+$btn-transition:              $transition-base !default;
+$transition-fade:             opacity .15s linear !default;
+$transition-collapse:         height .35s ease !default;
+
+.profile-page {
+    .card-profile {
+        margin-top: -150px;
+
+        .card-profile-image {
+            position: relative;
+            //min-height: 130px;
+
+            img {
+                max-width: 180px;
+                border-radius: 10px;
+                @extend .shadow;
+                transform: translate(-50%,-30%);
+                position: absolute;
+                left: 50%;
+                transition: $transition-base;
+
+                &:hover {
+                    transform: translate(-50%, -33%);
+                }
+            }
+        }
+
+        .card-profile-stats {
+            padding: 1rem 0;
+
+            > div {
+                text-align: center;
+                margin-right: 1rem;
+                padding: .875rem;
+
+                &:last-child {
+                    margin-right: 0;
+                }
+
+                .heading {
+                    font-size: 1.1rem;
+                    font-weight: bold;
+                    display: block;
+                }
+                .description {
+                    font-size: .875rem;
+                    color: #000;
+                }
+            }
+        }
+
+        .card-profile-actions {
+            padding: .875rem;
+        }
+
+        // @include media-breakpoint-down(xs) {
+        //     .card-profile-actions {
+        //         margin-top: 110px;
+        //     }
+        // }
+
+        // @include media-breakpoint-between(sm, md) {
+        //     .card-profile-stats {
+        //         margin-top: 30px;
+        //     }
+        // }
+    }
+}
+
+// Card with blockquotes
+
+.card {
+  .card-blockquote {
+    padding: 2rem;
+    position: relative;
+
+    .svg-bg {
+        display: block;
+        width: 100%;
+        height: 95px;
+        position: absolute;
+        top: -94px;
+        left: 0;
+    }
+  }
+}
+
+// Animated cards
+
+.card-lift--hover {
+    &:hover {
+        transform: translateY(-20px);
+        @include transition($transition-base);
+        max-height: max-content;
+    }
+}
