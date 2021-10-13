@@ -54,20 +54,33 @@ def retrieve_all_attribute_patches(champion_container):
     attribute_patches = []
 
     itr = None
-    h4_find = champion_container.find('h4', attrs={'class': 'change-detail-title ability-title'})
-    if h4_find:
+    h4_ability_title_find = champion_container.find('h4', attrs={'class': 'change-detail-title ability-title'})
+    h4_find = champion_container.find('h4', attrs={'class': 'change-detail-title'})
+    if h4_ability_title_find:
+        itr = h4_ability_title_find
+    elif h4_find:
         itr = h4_find
     else:
-        h3_find = champion_container.find('h3', attrs={'class': 'change-detail-title ability-title'})
-        if h3_find:
+        h3_ability_title_find = champion_container.find('h3', attrs={'class': 'change-detail-title ability-title'})
+        h3_find = champion_container.find('h3', attrs={'class': 'change-detail-title'})
+        if h3_ability_title_find:
+            itr = h3_ability_title_find
+        elif h3_find:
             itr = h3_find
 
+    print(itr)
     while not itr == None:
         if not (itr.name == 'hr' and itr.get('class') == 'divider'):
             attribute_patch = {}
             if itr.name == 'h4' or itr.name == 'h3':
-                attribute_patch['name'] = itr.contents[1] # index 1 contains the name, index 0 contains the img element 
-                attribute_patch['imageUrl'] = itr.contents[0]['src']
+                print(itr.get('class'))
+                if len(itr.get('class')) > 1:
+                    if itr.get('class')[0] == 'change-detail-title' and itr.get('class')[1] == 'ability-title':
+                        attribute_patch['name'] = itr.contents[1] # index 1 contains the name, index 0 contains the img element 
+                        attribute_patch['imageUrl'] = itr.contents[0]['src']
+                else:
+                    attribute_patch['name'] = itr.string
+                    attribute_patch['imageUrl'] = ""
 
                 attribute_patch['changes'] = []
                 itr = itr.next_sibling
