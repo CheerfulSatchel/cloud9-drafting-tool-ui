@@ -39,7 +39,7 @@ const PatchNotes: React.FC<any> = () => {
                         Selected Champions: {selectedChampions.map((champName) => <span> {champName} |</span>)}
                     </div>
                     <div className="cc-info">
-                        CC: 00%
+                        CC: 0%
                     </div>
                 </div>
             </div>

@@ -51,12 +51,16 @@
 }
 
 .patch-notes-container {
- background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    background-image: url('https://images.alphacoders.com/941/thumb-1920-941325.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% auto;
 }
 
 .icon-attribute {
@@ -112,9 +116,21 @@
     color:green;
 }
 
+.champ-rates-pill {
+    padding-top: 5px;
+}
+
+.champ-win-rate {
+    margin-right: 10px;
+}
+
+.champ-buff-nerf-pill {
+    margin-left: 20px;
+    width: 40px;
+}
+
 .champ-name {
-    font-size: 40px;
-    line-height: 80px;
+    font-size: 30px;
     margin-left: 20px;
 }
 .card {
