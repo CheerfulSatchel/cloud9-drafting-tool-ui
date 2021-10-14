@@ -1,8 +1,7 @@
 import React from 'react';
 import ChampionCard from './champion-card/ChampionCard';
 import patchData from '../json/patch-11-19.json';
-
-import { FormGroup, Input, Label } from 'reactstrap';
+import { FormGroup, Input } from 'reactstrap';
 
 const PatchNotes: React.FC<any> = () => {
     const [selectedChampions, setSelectedChampions] = React.useState<string[]>([]);
@@ -31,7 +30,10 @@ const PatchNotes: React.FC<any> = () => {
     return <div className="patch-notes-container">
         <div className="header">
             <div className="flex">
-                <div className="page-title">Patch Update {patchData.patchVersion}</div>
+                <div className="page-title">
+                    <img src="https://www.pinpng.com/pngs/m/10-103779_cloud-9-c9-logo-hd-png-download.png" width="100" height="auto"/>
+                    <label>Patch Update {patchData.patchVersion}</label>
+                </div>
                 <div className="cc-container">
                     <div className="selected-champs">
                         Selected Champions: {selectedChampions.map((champName) => <span> {champName} |</span>)}
