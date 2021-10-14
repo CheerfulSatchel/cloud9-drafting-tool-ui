@@ -21,25 +21,36 @@ const PatchNotes: React.FC<any> = () => {
     const championCards = React.useMemo(() => 
         patchData.champions.map((championDatum) => 
                 <ChampionCard key={championDatum.name} champion={championDatum} onChampionSelected={onChampionSelected} filterValue={searchText} />)
-    , [searchText]);
+    , [searchText, selectedChampions]);
 
     const onSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
         const updatedSearchText = event.target.value;
         setSearchText(updatedSearchText);
     }
-
-    return <div>
-        <h1>Patch Update {patchData.patchVersion}</h1>
-        <FormGroup> 
-            <Label>Search</Label>
-            <Input
-                type="search"
-                name="search"
-                id="search"
-                placeholder="search for a champion"
-                onChange={onSearchChange}
-            />
-        </FormGroup>
+        
+    return <div className="patch-notes-container">
+        <div className="header">
+            <div className="flex">
+                <div className="page-title">Patch Update {patchData.patchVersion}</div>
+                <div className="cc-container">
+                    <div className="selected-champs">
+                        Selected Champions: {selectedChampions.map((champName) => <span> {champName} |</span>)}
+                    </div>
+                    <div className="cc-info">
+                        CC: 00%
+                    </div>
+                </div>
+            </div>
+            <FormGroup className="search-bar">
+                <Input
+                    type="search"
+                    name="search"
+                    id="search"
+                    placeholder="search champions"
+                    onChange={onSearchChange}
+                />
+            </FormGroup>
+        </div>
         <div className="card-container">
             {championCards}
         </div>

@@ -1,14 +1,6 @@
 {
     "champions": [
         {
-            "name": "Vex",
-            "isNew": true,
-            "imageUrl": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt09136a693a12c3fa/61428cc28440e97ef5826c40/092121_Vex_Champion_Icon.png",
-            "summary": "The Gloomist",
-            "comment": "Cast doom, gloom, and existential dread (or whatever) with Vex and her shadow on September 23!",
-            "attributePatches": []
-        },
-        {
             "name": "Aatrox",
             "isNew": false,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Aatrox.png",
