@@ -37,21 +37,13 @@ function ChampionCard(data: any) {
                         <div>
                           {attribute.changes.map((change: any) => {
                             return <div className="change-container">
-                                <span>{change.name + ": " } </span> <span className="change-before"> {change.before}</span> ⇒ <span className="change-after"> {change.after}</span>
+                                <span>{change.flag && <span className="change-tag">{`[${change.flag}]`}</span>}{change.name + ": " } </span> <span className="change-before"> {change.before}</span> ⇒ <span className="change-after"> {change.after}</span>
                               </div>
                             })}
                         </div>
                       </div>
                     })}
                   </div>
-                  {/* <Button
-                    className="mt-4"
-                    color="primary"
-                    href="#pablo"
-                    onClick={e => e.preventDefault()}
-                  >
-                    button
-                  </Button> */}
                 </CardBody>
               </Card>
          

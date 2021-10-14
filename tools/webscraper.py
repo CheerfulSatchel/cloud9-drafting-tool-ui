@@ -104,8 +104,7 @@ def retrieve_all_attribute_patches(champion_container):
                             'name': attribute_change_name,
                             'flag': attribute_change_flag_text,
                             'before': attribute_before_change,
-                            'after': attribute_after_change,
-                            'removed': attribute_removed_change
+                            'after': attribute_after_change if not attribute_after_change == '' else attribute_removed_change
                         })
 
                     itr = itr.next_sibling
