@@ -1,21 +1,10 @@
 import React from 'react';
 import {
-    Badge,
-    Button,
     Card,
     CardBody,
-    CardImg,
-    FormGroup,
-    Input,
-    InputGroupAddon,
-    InputGroupText,
-    InputGroup,
-    Container,
-    Row,
-    Col
   } from "reactstrap";
 
-function ChampionCard(data: any) {
+const ChampionCard: React.FC<any> = (data: any) => {
     data = data.data;
     return <section className="section">
               <Card className="card-lift--hover shadow border-0">
