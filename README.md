@@ -7,8 +7,6 @@ This data is transformed into a JSON object for the UI to consume.
 
 The website, built using React with TypeScript, shows a rundown for all the changes to champions in a given patch.
 
-Thank you!
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -37,3 +35,6 @@ cd tools
 pip install -r requirements.txt
 python .\webscraper.py
 ```
+
+Thank you!
+
