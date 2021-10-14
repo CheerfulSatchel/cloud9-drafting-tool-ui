@@ -13,10 +13,24 @@ const PatchNotes: React.FC<any> = () => {
             updatedSelectedChampions.splice(updatedSelectedChampions.indexOf(selectedChampion), 1);
         }
         setSelectedChampions(updatedSelectedChampions);
+
+
     };
 
-    return <div>
-        <h1>Patch Update {patchData.patchVersion}</h1>
+    return <div className="patch-notes-container">
+        <div className="header">
+            <div className="flex">
+                <div className="page-title">Patch Update {patchData.patchVersion}</div>
+                <div className="cc-container">
+                    <div className="selected-champs">
+                        Selected Champions: {selectedChampions.map((champName) => <span> {champName} |</span>)}
+                    </div>
+                    <div className="cc-info">
+                        CC: 00%
+                    </div>
+                </div>
+            </div>
+        </div>
         <h2>{selectedChampions.length}</h2>
         <div className="card-container">
             {patchData.champions.map((champion) => <ChampionCard key={champion.name} champion={champion} onChampionSelected={onChampionSelected} />)}

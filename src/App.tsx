@@ -6,9 +6,7 @@ import PatchNotes from './patch-notes/PatchNotes';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <PatchNotes />
-      </header>
+      <PatchNotes />
     </div>
   );
 }
