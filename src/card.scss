@@ -8,12 +8,53 @@
     display: flex;
     flex-wrap: wrap;
     margin: -0.5rem;
+    padding: 70px 15px 15px 15px;
+    
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    background-color: black;
+    width: 100%;
+    z-index: 5;
+}
+
+.page-title {
+    font-size: 40px;
+    font-weight: 500;
+    width: 45%;
 }
 
 .icon {
     border-radius: 15px;
     height:80px;
     
+}
+
+.selected-champs {
+  font-size: 20px;
+  text-align: right;
+  padding-right: 15px;
+}
+
+.cc-container {
+    width: 700px;
+    margin-left: auto;
+}
+
+.cc-info {
+    padding-right: 15px;
+    text-align: right;
+}
+
+.patch-notes-container {
+ background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
 
 .icon-attribute {
