@@ -2,8 +2,11 @@ import React from 'react';
 import ChampionCard from './champion-card/ChampionCard';
 import patchData from '../json/patch-11-19.json';
 
+import { FormGroup, Input, Label } from 'reactstrap';
+
 const PatchNotes: React.FC<any> = () => {
     const [selectedChampions, setSelectedChampions] = React.useState<string[]>([]);
+    const [searchText, setSearchText] = React.useState<string>("");
 
     const onChampionSelected = (selectedChampion: string) => {
         const updatedSelectedChampions = [...selectedChampions];
@@ -13,10 +16,18 @@ const PatchNotes: React.FC<any> = () => {
             updatedSelectedChampions.splice(updatedSelectedChampions.indexOf(selectedChampion), 1);
         }
         setSelectedChampions(updatedSelectedChampions);
-
-
     };
 
+    const championCards = React.useMemo(() => 
+        patchData.champions.map((championDatum) => 
+                <ChampionCard key={championDatum.name} champion={championDatum} onChampionSelected={onChampionSelected} filterValue={searchText} />)
+    , [searchText, selectedChampions]);
+
+    const onSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+        const updatedSearchText = event.target.value;
+        setSearchText(updatedSearchText);
+    }
+        
     return <div className="patch-notes-container">
         <div className="header">
             <div className="flex">
@@ -30,10 +41,18 @@ const PatchNotes: React.FC<any> = () => {
                     </div>
                 </div>
             </div>
+            <FormGroup className="search-bar">
+                <Input
+                    type="search"
+                    name="search"
+                    id="search"
+                    placeholder="search champions"
+                    onChange={onSearchChange}
+                />
+            </FormGroup>
         </div>
-        <h2>{selectedChampions.length}</h2>
         <div className="card-container">
-            {patchData.champions.map((champion) => <ChampionCard key={champion.name} champion={champion} onChampionSelected={onChampionSelected} />)}
+            {championCards}
         </div>
     </div>;
 }
