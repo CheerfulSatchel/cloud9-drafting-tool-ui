@@ -3,12 +3,12 @@ import {
     Card,
     CardBody,
   } from "reactstrap";
-import { isPropertySignature } from 'typescript';
 
 interface ChampionCardProps {
   key: string;
   champion: any;
   onChampionSelected: (selectedChampion: string) => void;
+  filterValue: string;
 }
 
 const SelectedStyle: React.CSSProperties = {
@@ -19,21 +19,44 @@ const UnselectedStyle: React.CSSProperties = {
   border: "10px solid #ffffff"
 };
 
+const HiddenStyle: React.CSSProperties = {
+  display: "none"
+};
+
+const VisibleStyle: React.CSSProperties = {
+  display: "block"
+};
+
 const ChampionCard: React.FC<ChampionCardProps> = ({
   key,
   champion,
-  onChampionSelected
+  onChampionSelected,
+  filterValue
 }) => {
 
     const data = React.useMemo(() => champion, [champion]);
     const [isSelected, setIsSelected] = React.useState<boolean>(false);
+    const [visibilityStyle, setVisibilityStyle] = React.useState<React.CSSProperties>(VisibleStyle);
 
     const onCardClick = () => {
       onChampionSelected(data.name);
       setIsSelected(!isSelected);
     };
 
-    return <section className="section">
+    React.useEffect(() => {
+      if (filterValue) {
+        if (!data.name.toLowerCase().includes(filterValue.toLowerCase())) {
+          setVisibilityStyle(HiddenStyle);
+        }
+      } else {
+        setVisibilityStyle(VisibleStyle);
+      }
+     }, [filterValue]);
+
+    return <section 
+              className="section"
+              style={visibilityStyle}
+              >
               <Card 
                 className="card-lift--hover shadow border-0"
                 onClick={onCardClick}
