@@ -1,25 +1,44 @@
 import React from 'react';
 import {
-    Badge,
-    Button,
     Card,
     CardBody,
-    CardImg,
-    FormGroup,
-    Input,
-    InputGroupAddon,
-    InputGroupText,
-    InputGroup,
-    Container,
-    Row,
-    Col
   } from "reactstrap";
+import { isPropertySignature } from 'typescript';
 
-function ChampionCard(data: any) {
-    data = data.data;
+interface ChampionCardProps {
+  key: string;
+  champion: any;
+  onChampionSelected: (selectedChampion: string) => void;
+}
+
+const SelectedStyle: React.CSSProperties = {
+  border: "10px solid #3996f3"
+};
+
+const UnselectedStyle: React.CSSProperties = {
+  border: "10px solid #ffffff"
+};
+
+const ChampionCard: React.FC<ChampionCardProps> = ({
+  key,
+  champion,
+  onChampionSelected
+}) => {
+
+    const data = React.useMemo(() => champion, [champion]);
+    const [isSelected, setIsSelected] = React.useState<boolean>(false);
+
+    const onCardClick = () => {
+      onChampionSelected(data.name);
+      setIsSelected(!isSelected);
+    };
+
     return <section className="section">
-              <Card className="card-lift--hover shadow border-0">
-                <CardBody className="card-body">
+              <Card 
+                className="card-lift--hover shadow border-0"
+                onClick={onCardClick}
+                >
+                <CardBody className="card-body" style={isSelected ? SelectedStyle : UnselectedStyle}>
                   <div className="flex">
                     <img className="icon" src={data.imageUrl}></img>
                     <div className="text-primary champ-name text-uppercase">
