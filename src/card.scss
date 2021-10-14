@@ -8,7 +8,7 @@
     display: flex;
     flex-wrap: wrap;
     margin: -0.5rem;
-    padding: 150px 15px 15px 15px;
+    padding: 155px 15px 15px 15px;
     
 }
 
@@ -18,12 +18,14 @@
     background-color: black;
     width: 100%;
     z-index: 5;
+    padding-left: 1rem;
 }
 
 .page-title {
     font-size: 40px;
     font-weight: 500;
     width: 45%;
+    padding-top: 10px;
 }
 
 .icon {
