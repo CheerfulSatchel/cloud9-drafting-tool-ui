@@ -3,12 +3,42 @@ import {
     Card,
     CardBody,
   } from "reactstrap";
+import { isPropertySignature } from 'typescript';
 
-const ChampionCard: React.FC<any> = (data: any) => {
-    data = data.data;
+interface ChampionCardProps {
+  key: string;
+  champion: any;
+  onChampionSelected: (selectedChampion: string) => void;
+}
+
+const SelectedStyle: React.CSSProperties = {
+  border: "10px solid #3996f3"
+};
+
+const UnselectedStyle: React.CSSProperties = {
+  border: "10px solid #ffffff"
+};
+
+const ChampionCard: React.FC<ChampionCardProps> = ({
+  key,
+  champion,
+  onChampionSelected
+}) => {
+
+    const data = React.useMemo(() => champion, [champion]);
+    const [isSelected, setIsSelected] = React.useState<boolean>(false);
+
+    const onCardClick = () => {
+      onChampionSelected(data.name);
+      setIsSelected(!isSelected);
+    };
+
     return <section className="section">
-              <Card className="card-lift--hover shadow border-0">
-                <CardBody className="card-body">
+              <Card 
+                className="card-lift--hover shadow border-0"
+                onClick={onCardClick}
+                >
+                <CardBody className="card-body" style={isSelected ? SelectedStyle : UnselectedStyle}>
                   <div className="flex">
                     <img className="icon" src={data.imageUrl}></img>
                     <div className="text-primary champ-name text-uppercase">
