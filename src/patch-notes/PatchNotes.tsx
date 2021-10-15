@@ -19,7 +19,7 @@ const PatchNotes: React.FC<any> = () => {
 
     const championCards = React.useMemo(() => 
         patchData.champions.map((championDatum) => 
-                <ChampionCard key={championDatum.name} champion={championDatum} onChampionSelected={onChampionSelected} filterValue={searchText} />)
+                <ChampionCard key={championDatum.name} currentPatchVersion={patchData.patchVersion} champion={championDatum} onChampionSelected={onChampionSelected} filterValue={searchText} />)
     , [searchText, selectedChampions]);
 
     const onSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
