@@ -243,7 +243,8 @@ $transition-collapse:         height .35s ease !default;
 
 .card-lift--hover {
     &:hover {
-        transform: translateY(-20px);
+        transform: scale(1.05);
+        transition: all 300ms;
         @include transition($transition-base);
         max-height: max-content;
     }
