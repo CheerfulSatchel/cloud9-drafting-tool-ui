@@ -6,6 +6,9 @@ The webscraper, built using Python 3.6 and the Beautiful Soup package, parses th
 This data is transformed into a JSON object for the UI to consume.
 
 The website, built using React with TypeScript, shows a rundown for all the changes to champions in a given patch.
+![Hackathon_2021](https://user-images.githubusercontent.com/11247624/137411810-21598747-098b-4a2e-bd86-e2ba07a4408e.PNG)
+
+
 
 ## Available Scripts
 
