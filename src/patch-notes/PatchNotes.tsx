@@ -39,7 +39,7 @@ const PatchNotes: React.FC<any> = () => {
         <div className="header">
             <div className="flex">
                 <div className="page-title">
-                    <img src="https://www.pinpng.com/pngs/m/10-103779_cloud-9-c9-logo-hd-png-download.png" width="100" height="auto"/>
+                    <img className="cloud9-logo" src="https://happygamer.com/wp-content/uploads/2020/09/6073898bd522c3c2125f4e2873866acd.png" width="100" height="auto"/>
                     <label>Patch Update {patchData.patchVersion}</label>
                 </div>
                 <div className="cc-container">
