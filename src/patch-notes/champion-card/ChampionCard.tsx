@@ -100,7 +100,7 @@ const ChampionCard: React.FC<ChampionCardProps> = ({
                   </div>
                   <div className="champ-rates-pill">
                     <Badge color="primary" pill className="champ-win-rate">{`Win rate: ${winBadgeText}`}</Badge>
-                    <Badge color="warning" pill>{`Pick rate: ${pickBadgeText}`}</Badge>
+                    <Badge color="warning" pill className="champ-pick-rate">{`Pick rate: ${pickBadgeText}`}</Badge>
                   </div>
                   <p className="description mt-1">
                     {data.summary}
