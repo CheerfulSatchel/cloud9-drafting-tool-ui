@@ -1,0 +1,4706 @@
+{
+  "champions": [
+    {
+      "name": "Annie",
+      "id": 1,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 6,
+          "totalGames": 246,
+          "picks": 11,
+          "winRate": "0.0244",
+          "pickRate": "0.0448"
+        },
+        {
+          "patch": "11.18",
+          "wins": 46,
+          "totalGames": 2805,
+          "picks": 111,
+          "winRate": "0.0164",
+          "pickRate": "0.0396"
+        },
+        {
+          "patch": "11.19",
+          "wins": 71,
+          "totalGames": 3686,
+          "picks": 146,
+          "winRate": "0.0193",
+          "pickRate": "0.0397"
+        }
+      ]
+    },
+    {
+      "name": "Olaf",
+      "id": 2,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 9,
+          "winRate": "0.0122",
+          "pickRate": "0.0366"
+        },
+        {
+          "patch": "11.18",
+          "wins": 88,
+          "totalGames": 2805,
+          "picks": 160,
+          "winRate": "0.0314",
+          "pickRate": "0.0571"
+        },
+        {
+          "patch": "11.19",
+          "wins": 79,
+          "totalGames": 3686,
+          "picks": 164,
+          "winRate": "0.0215",
+          "pickRate": "0.0445"
+        }
+      ]
+    },
+    {
+      "name": "Galio",
+      "id": 3,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 12,
+          "winRate": "0.0204",
+          "pickRate": "0.0488"
+        },
+        {
+          "patch": "11.18",
+          "wins": 106,
+          "totalGames": 2805,
+          "picks": 206,
+          "winRate": "0.0378",
+          "pickRate": "0.0735"
+        },
+        {
+          "patch": "11.19",
+          "wins": 159,
+          "totalGames": 3686,
+          "picks": 316,
+          "winRate": "0.0432",
+          "pickRate": "0.0858"
+        }
+      ]
+    },
+    {
+      "name": "TwistedFate",
+      "id": 4,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 6,
+          "totalGames": 246,
+          "picks": 11,
+          "winRate": "0.0244",
+          "pickRate": "0.0448"
+        },
+        {
+          "patch": "11.18",
+          "wins": 79,
+          "totalGames": 2805,
+          "picks": 157,
+          "winRate": "0.0282",
+          "pickRate": "0.056"
+        },
+        {
+          "patch": "11.19",
+          "wins": 56,
+          "totalGames": 3686,
+          "picks": 131,
+          "winRate": "0.0152",
+          "pickRate": "0.0356"
+        }
+      ]
+    },
+    {
+      "name": "Ornn",
+      "id": 516,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 6,
+          "totalGames": 246,
+          "picks": 8,
+          "winRate": "0.0244",
+          "pickRate": "0.0326"
+        },
+        {
+          "patch": "11.18",
+          "wins": 37,
+          "totalGames": 2805,
+          "picks": 81,
+          "winRate": "0.0132",
+          "pickRate": "0.0289"
+        },
+        {
+          "patch": "11.19",
+          "wins": 35,
+          "totalGames": 3686,
+          "picks": 70,
+          "winRate": "0.0095",
+          "pickRate": "0.019"
+        }
+      ]
+    },
+    {
+      "name": "Sylas",
+      "id": 517,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 15,
+          "totalGames": 246,
+          "picks": 31,
+          "winRate": "0.061",
+          "pickRate": "0.1261"
+        },
+        {
+          "patch": "11.18",
+          "wins": 179,
+          "totalGames": 2805,
+          "picks": 329,
+          "winRate": "0.0639",
+          "pickRate": "0.1173"
+        },
+        {
+          "patch": "11.19",
+          "wins": 261,
+          "totalGames": 3686,
+          "picks": 504,
+          "winRate": "0.0709",
+          "pickRate": "0.1368"
+        }
+      ]
+    },
+    {
+      "name": "XinZhao",
+      "id": 5,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 11,
+          "totalGames": 246,
+          "picks": 26,
+          "winRate": "0.0448",
+          "pickRate": "0.1057"
+        },
+        {
+          "patch": "11.18",
+          "wins": 133,
+          "totalGames": 2805,
+          "picks": 259,
+          "winRate": "0.0475",
+          "pickRate": "0.0924"
+        },
+        {
+          "patch": "11.19",
+          "wins": 157,
+          "totalGames": 3686,
+          "picks": 280,
+          "winRate": "0.0426",
+          "pickRate": "0.076"
+        }
+      ]
+    },
+    {
+      "name": "Neeko",
+      "id": 518,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 6,
+          "winRate": "0.0122",
+          "pickRate": "0.0244"
+        },
+        {
+          "patch": "11.18",
+          "wins": 43,
+          "totalGames": 2805,
+          "picks": 94,
+          "winRate": "0.0154",
+          "pickRate": "0.0336"
+        },
+        {
+          "patch": "11.19",
+          "wins": 54,
+          "totalGames": 3686,
+          "picks": 96,
+          "winRate": "0.0147",
+          "pickRate": "0.0261"
+        }
+      ]
+    },
+    {
+      "name": "Urgot",
+      "id": 6,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 3,
+          "winRate": "0.0082",
+          "pickRate": "0.0122"
+        },
+        {
+          "patch": "11.18",
+          "wins": 64,
+          "totalGames": 2805,
+          "picks": 110,
+          "winRate": "0.0229",
+          "pickRate": "0.0393"
+        },
+        {
+          "patch": "11.19",
+          "wins": 68,
+          "totalGames": 3686,
+          "picks": 144,
+          "winRate": "0.0185",
+          "pickRate": "0.0391"
+        }
+      ]
+    },
+    {
+      "name": "Leblanc",
+      "id": 7,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 8,
+          "totalGames": 246,
+          "picks": 20,
+          "winRate": "0.0326",
+          "pickRate": "0.0814"
+        },
+        {
+          "patch": "11.18",
+          "wins": 165,
+          "totalGames": 2805,
+          "picks": 311,
+          "winRate": "0.0589",
+          "pickRate": "0.1109"
+        },
+        {
+          "patch": "11.19",
+          "wins": 151,
+          "totalGames": 3686,
+          "picks": 320,
+          "winRate": "0.041",
+          "pickRate": "0.0869"
+        }
+      ]
+    },
+    {
+      "name": "Vladimir",
+      "id": 8,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 4,
+          "winRate": "0.0122",
+          "pickRate": "0.0163"
+        },
+        {
+          "patch": "11.18",
+          "wins": 40,
+          "totalGames": 2805,
+          "picks": 77,
+          "winRate": "0.0143",
+          "pickRate": "0.0275"
+        },
+        {
+          "patch": "11.19",
+          "wins": 48,
+          "totalGames": 3686,
+          "picks": 93,
+          "winRate": "0.0131",
+          "pickRate": "0.0253"
+        }
+      ]
+    },
+    {
+      "name": "FiddleSticks",
+      "id": 9,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 9,
+          "totalGames": 246,
+          "picks": 15,
+          "winRate": "0.0366",
+          "pickRate": "0.061"
+        },
+        {
+          "patch": "11.18",
+          "wins": 79,
+          "totalGames": 2805,
+          "picks": 165,
+          "winRate": "0.0282",
+          "pickRate": "0.0589"
+        },
+        {
+          "patch": "11.19",
+          "wins": 114,
+          "totalGames": 3686,
+          "picks": 215,
+          "winRate": "0.031",
+          "pickRate": "0.0584"
+        }
+      ]
+    },
+    {
+      "name": "Yone",
+      "id": 777,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 20,
+          "totalGames": 246,
+          "picks": 42,
+          "winRate": "0.0814",
+          "pickRate": "0.1708"
+        },
+        {
+          "patch": "11.18",
+          "wins": 157,
+          "totalGames": 2805,
+          "picks": 360,
+          "winRate": "0.056",
+          "pickRate": "0.1284"
+        },
+        {
+          "patch": "11.19",
+          "wins": 361,
+          "totalGames": 3686,
+          "picks": 707,
+          "winRate": "0.098",
+          "pickRate": "0.1919"
+        }
+      ]
+    },
+    {
+      "name": "Kayle",
+      "id": 10,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 5,
+          "winRate": "0.0082",
+          "pickRate": "0.0204"
+        },
+        {
+          "patch": "11.18",
+          "wins": 23,
+          "totalGames": 2805,
+          "picks": 66,
+          "winRate": "0.0082",
+          "pickRate": "0.0236"
+        },
+        {
+          "patch": "11.19",
+          "wins": 29,
+          "totalGames": 3686,
+          "picks": 66,
+          "winRate": "0.0079",
+          "pickRate": "0.018"
+        }
+      ]
+    },
+    {
+      "name": "Aatrox",
+      "id": 266,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 10,
+          "totalGames": 246,
+          "picks": 26,
+          "winRate": "0.0407",
+          "pickRate": "0.1057"
+        },
+        {
+          "patch": "11.18",
+          "wins": 65,
+          "totalGames": 2805,
+          "picks": 147,
+          "winRate": "0.0232",
+          "pickRate": "0.0525"
+        },
+        {
+          "patch": "11.19",
+          "wins": 183,
+          "totalGames": 3686,
+          "picks": 358,
+          "winRate": "0.0497",
+          "pickRate": "0.0972"
+        }
+      ]
+    },
+    {
+      "name": "Aphelios",
+      "id": 523,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 9,
+          "totalGames": 246,
+          "picks": 19,
+          "winRate": "0.0366",
+          "pickRate": "0.0773"
+        },
+        {
+          "patch": "11.18",
+          "wins": 174,
+          "totalGames": 2805,
+          "picks": 397,
+          "winRate": "0.0621",
+          "pickRate": "0.1416"
+        },
+        {
+          "patch": "11.19",
+          "wins": 183,
+          "totalGames": 3686,
+          "picks": 387,
+          "winRate": "0.0497",
+          "pickRate": "0.105"
+        }
+      ]
+    },
+    {
+      "name": "MasterYi",
+      "id": 11,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 10,
+          "totalGames": 246,
+          "picks": 16,
+          "winRate": "0.0407",
+          "pickRate": "0.0651"
+        },
+        {
+          "patch": "11.18",
+          "wins": 15,
+          "totalGames": 2805,
+          "picks": 37,
+          "winRate": "0.0054",
+          "pickRate": "0.0132"
+        },
+        {
+          "patch": "11.19",
+          "wins": 32,
+          "totalGames": 3686,
+          "picks": 61,
+          "winRate": "0.0087",
+          "pickRate": "0.0166"
+        }
+      ]
+    },
+    {
+      "name": "Nami",
+      "id": 267,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 19,
+          "totalGames": 246,
+          "picks": 39,
+          "winRate": "0.0773",
+          "pickRate": "0.1586"
+        },
+        {
+          "patch": "11.18",
+          "wins": 91,
+          "totalGames": 2805,
+          "picks": 176,
+          "winRate": "0.0325",
+          "pickRate": "0.0628"
+        },
+        {
+          "patch": "11.19",
+          "wins": 212,
+          "totalGames": 3686,
+          "picks": 403,
+          "winRate": "0.0576",
+          "pickRate": "0.1094"
+        }
+      ]
+    },
+    {
+      "name": "Azir",
+      "id": 268,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 10,
+          "winRate": "0.0204",
+          "pickRate": "0.0407"
+        },
+        {
+          "patch": "11.18",
+          "wins": 40,
+          "totalGames": 2805,
+          "picks": 91,
+          "winRate": "0.0143",
+          "pickRate": "0.0325"
+        },
+        {
+          "patch": "11.19",
+          "wins": 34,
+          "totalGames": 3686,
+          "picks": 87,
+          "winRate": "0.0093",
+          "pickRate": "0.0237"
+        }
+      ]
+    },
+    {
+      "name": "Alistar",
+      "id": 12,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 7,
+          "totalGames": 246,
+          "picks": 18,
+          "winRate": "0.0285",
+          "pickRate": "0.0732"
+        },
+        {
+          "patch": "11.18",
+          "wins": 97,
+          "totalGames": 2805,
+          "picks": 195,
+          "winRate": "0.0346",
+          "pickRate": "0.0696"
+        },
+        {
+          "patch": "11.19",
+          "wins": 135,
+          "totalGames": 3686,
+          "picks": 269,
+          "winRate": "0.0367",
+          "pickRate": "0.073"
+        }
+      ]
+    },
+    {
+      "name": "Ryze",
+      "id": 13,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 5,
+          "winRate": "0.0082",
+          "pickRate": "0.0204"
+        },
+        {
+          "patch": "11.18",
+          "wins": 136,
+          "totalGames": 2805,
+          "picks": 275,
+          "winRate": "0.0485",
+          "pickRate": "0.0981"
+        },
+        {
+          "patch": "11.19",
+          "wins": 66,
+          "totalGames": 3686,
+          "picks": 161,
+          "winRate": "0.018",
+          "pickRate": "0.0437"
+        }
+      ]
+    },
+    {
+      "name": "Rell",
+      "id": 526,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 9,
+          "winRate": "0.0122",
+          "pickRate": "0.0366"
+        },
+        {
+          "patch": "11.18",
+          "wins": 37,
+          "totalGames": 2805,
+          "picks": 77,
+          "winRate": "0.0132",
+          "pickRate": "0.0275"
+        },
+        {
+          "patch": "11.19",
+          "wins": 49,
+          "totalGames": 3686,
+          "picks": 89,
+          "winRate": "0.0133",
+          "pickRate": "0.0242"
+        }
+      ]
+    },
+    {
+      "name": "Sion",
+      "id": 14,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 0,
+          "totalGames": 246,
+          "picks": 1,
+          "winRate": "0",
+          "pickRate": "0.0041"
+        },
+        {
+          "patch": "11.18",
+          "wins": 13,
+          "totalGames": 2805,
+          "picks": 40,
+          "winRate": "0.0047",
+          "pickRate": "0.0143"
+        },
+        {
+          "patch": "11.19",
+          "wins": 19,
+          "totalGames": 3686,
+          "picks": 55,
+          "winRate": "0.0052",
+          "pickRate": "0.015"
+        }
+      ]
+    },
+    {
+      "name": "Sivir",
+      "id": 15,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 7,
+          "winRate": "0.0082",
+          "pickRate": "0.0285"
+        },
+        {
+          "patch": "11.18",
+          "wins": 33,
+          "totalGames": 2805,
+          "picks": 76,
+          "winRate": "0.0118",
+          "pickRate": "0.0271"
+        },
+        {
+          "patch": "11.19",
+          "wins": 39,
+          "totalGames": 3686,
+          "picks": 77,
+          "winRate": "0.0106",
+          "pickRate": "0.0209"
+        }
+      ]
+    },
+    {
+      "name": "Soraka",
+      "id": 16,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 15,
+          "winRate": "0.0204",
+          "pickRate": "0.061"
+        },
+        {
+          "patch": "11.18",
+          "wins": 245,
+          "totalGames": 2805,
+          "picks": 490,
+          "winRate": "0.0874",
+          "pickRate": "0.1747"
+        },
+        {
+          "patch": "11.19",
+          "wins": 207,
+          "totalGames": 3686,
+          "picks": 376,
+          "winRate": "0.0562",
+          "pickRate": "0.1021"
+        }
+      ]
+    },
+    {
+      "name": "Teemo",
+      "id": 17,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 8,
+          "totalGames": 246,
+          "picks": 13,
+          "winRate": "0.0326",
+          "pickRate": "0.0529"
+        },
+        {
+          "patch": "11.18",
+          "wins": 58,
+          "totalGames": 2805,
+          "picks": 110,
+          "winRate": "0.0207",
+          "pickRate": "0.0393"
+        },
+        {
+          "patch": "11.19",
+          "wins": 91,
+          "totalGames": 3686,
+          "picks": 164,
+          "winRate": "0.0247",
+          "pickRate": "0.0445"
+        }
+      ]
+    },
+    {
+      "name": "Tristana",
+      "id": 18,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 10,
+          "totalGames": 246,
+          "picks": 24,
+          "winRate": "0.0407",
+          "pickRate": "0.0976"
+        },
+        {
+          "patch": "11.18",
+          "wins": 148,
+          "totalGames": 2805,
+          "picks": 301,
+          "winRate": "0.0528",
+          "pickRate": "0.1074"
+        },
+        {
+          "patch": "11.19",
+          "wins": 153,
+          "totalGames": 3686,
+          "picks": 333,
+          "winRate": "0.0416",
+          "pickRate": "0.0904"
+        }
+      ]
+    },
+    {
+      "name": "Warwick",
+      "id": 19,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 2,
+          "winRate": "0.0082",
+          "pickRate": "0.0082"
+        },
+        {
+          "patch": "11.18",
+          "wins": 8,
+          "totalGames": 2805,
+          "picks": 18,
+          "winRate": "0.0029",
+          "pickRate": "0.0065"
+        },
+        {
+          "patch": "11.19",
+          "wins": 16,
+          "totalGames": 3686,
+          "picks": 31,
+          "winRate": "0.0044",
+          "pickRate": "0.0085"
+        }
+      ]
+    },
+    {
+      "name": "Nunu",
+      "id": 20,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 8,
+          "winRate": "0.0122",
+          "pickRate": "0.0326"
+        },
+        {
+          "patch": "11.18",
+          "wins": 86,
+          "totalGames": 2805,
+          "picks": 163,
+          "winRate": "0.0307",
+          "pickRate": "0.0582"
+        },
+        {
+          "patch": "11.19",
+          "wins": 68,
+          "totalGames": 3686,
+          "picks": 150,
+          "winRate": "0.0185",
+          "pickRate": "0.0407"
+        }
+      ]
+    },
+    {
+      "name": "MissFortune",
+      "id": 21,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 31,
+          "totalGames": 246,
+          "picks": 51,
+          "winRate": "0.1261",
+          "pickRate": "0.2074"
+        },
+        {
+          "patch": "11.18",
+          "wins": 196,
+          "totalGames": 2805,
+          "picks": 386,
+          "winRate": "0.0699",
+          "pickRate": "0.1377"
+        },
+        {
+          "patch": "11.19",
+          "wins": 408,
+          "totalGames": 3686,
+          "picks": 879,
+          "winRate": "0.1107",
+          "pickRate": "0.2385"
+        }
+      ]
+    },
+    {
+      "name": "Ashe",
+      "id": 22,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 6,
+          "winRate": "0.0163",
+          "pickRate": "0.0244"
+        },
+        {
+          "patch": "11.18",
+          "wins": 80,
+          "totalGames": 2805,
+          "picks": 146,
+          "winRate": "0.0286",
+          "pickRate": "0.0521"
+        },
+        {
+          "patch": "11.19",
+          "wins": 65,
+          "totalGames": 3686,
+          "picks": 118,
+          "winRate": "0.0177",
+          "pickRate": "0.0321"
+        }
+      ]
+    },
+    {
+      "name": "Tryndamere",
+      "id": 23,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 13,
+          "totalGames": 246,
+          "picks": 32,
+          "winRate": "0.0529",
+          "pickRate": "0.1301"
+        },
+        {
+          "patch": "11.18",
+          "wins": 93,
+          "totalGames": 2805,
+          "picks": 183,
+          "winRate": "0.0332",
+          "pickRate": "0.0653"
+        },
+        {
+          "patch": "11.19",
+          "wins": 184,
+          "totalGames": 3686,
+          "picks": 343,
+          "winRate": "0.05",
+          "pickRate": "0.0931"
+        }
+      ]
+    },
+    {
+      "name": "Jax",
+      "id": 24,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 10,
+          "totalGames": 246,
+          "picks": 21,
+          "winRate": "0.0407",
+          "pickRate": "0.0854"
+        },
+        {
+          "patch": "11.18",
+          "wins": 103,
+          "totalGames": 2805,
+          "picks": 198,
+          "winRate": "0.0368",
+          "pickRate": "0.0706"
+        },
+        {
+          "patch": "11.19",
+          "wins": 154,
+          "totalGames": 3686,
+          "picks": 305,
+          "winRate": "0.0418",
+          "pickRate": "0.0828"
+        }
+      ]
+    },
+    {
+      "name": "Morgana",
+      "id": 25,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 11,
+          "winRate": "0.0122",
+          "pickRate": "0.0448"
+        },
+        {
+          "patch": "11.18",
+          "wins": 53,
+          "totalGames": 2805,
+          "picks": 112,
+          "winRate": "0.0189",
+          "pickRate": "0.04"
+        },
+        {
+          "patch": "11.19",
+          "wins": 112,
+          "totalGames": 3686,
+          "picks": 205,
+          "winRate": "0.0304",
+          "pickRate": "0.0557"
+        }
+      ]
+    },
+    {
+      "name": "Zilean",
+      "id": 26,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 11,
+          "totalGames": 246,
+          "picks": 20,
+          "winRate": "0.0448",
+          "pickRate": "0.0814"
+        },
+        {
+          "patch": "11.18",
+          "wins": 97,
+          "totalGames": 2805,
+          "picks": 191,
+          "winRate": "0.0346",
+          "pickRate": "0.0681"
+        },
+        {
+          "patch": "11.19",
+          "wins": 125,
+          "totalGames": 3686,
+          "picks": 255,
+          "winRate": "0.034",
+          "pickRate": "0.0692"
+        }
+      ]
+    },
+    {
+      "name": "Singed",
+      "id": 27,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 5,
+          "winRate": "0.0082",
+          "pickRate": "0.0204"
+        },
+        {
+          "patch": "11.18",
+          "wins": 59,
+          "totalGames": 2805,
+          "picks": 112,
+          "winRate": "0.0211",
+          "pickRate": "0.04"
+        },
+        {
+          "patch": "11.19",
+          "wins": 65,
+          "totalGames": 3686,
+          "picks": 129,
+          "winRate": "0.0177",
+          "pickRate": "0.035"
+        }
+      ]
+    },
+    {
+      "name": "Evelynn",
+      "id": 28,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 7,
+          "totalGames": 246,
+          "picks": 13,
+          "winRate": "0.0285",
+          "pickRate": "0.0529"
+        },
+        {
+          "patch": "11.18",
+          "wins": 94,
+          "totalGames": 2805,
+          "picks": 175,
+          "winRate": "0.0336",
+          "pickRate": "0.0624"
+        },
+        {
+          "patch": "11.19",
+          "wins": 128,
+          "totalGames": 3686,
+          "picks": 237,
+          "winRate": "0.0348",
+          "pickRate": "0.0643"
+        }
+      ]
+    },
+    {
+      "name": "Twitch",
+      "id": 29,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 10,
+          "totalGames": 246,
+          "picks": 14,
+          "winRate": "0.0407",
+          "pickRate": "0.057"
+        },
+        {
+          "patch": "11.18",
+          "wins": 35,
+          "totalGames": 2805,
+          "picks": 77,
+          "winRate": "0.0125",
+          "pickRate": "0.0275"
+        },
+        {
+          "patch": "11.19",
+          "wins": 54,
+          "totalGames": 3686,
+          "picks": 129,
+          "winRate": "0.0147",
+          "pickRate": "0.035"
+        }
+      ]
+    },
+    {
+      "name": "Karthus",
+      "id": 30,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 14,
+          "totalGames": 246,
+          "picks": 22,
+          "winRate": "0.057",
+          "pickRate": "0.0895"
+        },
+        {
+          "patch": "11.18",
+          "wins": 103,
+          "totalGames": 2805,
+          "picks": 232,
+          "winRate": "0.0368",
+          "pickRate": "0.0828"
+        },
+        {
+          "patch": "11.19",
+          "wins": 170,
+          "totalGames": 3686,
+          "picks": 316,
+          "winRate": "0.0462",
+          "pickRate": "0.0858"
+        }
+      ]
+    },
+    {
+      "name": "Chogath",
+      "id": 31,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 7,
+          "totalGames": 246,
+          "picks": 10,
+          "winRate": "0.0285",
+          "pickRate": "0.0407"
+        },
+        {
+          "patch": "11.18",
+          "wins": 21,
+          "totalGames": 2805,
+          "picks": 47,
+          "winRate": "0.0075",
+          "pickRate": "0.0168"
+        },
+        {
+          "patch": "11.19",
+          "wins": 34,
+          "totalGames": 3686,
+          "picks": 83,
+          "winRate": "0.0093",
+          "pickRate": "0.0226"
+        }
+      ]
+    },
+    {
+      "name": "Amumu",
+      "id": 32,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 13,
+          "totalGames": 246,
+          "picks": 22,
+          "winRate": "0.0529",
+          "pickRate": "0.0895"
+        },
+        {
+          "patch": "11.18",
+          "wins": 199,
+          "totalGames": 2805,
+          "picks": 412,
+          "winRate": "0.071",
+          "pickRate": "0.1469"
+        },
+        {
+          "patch": "11.19",
+          "wins": 337,
+          "totalGames": 3686,
+          "picks": 674,
+          "winRate": "0.0915",
+          "pickRate": "0.1829"
+        }
+      ]
+    },
+    {
+      "name": "Rammus",
+      "id": 33,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 0,
+          "totalGames": 246,
+          "picks": 0,
+          "winRate": "0",
+          "pickRate": "0"
+        },
+        {
+          "patch": "11.18",
+          "wins": 3,
+          "totalGames": 2805,
+          "picks": 6,
+          "winRate": "0.0011",
+          "pickRate": "0.0022"
+        },
+        {
+          "patch": "11.19",
+          "wins": 6,
+          "totalGames": 3686,
+          "picks": 17,
+          "winRate": "0.0017",
+          "pickRate": "0.0047"
+        }
+      ]
+    },
+    {
+      "name": "Anivia",
+      "id": 34,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 8,
+          "winRate": "0.0163",
+          "pickRate": "0.0326"
+        },
+        {
+          "patch": "11.18",
+          "wins": 76,
+          "totalGames": 2805,
+          "picks": 141,
+          "winRate": "0.0271",
+          "pickRate": "0.0503"
+        },
+        {
+          "patch": "11.19",
+          "wins": 44,
+          "totalGames": 3686,
+          "picks": 100,
+          "winRate": "0.012",
+          "pickRate": "0.0272"
+        }
+      ]
+    },
+    {
+      "name": "Shaco",
+      "id": 35,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 7,
+          "winRate": "0.0163",
+          "pickRate": "0.0285"
+        },
+        {
+          "patch": "11.18",
+          "wins": 41,
+          "totalGames": 2805,
+          "picks": 87,
+          "winRate": "0.0147",
+          "pickRate": "0.0311"
+        },
+        {
+          "patch": "11.19",
+          "wins": 49,
+          "totalGames": 3686,
+          "picks": 91,
+          "winRate": "0.0133",
+          "pickRate": "0.0247"
+        }
+      ]
+    },
+    {
+      "name": "DrMundo",
+      "id": 36,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 6,
+          "winRate": "0.0122",
+          "pickRate": "0.0244"
+        },
+        {
+          "patch": "11.18",
+          "wins": 25,
+          "totalGames": 2805,
+          "picks": 63,
+          "winRate": "0.009",
+          "pickRate": "0.0225"
+        },
+        {
+          "patch": "11.19",
+          "wins": 19,
+          "totalGames": 3686,
+          "picks": 42,
+          "winRate": "0.0052",
+          "pickRate": "0.0114"
+        }
+      ]
+    },
+    {
+      "name": "Sona",
+      "id": 37,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 14,
+          "totalGames": 246,
+          "picks": 22,
+          "winRate": "0.057",
+          "pickRate": "0.0895"
+        },
+        {
+          "patch": "11.18",
+          "wins": 247,
+          "totalGames": 2805,
+          "picks": 428,
+          "winRate": "0.0881",
+          "pickRate": "0.1526"
+        },
+        {
+          "patch": "11.19",
+          "wins": 241,
+          "totalGames": 3686,
+          "picks": 456,
+          "winRate": "0.0654",
+          "pickRate": "0.1238"
+        }
+      ]
+    },
+    {
+      "name": "Kassadin",
+      "id": 38,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 1,
+          "totalGames": 246,
+          "picks": 3,
+          "winRate": "0.0041",
+          "pickRate": "0.0122"
+        },
+        {
+          "patch": "11.18",
+          "wins": 63,
+          "totalGames": 2805,
+          "picks": 128,
+          "winRate": "0.0225",
+          "pickRate": "0.0457"
+        },
+        {
+          "patch": "11.19",
+          "wins": 45,
+          "totalGames": 3686,
+          "picks": 98,
+          "winRate": "0.0123",
+          "pickRate": "0.0266"
+        }
+      ]
+    },
+    {
+      "name": "Irelia",
+      "id": 39,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 11,
+          "totalGames": 246,
+          "picks": 28,
+          "winRate": "0.0448",
+          "pickRate": "0.1139"
+        },
+        {
+          "patch": "11.18",
+          "wins": 210,
+          "totalGames": 2805,
+          "picks": 424,
+          "winRate": "0.0749",
+          "pickRate": "0.1512"
+        },
+        {
+          "patch": "11.19",
+          "wins": 310,
+          "totalGames": 3686,
+          "picks": 608,
+          "winRate": "0.0842",
+          "pickRate": "0.165"
+        }
+      ]
+    },
+    {
+      "name": "Janna",
+      "id": 40,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 10,
+          "winRate": "0.0163",
+          "pickRate": "0.0407"
+        },
+        {
+          "patch": "11.18",
+          "wins": 31,
+          "totalGames": 2805,
+          "picks": 72,
+          "winRate": "0.0111",
+          "pickRate": "0.0257"
+        },
+        {
+          "patch": "11.19",
+          "wins": 47,
+          "totalGames": 3686,
+          "picks": 119,
+          "winRate": "0.0128",
+          "pickRate": "0.0323"
+        }
+      ]
+    },
+    {
+      "name": "Gangplank",
+      "id": 41,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 1,
+          "totalGames": 246,
+          "picks": 6,
+          "winRate": "0.0041",
+          "pickRate": "0.0244"
+        },
+        {
+          "patch": "11.18",
+          "wins": 92,
+          "totalGames": 2805,
+          "picks": 199,
+          "winRate": "0.0328",
+          "pickRate": "0.071"
+        },
+        {
+          "patch": "11.19",
+          "wins": 92,
+          "totalGames": 3686,
+          "picks": 178,
+          "winRate": "0.025",
+          "pickRate": "0.0483"
+        }
+      ]
+    },
+    {
+      "name": "Corki",
+      "id": 42,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 6,
+          "totalGames": 246,
+          "picks": 9,
+          "winRate": "0.0244",
+          "pickRate": "0.0366"
+        },
+        {
+          "patch": "11.18",
+          "wins": 44,
+          "totalGames": 2805,
+          "picks": 100,
+          "winRate": "0.0157",
+          "pickRate": "0.0357"
+        },
+        {
+          "patch": "11.19",
+          "wins": 79,
+          "totalGames": 3686,
+          "picks": 147,
+          "winRate": "0.0215",
+          "pickRate": "0.0399"
+        }
+      ]
+    },
+    {
+      "name": "Karma",
+      "id": 43,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 11,
+          "totalGames": 246,
+          "picks": 25,
+          "winRate": "0.0448",
+          "pickRate": "0.1017"
+        },
+        {
+          "patch": "11.18",
+          "wins": 148,
+          "totalGames": 2805,
+          "picks": 296,
+          "winRate": "0.0528",
+          "pickRate": "0.1056"
+        },
+        {
+          "patch": "11.19",
+          "wins": 121,
+          "totalGames": 3686,
+          "picks": 273,
+          "winRate": "0.0329",
+          "pickRate": "0.0741"
+        }
+      ]
+    },
+    {
+      "name": "Pyke",
+      "id": 555,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 14,
+          "totalGames": 246,
+          "picks": 32,
+          "winRate": "0.057",
+          "pickRate": "0.1301"
+        },
+        {
+          "patch": "11.18",
+          "wins": 128,
+          "totalGames": 2805,
+          "picks": 254,
+          "winRate": "0.0457",
+          "pickRate": "0.0906"
+        },
+        {
+          "patch": "11.19",
+          "wins": 195,
+          "totalGames": 3686,
+          "picks": 342,
+          "winRate": "0.053",
+          "pickRate": "0.0928"
+        }
+      ]
+    },
+    {
+      "name": "Taric",
+      "id": 44,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 0,
+          "totalGames": 246,
+          "picks": 0,
+          "winRate": "0",
+          "pickRate": "0"
+        },
+        {
+          "patch": "11.18",
+          "wins": 16,
+          "totalGames": 2805,
+          "picks": 29,
+          "winRate": "0.0058",
+          "pickRate": "0.0104"
+        },
+        {
+          "patch": "11.19",
+          "wins": 13,
+          "totalGames": 3686,
+          "picks": 29,
+          "winRate": "0.0036",
+          "pickRate": "0.0079"
+        }
+      ]
+    },
+    {
+      "name": "Veigar",
+      "id": 45,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 1,
+          "totalGames": 246,
+          "picks": 7,
+          "winRate": "0.0041",
+          "pickRate": "0.0285"
+        },
+        {
+          "patch": "11.18",
+          "wins": 30,
+          "totalGames": 2805,
+          "picks": 59,
+          "winRate": "0.0107",
+          "pickRate": "0.0211"
+        },
+        {
+          "patch": "11.19",
+          "wins": 50,
+          "totalGames": 3686,
+          "picks": 90,
+          "winRate": "0.0136",
+          "pickRate": "0.0245"
+        }
+      ]
+    },
+    {
+      "name": "Trundle",
+      "id": 48,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 4,
+          "winRate": "0.0082",
+          "pickRate": "0.0163"
+        },
+        {
+          "patch": "11.18",
+          "wins": 67,
+          "totalGames": 2805,
+          "picks": 155,
+          "winRate": "0.0239",
+          "pickRate": "0.0553"
+        },
+        {
+          "patch": "11.19",
+          "wins": 69,
+          "totalGames": 3686,
+          "picks": 148,
+          "winRate": "0.0188",
+          "pickRate": "0.0402"
+        }
+      ]
+    },
+    {
+      "name": "Swain",
+      "id": 50,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 12,
+          "winRate": "0.0163",
+          "pickRate": "0.0488"
+        },
+        {
+          "patch": "11.18",
+          "wins": 41,
+          "totalGames": 2805,
+          "picks": 83,
+          "winRate": "0.0147",
+          "pickRate": "0.0296"
+        },
+        {
+          "patch": "11.19",
+          "wins": 80,
+          "totalGames": 3686,
+          "picks": 137,
+          "winRate": "0.0218",
+          "pickRate": "0.0372"
+        }
+      ]
+    },
+    {
+      "name": "Caitlyn",
+      "id": 51,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 20,
+          "totalGames": 246,
+          "picks": 34,
+          "winRate": "0.0814",
+          "pickRate": "0.1383"
+        },
+        {
+          "patch": "11.18",
+          "wins": 123,
+          "totalGames": 2805,
+          "picks": 261,
+          "winRate": "0.0439",
+          "pickRate": "0.0931"
+        },
+        {
+          "patch": "11.19",
+          "wins": 242,
+          "totalGames": 3686,
+          "picks": 475,
+          "winRate": "0.0657",
+          "pickRate": "0.1289"
+        }
+      ]
+    },
+    {
+      "name": "Blitzcrank",
+      "id": 53,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 16,
+          "totalGames": 246,
+          "picks": 23,
+          "winRate": "0.0651",
+          "pickRate": "0.0935"
+        },
+        {
+          "patch": "11.18",
+          "wins": 81,
+          "totalGames": 2805,
+          "picks": 146,
+          "winRate": "0.0289",
+          "pickRate": "0.0521"
+        },
+        {
+          "patch": "11.19",
+          "wins": 114,
+          "totalGames": 3686,
+          "picks": 231,
+          "winRate": "0.031",
+          "pickRate": "0.0627"
+        }
+      ]
+    },
+    {
+      "name": "Malphite",
+      "id": 54,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 8,
+          "winRate": "0.0204",
+          "pickRate": "0.0326"
+        },
+        {
+          "patch": "11.18",
+          "wins": 82,
+          "totalGames": 2805,
+          "picks": 177,
+          "winRate": "0.0293",
+          "pickRate": "0.0632"
+        },
+        {
+          "patch": "11.19",
+          "wins": 79,
+          "totalGames": 3686,
+          "picks": 179,
+          "winRate": "0.0215",
+          "pickRate": "0.0486"
+        }
+      ]
+    },
+    {
+      "name": "Katarina",
+      "id": 55,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 4,
+          "winRate": "0.0082",
+          "pickRate": "0.0163"
+        },
+        {
+          "patch": "11.18",
+          "wins": 24,
+          "totalGames": 2805,
+          "picks": 60,
+          "winRate": "0.0086",
+          "pickRate": "0.0214"
+        },
+        {
+          "patch": "11.19",
+          "wins": 35,
+          "totalGames": 3686,
+          "picks": 63,
+          "winRate": "0.0095",
+          "pickRate": "0.0171"
+        }
+      ]
+    },
+    {
+      "name": "Nocturne",
+      "id": 56,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 6,
+          "winRate": "0.0122",
+          "pickRate": "0.0244"
+        },
+        {
+          "patch": "11.18",
+          "wins": 44,
+          "totalGames": 2805,
+          "picks": 92,
+          "winRate": "0.0157",
+          "pickRate": "0.0328"
+        },
+        {
+          "patch": "11.19",
+          "wins": 54,
+          "totalGames": 3686,
+          "picks": 115,
+          "winRate": "0.0147",
+          "pickRate": "0.0312"
+        }
+      ]
+    },
+    {
+      "name": "Maokai",
+      "id": 57,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 8,
+          "winRate": "0.0204",
+          "pickRate": "0.0326"
+        },
+        {
+          "patch": "11.18",
+          "wins": 15,
+          "totalGames": 2805,
+          "picks": 34,
+          "winRate": "0.0054",
+          "pickRate": "0.0122"
+        },
+        {
+          "patch": "11.19",
+          "wins": 34,
+          "totalGames": 3686,
+          "picks": 63,
+          "winRate": "0.0093",
+          "pickRate": "0.0171"
+        }
+      ]
+    },
+    {
+      "name": "Renekton",
+      "id": 58,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 7,
+          "winRate": "0.0163",
+          "pickRate": "0.0285"
+        },
+        {
+          "patch": "11.18",
+          "wins": 27,
+          "totalGames": 2805,
+          "picks": 64,
+          "winRate": "0.0097",
+          "pickRate": "0.0229"
+        },
+        {
+          "patch": "11.19",
+          "wins": 36,
+          "totalGames": 3686,
+          "picks": 84,
+          "winRate": "0.0098",
+          "pickRate": "0.0228"
+        }
+      ]
+    },
+    {
+      "name": "JarvanIV",
+      "id": 59,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 7,
+          "totalGames": 246,
+          "picks": 15,
+          "winRate": "0.0285",
+          "pickRate": "0.061"
+        },
+        {
+          "patch": "11.18",
+          "wins": 176,
+          "totalGames": 2805,
+          "picks": 331,
+          "winRate": "0.0628",
+          "pickRate": "0.1181"
+        },
+        {
+          "patch": "11.19",
+          "wins": 216,
+          "totalGames": 3686,
+          "picks": 412,
+          "winRate": "0.0587",
+          "pickRate": "0.1118"
+        }
+      ]
+    },
+    {
+      "name": "Elise",
+      "id": 60,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 11,
+          "winRate": "0.0163",
+          "pickRate": "0.0448"
+        },
+        {
+          "patch": "11.18",
+          "wins": 40,
+          "totalGames": 2805,
+          "picks": 74,
+          "winRate": "0.0143",
+          "pickRate": "0.0264"
+        },
+        {
+          "patch": "11.19",
+          "wins": 45,
+          "totalGames": 3686,
+          "picks": 95,
+          "winRate": "0.0123",
+          "pickRate": "0.0258"
+        }
+      ]
+    },
+    {
+      "name": "Orianna",
+      "id": 61,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 1,
+          "totalGames": 246,
+          "picks": 5,
+          "winRate": "0.0041",
+          "pickRate": "0.0204"
+        },
+        {
+          "patch": "11.18",
+          "wins": 48,
+          "totalGames": 2805,
+          "picks": 99,
+          "winRate": "0.0172",
+          "pickRate": "0.0353"
+        },
+        {
+          "patch": "11.19",
+          "wins": 50,
+          "totalGames": 3686,
+          "picks": 109,
+          "winRate": "0.0136",
+          "pickRate": "0.0296"
+        }
+      ]
+    },
+    {
+      "name": "MonkeyKing",
+      "id": 62,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 8,
+          "totalGames": 246,
+          "picks": 21,
+          "winRate": "0.0326",
+          "pickRate": "0.0854"
+        },
+        {
+          "patch": "11.18",
+          "wins": 96,
+          "totalGames": 2805,
+          "picks": 185,
+          "winRate": "0.0343",
+          "pickRate": "0.066"
+        },
+        {
+          "patch": "11.19",
+          "wins": 127,
+          "totalGames": 3686,
+          "picks": 257,
+          "winRate": "0.0345",
+          "pickRate": "0.0698"
+        }
+      ]
+    },
+    {
+      "name": "Brand",
+      "id": 63,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 6,
+          "winRate": "0.0122",
+          "pickRate": "0.0244"
+        },
+        {
+          "patch": "11.18",
+          "wins": 23,
+          "totalGames": 2805,
+          "picks": 47,
+          "winRate": "0.0082",
+          "pickRate": "0.0168"
+        },
+        {
+          "patch": "11.19",
+          "wins": 18,
+          "totalGames": 3686,
+          "picks": 44,
+          "winRate": "0.0049",
+          "pickRate": "0.012"
+        }
+      ]
+    },
+    {
+      "name": "LeeSin",
+      "id": 64,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 18,
+          "totalGames": 246,
+          "picks": 44,
+          "winRate": "0.0732",
+          "pickRate": "0.1789"
+        },
+        {
+          "patch": "11.18",
+          "wins": 316,
+          "totalGames": 2805,
+          "picks": 593,
+          "winRate": "0.1127",
+          "pickRate": "0.2115"
+        },
+        {
+          "patch": "11.19",
+          "wins": 331,
+          "totalGames": 3686,
+          "picks": 642,
+          "winRate": "0.0898",
+          "pickRate": "0.1742"
+        }
+      ]
+    },
+    {
+      "name": "Vayne",
+      "id": 67,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 18,
+          "totalGames": 246,
+          "picks": 36,
+          "winRate": "0.0732",
+          "pickRate": "0.1464"
+        },
+        {
+          "patch": "11.18",
+          "wins": 159,
+          "totalGames": 2805,
+          "picks": 302,
+          "winRate": "0.0567",
+          "pickRate": "0.1077"
+        },
+        {
+          "patch": "11.19",
+          "wins": 211,
+          "totalGames": 3686,
+          "picks": 413,
+          "winRate": "0.0573",
+          "pickRate": "0.1121"
+        }
+      ]
+    },
+    {
+      "name": "Rumble",
+      "id": 68,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 15,
+          "totalGames": 246,
+          "picks": 30,
+          "winRate": "0.061",
+          "pickRate": "0.122"
+        },
+        {
+          "patch": "11.18",
+          "wins": 95,
+          "totalGames": 2805,
+          "picks": 167,
+          "winRate": "0.0339",
+          "pickRate": "0.0596"
+        },
+        {
+          "patch": "11.19",
+          "wins": 132,
+          "totalGames": 3686,
+          "picks": 258,
+          "winRate": "0.0359",
+          "pickRate": "0.07"
+        }
+      ]
+    },
+    {
+      "name": "Cassiopeia",
+      "id": 69,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 5,
+          "winRate": "0.0122",
+          "pickRate": "0.0204"
+        },
+        {
+          "patch": "11.18",
+          "wins": 121,
+          "totalGames": 2805,
+          "picks": 230,
+          "winRate": "0.0432",
+          "pickRate": "0.082"
+        },
+        {
+          "patch": "11.19",
+          "wins": 123,
+          "totalGames": 3686,
+          "picks": 227,
+          "winRate": "0.0334",
+          "pickRate": "0.0616"
+        }
+      ]
+    },
+    {
+      "name": "Skarner",
+      "id": 72,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 0,
+          "totalGames": 246,
+          "picks": 1,
+          "winRate": "0",
+          "pickRate": "0.0041"
+        },
+        {
+          "patch": "11.18",
+          "wins": 1,
+          "totalGames": 2805,
+          "picks": 4,
+          "winRate": "0.0004",
+          "pickRate": "0.0015"
+        },
+        {
+          "patch": "11.19",
+          "wins": 7,
+          "totalGames": 3686,
+          "picks": 9,
+          "winRate": "0.0019",
+          "pickRate": "0.0025"
+        }
+      ]
+    },
+    {
+      "name": "Heimerdinger",
+      "id": 74,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 1,
+          "totalGames": 246,
+          "picks": 3,
+          "winRate": "0.0041",
+          "pickRate": "0.0122"
+        },
+        {
+          "patch": "11.18",
+          "wins": 22,
+          "totalGames": 2805,
+          "picks": 52,
+          "winRate": "0.0079",
+          "pickRate": "0.0186"
+        },
+        {
+          "patch": "11.19",
+          "wins": 19,
+          "totalGames": 3686,
+          "picks": 41,
+          "winRate": "0.0052",
+          "pickRate": "0.0112"
+        }
+      ]
+    },
+    {
+      "name": "Nasus",
+      "id": 75,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 5,
+          "winRate": "0.0082",
+          "pickRate": "0.0204"
+        },
+        {
+          "patch": "11.18",
+          "wins": 20,
+          "totalGames": 2805,
+          "picks": 41,
+          "winRate": "0.0072",
+          "pickRate": "0.0147"
+        },
+        {
+          "patch": "11.19",
+          "wins": 53,
+          "totalGames": 3686,
+          "picks": 117,
+          "winRate": "0.0144",
+          "pickRate": "0.0318"
+        }
+      ]
+    },
+    {
+      "name": "Nidalee",
+      "id": 76,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 10,
+          "winRate": "0.0204",
+          "pickRate": "0.0407"
+        },
+        {
+          "patch": "11.18",
+          "wins": 85,
+          "totalGames": 2805,
+          "picks": 175,
+          "winRate": "0.0304",
+          "pickRate": "0.0624"
+        },
+        {
+          "patch": "11.19",
+          "wins": 91,
+          "totalGames": 3686,
+          "picks": 179,
+          "winRate": "0.0247",
+          "pickRate": "0.0486"
+        }
+      ]
+    },
+    {
+      "name": "Udyr",
+      "id": 77,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 1,
+          "totalGames": 246,
+          "picks": 3,
+          "winRate": "0.0041",
+          "pickRate": "0.0122"
+        },
+        {
+          "patch": "11.18",
+          "wins": 4,
+          "totalGames": 2805,
+          "picks": 8,
+          "winRate": "0.0015",
+          "pickRate": "0.0029"
+        },
+        {
+          "patch": "11.19",
+          "wins": 5,
+          "totalGames": 3686,
+          "picks": 11,
+          "winRate": "0.0014",
+          "pickRate": "0.003"
+        }
+      ]
+    },
+    {
+      "name": "Poppy",
+      "id": 78,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 14,
+          "winRate": "0.0163",
+          "pickRate": "0.057"
+        },
+        {
+          "patch": "11.18",
+          "wins": 71,
+          "totalGames": 2805,
+          "picks": 136,
+          "winRate": "0.0254",
+          "pickRate": "0.0485"
+        },
+        {
+          "patch": "11.19",
+          "wins": 91,
+          "totalGames": 3686,
+          "picks": 175,
+          "winRate": "0.0247",
+          "pickRate": "0.0475"
+        }
+      ]
+    },
+    {
+      "name": "Gragas",
+      "id": 79,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 8,
+          "totalGames": 246,
+          "picks": 18,
+          "winRate": "0.0326",
+          "pickRate": "0.0732"
+        },
+        {
+          "patch": "11.18",
+          "wins": 86,
+          "totalGames": 2805,
+          "picks": 141,
+          "winRate": "0.0307",
+          "pickRate": "0.0503"
+        },
+        {
+          "patch": "11.19",
+          "wins": 75,
+          "totalGames": 3686,
+          "picks": 170,
+          "winRate": "0.0204",
+          "pickRate": "0.0462"
+        }
+      ]
+    },
+    {
+      "name": "Pantheon",
+      "id": 80,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 11,
+          "winRate": "0.0163",
+          "pickRate": "0.0448"
+        },
+        {
+          "patch": "11.18",
+          "wins": 67,
+          "totalGames": 2805,
+          "picks": 136,
+          "winRate": "0.0239",
+          "pickRate": "0.0485"
+        },
+        {
+          "patch": "11.19",
+          "wins": 89,
+          "totalGames": 3686,
+          "picks": 178,
+          "winRate": "0.0242",
+          "pickRate": "0.0483"
+        }
+      ]
+    },
+    {
+      "name": "Ezreal",
+      "id": 81,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 20,
+          "totalGames": 246,
+          "picks": 46,
+          "winRate": "0.0814",
+          "pickRate": "0.187"
+        },
+        {
+          "patch": "11.18",
+          "wins": 271,
+          "totalGames": 2805,
+          "picks": 550,
+          "winRate": "0.0967",
+          "pickRate": "0.1961"
+        },
+        {
+          "patch": "11.19",
+          "wins": 335,
+          "totalGames": 3686,
+          "picks": 680,
+          "winRate": "0.0909",
+          "pickRate": "0.1845"
+        }
+      ]
+    },
+    {
+      "name": "Mordekaiser",
+      "id": 82,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 3,
+          "winRate": "0.0082",
+          "pickRate": "0.0122"
+        },
+        {
+          "patch": "11.18",
+          "wins": 66,
+          "totalGames": 2805,
+          "picks": 132,
+          "winRate": "0.0236",
+          "pickRate": "0.0471"
+        },
+        {
+          "patch": "11.19",
+          "wins": 71,
+          "totalGames": 3686,
+          "picks": 163,
+          "winRate": "0.0193",
+          "pickRate": "0.0443"
+        }
+      ]
+    },
+    {
+      "name": "Yorick",
+      "id": 83,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 2,
+          "winRate": "0.0082",
+          "pickRate": "0.0082"
+        },
+        {
+          "patch": "11.18",
+          "wins": 9,
+          "totalGames": 2805,
+          "picks": 19,
+          "winRate": "0.0033",
+          "pickRate": "0.0068"
+        },
+        {
+          "patch": "11.19",
+          "wins": 4,
+          "totalGames": 3686,
+          "picks": 11,
+          "winRate": "0.0011",
+          "pickRate": "0.003"
+        }
+      ]
+    },
+    {
+      "name": "Akali",
+      "id": 84,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 10,
+          "winRate": "0.0204",
+          "pickRate": "0.0407"
+        },
+        {
+          "patch": "11.18",
+          "wins": 49,
+          "totalGames": 2805,
+          "picks": 111,
+          "winRate": "0.0175",
+          "pickRate": "0.0396"
+        },
+        {
+          "patch": "11.19",
+          "wins": 63,
+          "totalGames": 3686,
+          "picks": 130,
+          "winRate": "0.0171",
+          "pickRate": "0.0353"
+        }
+      ]
+    },
+    {
+      "name": "Kennen",
+      "id": 85,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 12,
+          "totalGames": 246,
+          "picks": 18,
+          "winRate": "0.0488",
+          "pickRate": "0.0732"
+        },
+        {
+          "patch": "11.18",
+          "wins": 153,
+          "totalGames": 2805,
+          "picks": 280,
+          "winRate": "0.0546",
+          "pickRate": "0.0999"
+        },
+        {
+          "patch": "11.19",
+          "wins": 182,
+          "totalGames": 3686,
+          "picks": 342,
+          "winRate": "0.0494",
+          "pickRate": "0.0928"
+        }
+      ]
+    },
+    {
+      "name": "Garen",
+      "id": 86,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 4,
+          "winRate": "0.0082",
+          "pickRate": "0.0163"
+        },
+        {
+          "patch": "11.18",
+          "wins": 39,
+          "totalGames": 2805,
+          "picks": 72,
+          "winRate": "0.014",
+          "pickRate": "0.0257"
+        },
+        {
+          "patch": "11.19",
+          "wins": 37,
+          "totalGames": 3686,
+          "picks": 67,
+          "winRate": "0.0101",
+          "pickRate": "0.0182"
+        }
+      ]
+    },
+    {
+      "name": "Leona",
+      "id": 89,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 15,
+          "totalGames": 246,
+          "picks": 33,
+          "winRate": "0.061",
+          "pickRate": "0.1342"
+        },
+        {
+          "patch": "11.18",
+          "wins": 185,
+          "totalGames": 2805,
+          "picks": 392,
+          "winRate": "0.066",
+          "pickRate": "0.1398"
+        },
+        {
+          "patch": "11.19",
+          "wins": 243,
+          "totalGames": 3686,
+          "picks": 477,
+          "winRate": "0.066",
+          "pickRate": "0.1295"
+        }
+      ]
+    },
+    {
+      "name": "Malzahar",
+      "id": 90,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 5,
+          "winRate": "0.0122",
+          "pickRate": "0.0204"
+        },
+        {
+          "patch": "11.18",
+          "wins": 10,
+          "totalGames": 2805,
+          "picks": 22,
+          "winRate": "0.0036",
+          "pickRate": "0.0079"
+        },
+        {
+          "patch": "11.19",
+          "wins": 13,
+          "totalGames": 3686,
+          "picks": 36,
+          "winRate": "0.0036",
+          "pickRate": "0.0098"
+        }
+      ]
+    },
+    {
+      "name": "Talon",
+      "id": 91,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 21,
+          "totalGames": 246,
+          "picks": 34,
+          "winRate": "0.0854",
+          "pickRate": "0.1383"
+        },
+        {
+          "patch": "11.18",
+          "wins": 143,
+          "totalGames": 2805,
+          "picks": 257,
+          "winRate": "0.051",
+          "pickRate": "0.0917"
+        },
+        {
+          "patch": "11.19",
+          "wins": 180,
+          "totalGames": 3686,
+          "picks": 369,
+          "winRate": "0.0489",
+          "pickRate": "0.1002"
+        }
+      ]
+    },
+    {
+      "name": "Riven",
+      "id": 92,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 13,
+          "totalGames": 246,
+          "picks": 28,
+          "winRate": "0.0529",
+          "pickRate": "0.1139"
+        },
+        {
+          "patch": "11.18",
+          "wins": 140,
+          "totalGames": 2805,
+          "picks": 263,
+          "winRate": "0.05",
+          "pickRate": "0.0938"
+        },
+        {
+          "patch": "11.19",
+          "wins": 171,
+          "totalGames": 3686,
+          "picks": 313,
+          "winRate": "0.0464",
+          "pickRate": "0.085"
+        }
+      ]
+    },
+    {
+      "name": "Yuumi",
+      "id": 350,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 12,
+          "totalGames": 246,
+          "picks": 19,
+          "winRate": "0.0488",
+          "pickRate": "0.0773"
+        },
+        {
+          "patch": "11.18",
+          "wins": 143,
+          "totalGames": 2805,
+          "picks": 279,
+          "winRate": "0.051",
+          "pickRate": "0.0995"
+        },
+        {
+          "patch": "11.19",
+          "wins": 181,
+          "totalGames": 3686,
+          "picks": 377,
+          "winRate": "0.0492",
+          "pickRate": "0.1023"
+        }
+      ]
+    },
+    {
+      "name": "KogMaw",
+      "id": 96,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 6,
+          "winRate": "0.0082",
+          "pickRate": "0.0244"
+        },
+        {
+          "patch": "11.18",
+          "wins": 64,
+          "totalGames": 2805,
+          "picks": 121,
+          "winRate": "0.0229",
+          "pickRate": "0.0432"
+        },
+        {
+          "patch": "11.19",
+          "wins": 44,
+          "totalGames": 3686,
+          "picks": 97,
+          "winRate": "0.012",
+          "pickRate": "0.0264"
+        }
+      ]
+    },
+    {
+      "name": "Shen",
+      "id": 98,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 8,
+          "winRate": "0.0204",
+          "pickRate": "0.0326"
+        },
+        {
+          "patch": "11.18",
+          "wins": 107,
+          "totalGames": 2805,
+          "picks": 206,
+          "winRate": "0.0382",
+          "pickRate": "0.0735"
+        },
+        {
+          "patch": "11.19",
+          "wins": 113,
+          "totalGames": 3686,
+          "picks": 248,
+          "winRate": "0.0307",
+          "pickRate": "0.0673"
+        }
+      ]
+    },
+    {
+      "name": "Lux",
+      "id": 99,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 7,
+          "winRate": "0.0122",
+          "pickRate": "0.0285"
+        },
+        {
+          "patch": "11.18",
+          "wins": 25,
+          "totalGames": 2805,
+          "picks": 69,
+          "winRate": "0.009",
+          "pickRate": "0.0246"
+        },
+        {
+          "patch": "11.19",
+          "wins": 38,
+          "totalGames": 3686,
+          "picks": 93,
+          "winRate": "0.0104",
+          "pickRate": "0.0253"
+        }
+      ]
+    },
+    {
+      "name": "Xerath",
+      "id": 101,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 7,
+          "winRate": "0.0122",
+          "pickRate": "0.0285"
+        },
+        {
+          "patch": "11.18",
+          "wins": 40,
+          "totalGames": 2805,
+          "picks": 77,
+          "winRate": "0.0143",
+          "pickRate": "0.0275"
+        },
+        {
+          "patch": "11.19",
+          "wins": 45,
+          "totalGames": 3686,
+          "picks": 97,
+          "winRate": "0.0123",
+          "pickRate": "0.0264"
+        }
+      ]
+    },
+    {
+      "name": "Shyvana",
+      "id": 102,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 3,
+          "winRate": "0.0082",
+          "pickRate": "0.0122"
+        },
+        {
+          "patch": "11.18",
+          "wins": 34,
+          "totalGames": 2805,
+          "picks": 78,
+          "winRate": "0.0122",
+          "pickRate": "0.0279"
+        },
+        {
+          "patch": "11.19",
+          "wins": 39,
+          "totalGames": 3686,
+          "picks": 79,
+          "winRate": "0.0106",
+          "pickRate": "0.0215"
+        }
+      ]
+    },
+    {
+      "name": "Ahri",
+      "id": 103,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 10,
+          "totalGames": 246,
+          "picks": 18,
+          "winRate": "0.0407",
+          "pickRate": "0.0732"
+        },
+        {
+          "patch": "11.18",
+          "wins": 73,
+          "totalGames": 2805,
+          "picks": 141,
+          "winRate": "0.0261",
+          "pickRate": "0.0503"
+        },
+        {
+          "patch": "11.19",
+          "wins": 116,
+          "totalGames": 3686,
+          "picks": 206,
+          "winRate": "0.0315",
+          "pickRate": "0.0559"
+        }
+      ]
+    },
+    {
+      "name": "Graves",
+      "id": 104,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 34,
+          "totalGames": 246,
+          "picks": 53,
+          "winRate": "0.1383",
+          "pickRate": "0.2155"
+        },
+        {
+          "patch": "11.18",
+          "wins": 203,
+          "totalGames": 2805,
+          "picks": 398,
+          "winRate": "0.0724",
+          "pickRate": "0.1419"
+        },
+        {
+          "patch": "11.19",
+          "wins": 250,
+          "totalGames": 3686,
+          "picks": 532,
+          "winRate": "0.0679",
+          "pickRate": "0.1444"
+        }
+      ]
+    },
+    {
+      "name": "Samira",
+      "id": 360,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 10,
+          "totalGames": 246,
+          "picks": 16,
+          "winRate": "0.0407",
+          "pickRate": "0.0651"
+        },
+        {
+          "patch": "11.18",
+          "wins": 83,
+          "totalGames": 2805,
+          "picks": 191,
+          "winRate": "0.0296",
+          "pickRate": "0.0681"
+        },
+        {
+          "patch": "11.19",
+          "wins": 117,
+          "totalGames": 3686,
+          "picks": 231,
+          "winRate": "0.0318",
+          "pickRate": "0.0627"
+        }
+      ]
+    },
+    {
+      "name": "Fizz",
+      "id": 105,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 8,
+          "winRate": "0.0122",
+          "pickRate": "0.0326"
+        },
+        {
+          "patch": "11.18",
+          "wins": 30,
+          "totalGames": 2805,
+          "picks": 72,
+          "winRate": "0.0107",
+          "pickRate": "0.0257"
+        },
+        {
+          "patch": "11.19",
+          "wins": 71,
+          "totalGames": 3686,
+          "picks": 140,
+          "winRate": "0.0193",
+          "pickRate": "0.038"
+        }
+      ]
+    },
+    {
+      "name": "Volibear",
+      "id": 106,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 7,
+          "winRate": "0.0122",
+          "pickRate": "0.0285"
+        },
+        {
+          "patch": "11.18",
+          "wins": 35,
+          "totalGames": 2805,
+          "picks": 65,
+          "winRate": "0.0125",
+          "pickRate": "0.0232"
+        },
+        {
+          "patch": "11.19",
+          "wins": 18,
+          "totalGames": 3686,
+          "picks": 40,
+          "winRate": "0.0049",
+          "pickRate": "0.0109"
+        }
+      ]
+    },
+    {
+      "name": "Sett",
+      "id": 875,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 15,
+          "totalGames": 246,
+          "picks": 25,
+          "winRate": "0.061",
+          "pickRate": "0.1017"
+        },
+        {
+          "patch": "11.18",
+          "wins": 227,
+          "totalGames": 2805,
+          "picks": 470,
+          "winRate": "0.081",
+          "pickRate": "0.1676"
+        },
+        {
+          "patch": "11.19",
+          "wins": 288,
+          "totalGames": 3686,
+          "picks": 554,
+          "winRate": "0.0782",
+          "pickRate": "0.1503"
+        }
+      ]
+    },
+    {
+      "name": "Rengar",
+      "id": 107,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 11,
+          "totalGames": 246,
+          "picks": 14,
+          "winRate": "0.0448",
+          "pickRate": "0.057"
+        },
+        {
+          "patch": "11.18",
+          "wins": 95,
+          "totalGames": 2805,
+          "picks": 196,
+          "winRate": "0.0339",
+          "pickRate": "0.0699"
+        },
+        {
+          "patch": "11.19",
+          "wins": 113,
+          "totalGames": 3686,
+          "picks": 211,
+          "winRate": "0.0307",
+          "pickRate": "0.0573"
+        }
+      ]
+    },
+    {
+      "name": "Lillia",
+      "id": 876,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 13,
+          "totalGames": 246,
+          "picks": 20,
+          "winRate": "0.0529",
+          "pickRate": "0.0814"
+        },
+        {
+          "patch": "11.18",
+          "wins": 81,
+          "totalGames": 2805,
+          "picks": 160,
+          "winRate": "0.0289",
+          "pickRate": "0.0571"
+        },
+        {
+          "patch": "11.19",
+          "wins": 122,
+          "totalGames": 3686,
+          "picks": 244,
+          "winRate": "0.0331",
+          "pickRate": "0.0662"
+        }
+      ]
+    },
+    {
+      "name": "Varus",
+      "id": 110,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 0,
+          "totalGames": 246,
+          "picks": 0,
+          "winRate": "0",
+          "pickRate": "0"
+        },
+        {
+          "patch": "11.18",
+          "wins": 70,
+          "totalGames": 2805,
+          "picks": 143,
+          "winRate": "0.025",
+          "pickRate": "0.051"
+        },
+        {
+          "patch": "11.19",
+          "wins": 26,
+          "totalGames": 3686,
+          "picks": 52,
+          "winRate": "0.0071",
+          "pickRate": "0.0142"
+        }
+      ]
+    },
+    {
+      "name": "Nautilus",
+      "id": 111,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 21,
+          "totalGames": 246,
+          "picks": 32,
+          "winRate": "0.0854",
+          "pickRate": "0.1301"
+        },
+        {
+          "patch": "11.18",
+          "wins": 119,
+          "totalGames": 2805,
+          "picks": 233,
+          "winRate": "0.0425",
+          "pickRate": "0.0831"
+        },
+        {
+          "patch": "11.19",
+          "wins": 188,
+          "totalGames": 3686,
+          "picks": 346,
+          "winRate": "0.0511",
+          "pickRate": "0.0939"
+        }
+      ]
+    },
+    {
+      "name": "Viktor",
+      "id": 112,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 9,
+          "winRate": "0.0122",
+          "pickRate": "0.0366"
+        },
+        {
+          "patch": "11.18",
+          "wins": 39,
+          "totalGames": 2805,
+          "picks": 76,
+          "winRate": "0.014",
+          "pickRate": "0.0271"
+        },
+        {
+          "patch": "11.19",
+          "wins": 55,
+          "totalGames": 3686,
+          "picks": 113,
+          "winRate": "0.015",
+          "pickRate": "0.0307"
+        }
+      ]
+    },
+    {
+      "name": "Sejuani",
+      "id": 113,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 8,
+          "winRate": "0.0163",
+          "pickRate": "0.0326"
+        },
+        {
+          "patch": "11.18",
+          "wins": 21,
+          "totalGames": 2805,
+          "picks": 39,
+          "winRate": "0.0075",
+          "pickRate": "0.014"
+        },
+        {
+          "patch": "11.19",
+          "wins": 39,
+          "totalGames": 3686,
+          "picks": 78,
+          "winRate": "0.0106",
+          "pickRate": "0.0212"
+        }
+      ]
+    },
+    {
+      "name": "Fiora",
+      "id": 114,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 25,
+          "totalGames": 246,
+          "picks": 36,
+          "winRate": "0.1017",
+          "pickRate": "0.1464"
+        },
+        {
+          "patch": "11.18",
+          "wins": 167,
+          "totalGames": 2805,
+          "picks": 320,
+          "winRate": "0.0596",
+          "pickRate": "0.1141"
+        },
+        {
+          "patch": "11.19",
+          "wins": 244,
+          "totalGames": 3686,
+          "picks": 469,
+          "winRate": "0.0662",
+          "pickRate": "0.1273"
+        }
+      ]
+    },
+    {
+      "name": "Ziggs",
+      "id": 115,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 6,
+          "totalGames": 246,
+          "picks": 19,
+          "winRate": "0.0244",
+          "pickRate": "0.0773"
+        },
+        {
+          "patch": "11.18",
+          "wins": 127,
+          "totalGames": 2805,
+          "picks": 243,
+          "winRate": "0.0453",
+          "pickRate": "0.0867"
+        },
+        {
+          "patch": "11.19",
+          "wins": 161,
+          "totalGames": 3686,
+          "picks": 308,
+          "winRate": "0.0437",
+          "pickRate": "0.0836"
+        }
+      ]
+    },
+    {
+      "name": "Lulu",
+      "id": 117,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 6,
+          "totalGames": 246,
+          "picks": 15,
+          "winRate": "0.0244",
+          "pickRate": "0.061"
+        },
+        {
+          "patch": "11.18",
+          "wins": 105,
+          "totalGames": 2805,
+          "picks": 232,
+          "winRate": "0.0375",
+          "pickRate": "0.0828"
+        },
+        {
+          "patch": "11.19",
+          "wins": 123,
+          "totalGames": 3686,
+          "picks": 266,
+          "winRate": "0.0334",
+          "pickRate": "0.0722"
+        }
+      ]
+    },
+    {
+      "name": "Draven",
+      "id": 119,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 15,
+          "totalGames": 246,
+          "picks": 31,
+          "winRate": "0.061",
+          "pickRate": "0.1261"
+        },
+        {
+          "patch": "11.18",
+          "wins": 209,
+          "totalGames": 2805,
+          "picks": 415,
+          "winRate": "0.0746",
+          "pickRate": "0.148"
+        },
+        {
+          "patch": "11.19",
+          "wins": 217,
+          "totalGames": 3686,
+          "picks": 402,
+          "winRate": "0.0589",
+          "pickRate": "0.1091"
+        }
+      ]
+    },
+    {
+      "name": "Gwen",
+      "id": 887,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 7,
+          "winRate": "0.0122",
+          "pickRate": "0.0285"
+        },
+        {
+          "patch": "11.18",
+          "wins": 19,
+          "totalGames": 2805,
+          "picks": 47,
+          "winRate": "0.0068",
+          "pickRate": "0.0168"
+        },
+        {
+          "patch": "11.19",
+          "wins": 54,
+          "totalGames": 3686,
+          "picks": 109,
+          "winRate": "0.0147",
+          "pickRate": "0.0296"
+        }
+      ]
+    },
+    {
+      "name": "Hecarim",
+      "id": 120,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 8,
+          "totalGames": 246,
+          "picks": 18,
+          "winRate": "0.0326",
+          "pickRate": "0.0732"
+        },
+        {
+          "patch": "11.18",
+          "wins": 54,
+          "totalGames": 2805,
+          "picks": 90,
+          "winRate": "0.0193",
+          "pickRate": "0.0321"
+        },
+        {
+          "patch": "11.19",
+          "wins": 74,
+          "totalGames": 3686,
+          "picks": 158,
+          "winRate": "0.0201",
+          "pickRate": "0.0429"
+        }
+      ]
+    },
+    {
+      "name": "Khazix",
+      "id": 121,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 17,
+          "winRate": "0.0204",
+          "pickRate": "0.0692"
+        },
+        {
+          "patch": "11.18",
+          "wins": 162,
+          "totalGames": 2805,
+          "picks": 343,
+          "winRate": "0.0578",
+          "pickRate": "0.1223"
+        },
+        {
+          "patch": "11.19",
+          "wins": 172,
+          "totalGames": 3686,
+          "picks": 369,
+          "winRate": "0.0467",
+          "pickRate": "0.1002"
+        }
+      ]
+    },
+    {
+      "name": "Darius",
+      "id": 122,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 9,
+          "winRate": "0.0082",
+          "pickRate": "0.0366"
+        },
+        {
+          "patch": "11.18",
+          "wins": 18,
+          "totalGames": 2805,
+          "picks": 50,
+          "winRate": "0.0065",
+          "pickRate": "0.0179"
+        },
+        {
+          "patch": "11.19",
+          "wins": 23,
+          "totalGames": 3686,
+          "picks": 52,
+          "winRate": "0.0063",
+          "pickRate": "0.0142"
+        }
+      ]
+    },
+    {
+      "name": "Jayce",
+      "id": 126,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 14,
+          "winRate": "0.0204",
+          "pickRate": "0.057"
+        },
+        {
+          "patch": "11.18",
+          "wins": 112,
+          "totalGames": 2805,
+          "picks": 241,
+          "winRate": "0.04",
+          "pickRate": "0.086"
+        },
+        {
+          "patch": "11.19",
+          "wins": 107,
+          "totalGames": 3686,
+          "picks": 230,
+          "winRate": "0.0291",
+          "pickRate": "0.0624"
+        }
+      ]
+    },
+    {
+      "name": "Lissandra",
+      "id": 127,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 1,
+          "totalGames": 246,
+          "picks": 6,
+          "winRate": "0.0041",
+          "pickRate": "0.0244"
+        },
+        {
+          "patch": "11.18",
+          "wins": 27,
+          "totalGames": 2805,
+          "picks": 80,
+          "winRate": "0.0097",
+          "pickRate": "0.0286"
+        },
+        {
+          "patch": "11.19",
+          "wins": 61,
+          "totalGames": 3686,
+          "picks": 124,
+          "winRate": "0.0166",
+          "pickRate": "0.0337"
+        }
+      ]
+    },
+    {
+      "name": "Diana",
+      "id": 131,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 3,
+          "totalGames": 246,
+          "picks": 6,
+          "winRate": "0.0122",
+          "pickRate": "0.0244"
+        },
+        {
+          "patch": "11.18",
+          "wins": 64,
+          "totalGames": 2805,
+          "picks": 150,
+          "winRate": "0.0229",
+          "pickRate": "0.0535"
+        },
+        {
+          "patch": "11.19",
+          "wins": 84,
+          "totalGames": 3686,
+          "picks": 168,
+          "winRate": "0.0228",
+          "pickRate": "0.0456"
+        }
+      ]
+    },
+    {
+      "name": "Quinn",
+      "id": 133,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 0,
+          "totalGames": 246,
+          "picks": 0,
+          "winRate": "0",
+          "pickRate": "0"
+        },
+        {
+          "patch": "11.18",
+          "wins": 7,
+          "totalGames": 2805,
+          "picks": 10,
+          "winRate": "0.0025",
+          "pickRate": "0.0036"
+        },
+        {
+          "patch": "11.19",
+          "wins": 15,
+          "totalGames": 3686,
+          "picks": 34,
+          "winRate": "0.0041",
+          "pickRate": "0.0093"
+        }
+      ]
+    },
+    {
+      "name": "Syndra",
+      "id": 134,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 8,
+          "totalGames": 246,
+          "picks": 12,
+          "winRate": "0.0326",
+          "pickRate": "0.0488"
+        },
+        {
+          "patch": "11.18",
+          "wins": 64,
+          "totalGames": 2805,
+          "picks": 127,
+          "winRate": "0.0229",
+          "pickRate": "0.0453"
+        },
+        {
+          "patch": "11.19",
+          "wins": 89,
+          "totalGames": 3686,
+          "picks": 163,
+          "winRate": "0.0242",
+          "pickRate": "0.0443"
+        }
+      ]
+    },
+    {
+      "name": "AurelionSol",
+      "id": 136,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 1,
+          "totalGames": 246,
+          "picks": 2,
+          "winRate": "0.0041",
+          "pickRate": "0.0082"
+        },
+        {
+          "patch": "11.18",
+          "wins": 5,
+          "totalGames": 2805,
+          "picks": 9,
+          "winRate": "0.0018",
+          "pickRate": "0.0033"
+        },
+        {
+          "patch": "11.19",
+          "wins": 9,
+          "totalGames": 3686,
+          "picks": 19,
+          "winRate": "0.0025",
+          "pickRate": "0.0052"
+        }
+      ]
+    },
+    {
+      "name": "Kayn",
+      "id": 141,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 13,
+          "winRate": "0.0163",
+          "pickRate": "0.0529"
+        },
+        {
+          "patch": "11.18",
+          "wins": 92,
+          "totalGames": 2805,
+          "picks": 184,
+          "winRate": "0.0328",
+          "pickRate": "0.0656"
+        },
+        {
+          "patch": "11.19",
+          "wins": 166,
+          "totalGames": 3686,
+          "picks": 337,
+          "winRate": "0.0451",
+          "pickRate": "0.0915"
+        }
+      ]
+    },
+    {
+      "name": "Zoe",
+      "id": 142,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 14,
+          "totalGames": 246,
+          "picks": 21,
+          "winRate": "0.057",
+          "pickRate": "0.0854"
+        },
+        {
+          "patch": "11.18",
+          "wins": 84,
+          "totalGames": 2805,
+          "picks": 172,
+          "winRate": "0.03",
+          "pickRate": "0.0614"
+        },
+        {
+          "patch": "11.19",
+          "wins": 97,
+          "totalGames": 3686,
+          "picks": 190,
+          "winRate": "0.0264",
+          "pickRate": "0.0516"
+        }
+      ]
+    },
+    {
+      "name": "Zyra",
+      "id": 143,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 8,
+          "winRate": "0.0163",
+          "pickRate": "0.0326"
+        },
+        {
+          "patch": "11.18",
+          "wins": 20,
+          "totalGames": 2805,
+          "picks": 44,
+          "winRate": "0.0072",
+          "pickRate": "0.0157"
+        },
+        {
+          "patch": "11.19",
+          "wins": 35,
+          "totalGames": 3686,
+          "picks": 55,
+          "winRate": "0.0095",
+          "pickRate": "0.015"
+        }
+      ]
+    },
+    {
+      "name": "Kaisa",
+      "id": 145,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 9,
+          "totalGames": 246,
+          "picks": 23,
+          "winRate": "0.0366",
+          "pickRate": "0.0935"
+        },
+        {
+          "patch": "11.18",
+          "wins": 104,
+          "totalGames": 2805,
+          "picks": 210,
+          "winRate": "0.0371",
+          "pickRate": "0.0749"
+        },
+        {
+          "patch": "11.19",
+          "wins": 147,
+          "totalGames": 3686,
+          "picks": 299,
+          "winRate": "0.0399",
+          "pickRate": "0.0812"
+        }
+      ]
+    },
+    {
+      "name": "Seraphine",
+      "id": 147,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 7,
+          "totalGames": 246,
+          "picks": 13,
+          "winRate": "0.0285",
+          "pickRate": "0.0529"
+        },
+        {
+          "patch": "11.18",
+          "wins": 123,
+          "totalGames": 2805,
+          "picks": 222,
+          "winRate": "0.0439",
+          "pickRate": "0.0792"
+        },
+        {
+          "patch": "11.19",
+          "wins": 164,
+          "totalGames": 3686,
+          "picks": 353,
+          "winRate": "0.0445",
+          "pickRate": "0.0958"
+        }
+      ]
+    },
+    {
+      "name": "Gnar",
+      "id": 150,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 3,
+          "winRate": "0.0082",
+          "pickRate": "0.0122"
+        },
+        {
+          "patch": "11.18",
+          "wins": 50,
+          "totalGames": 2805,
+          "picks": 103,
+          "winRate": "0.0179",
+          "pickRate": "0.0368"
+        },
+        {
+          "patch": "11.19",
+          "wins": 40,
+          "totalGames": 3686,
+          "picks": 95,
+          "winRate": "0.0109",
+          "pickRate": "0.0258"
+        }
+      ]
+    },
+    {
+      "name": "Zac",
+      "id": 154,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 9,
+          "winRate": "0.0163",
+          "pickRate": "0.0366"
+        },
+        {
+          "patch": "11.18",
+          "wins": 70,
+          "totalGames": 2805,
+          "picks": 121,
+          "winRate": "0.025",
+          "pickRate": "0.0432"
+        },
+        {
+          "patch": "11.19",
+          "wins": 94,
+          "totalGames": 3686,
+          "picks": 176,
+          "winRate": "0.0256",
+          "pickRate": "0.0478"
+        }
+      ]
+    },
+    {
+      "name": "Thresh",
+      "id": 412,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 12,
+          "totalGames": 246,
+          "picks": 29,
+          "winRate": "0.0488",
+          "pickRate": "0.1179"
+        },
+        {
+          "patch": "11.18",
+          "wins": 151,
+          "totalGames": 2805,
+          "picks": 335,
+          "winRate": "0.0539",
+          "pickRate": "0.1195"
+        },
+        {
+          "patch": "11.19",
+          "wins": 215,
+          "totalGames": 3686,
+          "picks": 438,
+          "winRate": "0.0584",
+          "pickRate": "0.1189"
+        }
+      ]
+    },
+    {
+      "name": "Yasuo",
+      "id": 157,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 20,
+          "totalGames": 246,
+          "picks": 35,
+          "winRate": "0.0814",
+          "pickRate": "0.1423"
+        },
+        {
+          "patch": "11.18",
+          "wins": 189,
+          "totalGames": 2805,
+          "picks": 333,
+          "winRate": "0.0674",
+          "pickRate": "0.1188"
+        },
+        {
+          "patch": "11.19",
+          "wins": 206,
+          "totalGames": 3686,
+          "picks": 426,
+          "winRate": "0.0559",
+          "pickRate": "0.1156"
+        }
+      ]
+    },
+    {
+      "name": "Velkoz",
+      "id": 161,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 1,
+          "totalGames": 246,
+          "picks": 3,
+          "winRate": "0.0041",
+          "pickRate": "0.0122"
+        },
+        {
+          "patch": "11.18",
+          "wins": 13,
+          "totalGames": 2805,
+          "picks": 27,
+          "winRate": "0.0047",
+          "pickRate": "0.0097"
+        },
+        {
+          "patch": "11.19",
+          "wins": 13,
+          "totalGames": 3686,
+          "picks": 24,
+          "winRate": "0.0036",
+          "pickRate": "0.0066"
+        }
+      ]
+    },
+    {
+      "name": "Taliyah",
+      "id": 163,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 10,
+          "totalGames": 246,
+          "picks": 25,
+          "winRate": "0.0407",
+          "pickRate": "0.1017"
+        },
+        {
+          "patch": "11.18",
+          "wins": 126,
+          "totalGames": 2805,
+          "picks": 247,
+          "winRate": "0.045",
+          "pickRate": "0.0881"
+        },
+        {
+          "patch": "11.19",
+          "wins": 240,
+          "totalGames": 3686,
+          "picks": 426,
+          "winRate": "0.0652",
+          "pickRate": "0.1156"
+        }
+      ]
+    },
+    {
+      "name": "Camille",
+      "id": 164,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 31,
+          "totalGames": 246,
+          "picks": 60,
+          "winRate": "0.1261",
+          "pickRate": "0.244"
+        },
+        {
+          "patch": "11.18",
+          "wins": 306,
+          "totalGames": 2805,
+          "picks": 570,
+          "winRate": "0.1091",
+          "pickRate": "0.2033"
+        },
+        {
+          "patch": "11.19",
+          "wins": 417,
+          "totalGames": 3686,
+          "picks": 805,
+          "winRate": "0.1132",
+          "pickRate": "0.2184"
+        }
+      ]
+    },
+    {
+      "name": "Illaoi",
+      "id": 420,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 2,
+          "winRate": "0.0082",
+          "pickRate": "0.0082"
+        },
+        {
+          "patch": "11.18",
+          "wins": 1,
+          "totalGames": 2805,
+          "picks": 6,
+          "winRate": "0.0004",
+          "pickRate": "0.0022"
+        },
+        {
+          "patch": "11.19",
+          "wins": 18,
+          "totalGames": 3686,
+          "picks": 29,
+          "winRate": "0.0049",
+          "pickRate": "0.0079"
+        }
+      ]
+    },
+    {
+      "name": "RekSai",
+      "id": 421,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 2,
+          "winRate": "0.0082",
+          "pickRate": "0.0082"
+        },
+        {
+          "patch": "11.18",
+          "wins": 13,
+          "totalGames": 2805,
+          "picks": 30,
+          "winRate": "0.0047",
+          "pickRate": "0.0107"
+        },
+        {
+          "patch": "11.19",
+          "wins": 33,
+          "totalGames": 3686,
+          "picks": 61,
+          "winRate": "0.009",
+          "pickRate": "0.0166"
+        }
+      ]
+    },
+    {
+      "name": "Akshan",
+      "id": 166,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 13,
+          "totalGames": 246,
+          "picks": 25,
+          "winRate": "0.0529",
+          "pickRate": "0.1017"
+        },
+        {
+          "patch": "11.18",
+          "wins": 85,
+          "totalGames": 2805,
+          "picks": 162,
+          "winRate": "0.0304",
+          "pickRate": "0.0578"
+        },
+        {
+          "patch": "11.19",
+          "wins": 139,
+          "totalGames": 3686,
+          "picks": 251,
+          "winRate": "0.0378",
+          "pickRate": "0.0681"
+        }
+      ]
+    },
+    {
+      "name": "Ivern",
+      "id": 427,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 12,
+          "winRate": "0.0204",
+          "pickRate": "0.0488"
+        },
+        {
+          "patch": "11.18",
+          "wins": 37,
+          "totalGames": 2805,
+          "picks": 70,
+          "winRate": "0.0132",
+          "pickRate": "0.025"
+        },
+        {
+          "patch": "11.19",
+          "wins": 105,
+          "totalGames": 3686,
+          "picks": 194,
+          "winRate": "0.0285",
+          "pickRate": "0.0527"
+        }
+      ]
+    },
+    {
+      "name": "Kalista",
+      "id": 429,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 2,
+          "totalGames": 246,
+          "picks": 2,
+          "winRate": "0.0082",
+          "pickRate": "0.0082"
+        },
+        {
+          "patch": "11.18",
+          "wins": 31,
+          "totalGames": 2805,
+          "picks": 66,
+          "winRate": "0.0111",
+          "pickRate": "0.0236"
+        },
+        {
+          "patch": "11.19",
+          "wins": 25,
+          "totalGames": 3686,
+          "picks": 45,
+          "winRate": "0.0068",
+          "pickRate": "0.0123"
+        }
+      ]
+    },
+    {
+      "name": "Bard",
+      "id": 432,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 6,
+          "totalGames": 246,
+          "picks": 13,
+          "winRate": "0.0244",
+          "pickRate": "0.0529"
+        },
+        {
+          "patch": "11.18",
+          "wins": 119,
+          "totalGames": 2805,
+          "picks": 230,
+          "winRate": "0.0425",
+          "pickRate": "0.082"
+        },
+        {
+          "patch": "11.19",
+          "wins": 139,
+          "totalGames": 3686,
+          "picks": 272,
+          "winRate": "0.0378",
+          "pickRate": "0.0738"
+        }
+      ]
+    },
+    {
+      "name": "Vex",
+      "id": 711,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 20,
+          "totalGames": 246,
+          "picks": 42,
+          "winRate": "0.0814",
+          "pickRate": "0.1708"
+        },
+        {
+          "patch": "11.19",
+          "wins": 303,
+          "totalGames": 3686,
+          "picks": 667,
+          "winRate": "0.0823",
+          "pickRate": "0.181"
+        }
+      ]
+    },
+    {
+      "name": "Braum",
+      "id": 201,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 7,
+          "totalGames": 246,
+          "picks": 9,
+          "winRate": "0.0285",
+          "pickRate": "0.0366"
+        },
+        {
+          "patch": "11.18",
+          "wins": 78,
+          "totalGames": 2805,
+          "picks": 130,
+          "winRate": "0.0279",
+          "pickRate": "0.0464"
+        },
+        {
+          "patch": "11.19",
+          "wins": 96,
+          "totalGames": 3686,
+          "picks": 177,
+          "winRate": "0.0261",
+          "pickRate": "0.0481"
+        }
+      ]
+    },
+    {
+      "name": "Jhin",
+      "id": 202,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 10,
+          "totalGames": 246,
+          "picks": 23,
+          "winRate": "0.0407",
+          "pickRate": "0.0935"
+        },
+        {
+          "patch": "11.18",
+          "wins": 204,
+          "totalGames": 2805,
+          "picks": 400,
+          "winRate": "0.0728",
+          "pickRate": "0.1427"
+        },
+        {
+          "patch": "11.19",
+          "wins": 238,
+          "totalGames": 3686,
+          "picks": 475,
+          "winRate": "0.0646",
+          "pickRate": "0.1289"
+        }
+      ]
+    },
+    {
+      "name": "Kindred",
+      "id": 203,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 19,
+          "totalGames": 246,
+          "picks": 27,
+          "winRate": "0.0773",
+          "pickRate": "0.1098"
+        },
+        {
+          "patch": "11.18",
+          "wins": 103,
+          "totalGames": 2805,
+          "picks": 218,
+          "winRate": "0.0368",
+          "pickRate": "0.0778"
+        },
+        {
+          "patch": "11.19",
+          "wins": 178,
+          "totalGames": 3686,
+          "picks": 349,
+          "winRate": "0.0483",
+          "pickRate": "0.0947"
+        }
+      ]
+    },
+    {
+      "name": "Jinx",
+      "id": 222,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 9,
+          "totalGames": 246,
+          "picks": 14,
+          "winRate": "0.0366",
+          "pickRate": "0.057"
+        },
+        {
+          "patch": "11.18",
+          "wins": 97,
+          "totalGames": 2805,
+          "picks": 174,
+          "winRate": "0.0346",
+          "pickRate": "0.0621"
+        },
+        {
+          "patch": "11.19",
+          "wins": 130,
+          "totalGames": 3686,
+          "picks": 231,
+          "winRate": "0.0353",
+          "pickRate": "0.0627"
+        }
+      ]
+    },
+    {
+      "name": "TahmKench",
+      "id": 223,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 4,
+          "totalGames": 246,
+          "picks": 8,
+          "winRate": "0.0163",
+          "pickRate": "0.0326"
+        },
+        {
+          "patch": "11.18",
+          "wins": 52,
+          "totalGames": 2805,
+          "picks": 109,
+          "winRate": "0.0186",
+          "pickRate": "0.0389"
+        },
+        {
+          "patch": "11.19",
+          "wins": 65,
+          "totalGames": 3686,
+          "picks": 136,
+          "winRate": "0.0177",
+          "pickRate": "0.0369"
+        }
+      ]
+    },
+    {
+      "name": "Viego",
+      "id": 234,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 7,
+          "totalGames": 246,
+          "picks": 15,
+          "winRate": "0.0285",
+          "pickRate": "0.061"
+        },
+        {
+          "patch": "11.18",
+          "wins": 105,
+          "totalGames": 2805,
+          "picks": 236,
+          "winRate": "0.0375",
+          "pickRate": "0.0842"
+        },
+        {
+          "patch": "11.19",
+          "wins": 123,
+          "totalGames": 3686,
+          "picks": 261,
+          "winRate": "0.0334",
+          "pickRate": "0.0709"
+        }
+      ]
+    },
+    {
+      "name": "Senna",
+      "id": 235,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 14,
+          "totalGames": 246,
+          "picks": 24,
+          "winRate": "0.057",
+          "pickRate": "0.0976"
+        },
+        {
+          "patch": "11.18",
+          "wins": 80,
+          "totalGames": 2805,
+          "picks": 163,
+          "winRate": "0.0286",
+          "pickRate": "0.0582"
+        },
+        {
+          "patch": "11.19",
+          "wins": 131,
+          "totalGames": 3686,
+          "picks": 239,
+          "winRate": "0.0356",
+          "pickRate": "0.0649"
+        }
+      ]
+    },
+    {
+      "name": "Lucian",
+      "id": 236,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 31,
+          "totalGames": 246,
+          "picks": 64,
+          "winRate": "0.1261",
+          "pickRate": "0.2602"
+        },
+        {
+          "patch": "11.18",
+          "wins": 249,
+          "totalGames": 2805,
+          "picks": 488,
+          "winRate": "0.0888",
+          "pickRate": "0.174"
+        },
+        {
+          "patch": "11.19",
+          "wins": 403,
+          "totalGames": 3686,
+          "picks": 850,
+          "winRate": "0.1094",
+          "pickRate": "0.2307"
+        }
+      ]
+    },
+    {
+      "name": "Zed",
+      "id": 238,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 13,
+          "totalGames": 246,
+          "picks": 31,
+          "winRate": "0.0529",
+          "pickRate": "0.1261"
+        },
+        {
+          "patch": "11.18",
+          "wins": 222,
+          "totalGames": 2805,
+          "picks": 470,
+          "winRate": "0.0792",
+          "pickRate": "0.1676"
+        },
+        {
+          "patch": "11.19",
+          "wins": 218,
+          "totalGames": 3686,
+          "picks": 460,
+          "winRate": "0.0592",
+          "pickRate": "0.1248"
+        }
+      ]
+    },
+    {
+      "name": "Kled",
+      "id": 240,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 1,
+          "totalGames": 246,
+          "picks": 3,
+          "winRate": "0.0041",
+          "pickRate": "0.0122"
+        },
+        {
+          "patch": "11.18",
+          "wins": 49,
+          "totalGames": 2805,
+          "picks": 97,
+          "winRate": "0.0175",
+          "pickRate": "0.0346"
+        },
+        {
+          "patch": "11.19",
+          "wins": 66,
+          "totalGames": 3686,
+          "picks": 126,
+          "winRate": "0.018",
+          "pickRate": "0.0342"
+        }
+      ]
+    },
+    {
+      "name": "Rakan",
+      "id": 497,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 18,
+          "totalGames": 246,
+          "picks": 33,
+          "winRate": "0.0732",
+          "pickRate": "0.1342"
+        },
+        {
+          "patch": "11.18",
+          "wins": 199,
+          "totalGames": 2805,
+          "picks": 358,
+          "winRate": "0.071",
+          "pickRate": "0.1277"
+        },
+        {
+          "patch": "11.19",
+          "wins": 192,
+          "totalGames": 3686,
+          "picks": 415,
+          "winRate": "0.0521",
+          "pickRate": "0.1126"
+        }
+      ]
+    },
+    {
+      "name": "Xayah",
+      "id": 498,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 5,
+          "totalGames": 246,
+          "picks": 14,
+          "winRate": "0.0204",
+          "pickRate": "0.057"
+        },
+        {
+          "patch": "11.18",
+          "wins": 107,
+          "totalGames": 2805,
+          "picks": 205,
+          "winRate": "0.0382",
+          "pickRate": "0.0731"
+        },
+        {
+          "patch": "11.19",
+          "wins": 80,
+          "totalGames": 3686,
+          "picks": 162,
+          "winRate": "0.0218",
+          "pickRate": "0.044"
+        }
+      ]
+    },
+    {
+      "name": "Ekko",
+      "id": 245,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 19,
+          "totalGames": 246,
+          "picks": 40,
+          "winRate": "0.0773",
+          "pickRate": "0.1627"
+        },
+        {
+          "patch": "11.18",
+          "wins": 239,
+          "totalGames": 2805,
+          "picks": 523,
+          "winRate": "0.0853",
+          "pickRate": "0.1865"
+        },
+        {
+          "patch": "11.19",
+          "wins": 350,
+          "totalGames": 3686,
+          "picks": 721,
+          "winRate": "0.095",
+          "pickRate": "0.1957"
+        }
+      ]
+    },
+    {
+      "name": "Qiyana",
+      "id": 246,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 12,
+          "totalGames": 246,
+          "picks": 31,
+          "winRate": "0.0488",
+          "pickRate": "0.1261"
+        },
+        {
+          "patch": "11.18",
+          "wins": 221,
+          "totalGames": 2805,
+          "picks": 429,
+          "winRate": "0.0788",
+          "pickRate": "0.153"
+        },
+        {
+          "patch": "11.19",
+          "wins": 234,
+          "totalGames": 3686,
+          "picks": 501,
+          "winRate": "0.0635",
+          "pickRate": "0.136"
+        }
+      ]
+    },
+    {
+      "name": "Vi",
+      "id": 254,
+      "change": [
+        {
+          "patch": "11.20",
+          "wins": 0,
+          "totalGames": 246,
+          "picks": 0,
+          "winRate": "0",
+          "pickRate": "0"
+        },
+        {
+          "patch": "11.18",
+          "wins": 6,
+          "totalGames": 2805,
+          "picks": 20,
+          "winRate": "0.0022",
+          "pickRate": "0.0072"
+        },
+        {
+          "patch": "11.19",
+          "wins": 32,
+          "totalGames": 3686,
+          "picks": 69,
+          "winRate": "0.0087",
+          "pickRate": "0.0188"
+        }
+      ]
+    }
+  ]
+}
