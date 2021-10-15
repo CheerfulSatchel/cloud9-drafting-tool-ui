@@ -57,11 +57,11 @@ const ChampionCard: React.FC<ChampionCardProps> = ({
         const prevData = currentChampionData.change.filter((changeDatum) => parseFloat(changeDatum.patch) === (parseFloat(currentPatchVersion)-0.01))[0];
         const currentPickRate = Math.round(parseFloat(currentData.pickRate) * 100);
         const prevPickRate = Math.round(parseFloat(prevData.pickRate) * 100);
-        setPickBadgeText(`${(currentPickRate < prevPickRate ? '-' : '+')}${Math.abs(currentPickRate - prevPickRate)}% (${prevPickRate}%->${currentPickRate}%)`)
+        setPickBadgeText(`${(currentPickRate < prevPickRate ? '-' : '+')}${Math.abs(currentPickRate - prevPickRate)}% (${prevPickRate}% -> ${currentPickRate}%)`)
 
         const currentWinRate = Math.round(parseFloat(currentData.winRate) * 100);
         const prevWinRate = Math.round(parseFloat(prevData.winRate) * 100);
-        setWinBadgeText(`${(currentWinRate < prevWinRate ? '-' : '+')}${Math.abs(currentWinRate - prevWinRate)}% (${prevWinRate}%->${currentWinRate}%)`)
+        setWinBadgeText(`${(currentWinRate < prevWinRate ? '-' : '+')}${Math.abs(currentWinRate - prevWinRate)}% (${prevWinRate}% -> ${currentWinRate}%)`)
 
         if (currentWinRate < prevWinRate) {
           setBadgeColor("danger");
