@@ -43,6 +43,7 @@ const ChampionCard: React.FC<ChampionCardProps> = ({
     const [winBadgeText, setWinBadgeText] = React.useState<string>("-");
     const [pickBadgeText, setPickBadgeText] = React.useState<string>("-");
     const [badgeColor, setBadgeColor] = React.useState<string>("success");
+    const [winRateColor, setWinRateColor] = React.useState<string>("secondary");
     const [badgeText, setBadgeText] = React.useState<string>("Buff");
 
     const onCardClick = () => {
@@ -66,6 +67,9 @@ const ChampionCard: React.FC<ChampionCardProps> = ({
         if (currentWinRate < prevWinRate) {
           setBadgeColor("danger");
           setBadgeText("Nerf");
+          setWinRateColor("danger");
+        } else if (currentWinRate > prevWinRate) {
+          setWinRateColor("success");
         }
       }
     }, []);
@@ -99,7 +103,7 @@ const ChampionCard: React.FC<ChampionCardProps> = ({
                     </div>
                   </div>
                   <div className="champ-rates-pill">
-                    <Badge color="primary" pill className="champ-win-rate">{`Win rate: ${winBadgeText}`}</Badge>
+                    <Badge color={winRateColor} pill className="champ-win-rate">{`Win rate: ${winBadgeText}`}</Badge>
                     <Badge color="warning" pill className="champ-pick-rate">{`Pick rate: ${pickBadgeText}`}</Badge>
                   </div>
                   <p className="description mt-1">
