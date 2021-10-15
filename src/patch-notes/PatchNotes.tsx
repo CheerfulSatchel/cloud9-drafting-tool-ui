@@ -4,16 +4,24 @@ import patchData from '../json/patch-11-19.json';
 import { FormGroup, Input } from 'reactstrap';
 
 const PatchNotes: React.FC<any> = () => {
-    const [selectedChampions, setSelectedChampions] = React.useState<string[]>([]);
+    const [selectedChampions, setSelectedChampions] = React.useState<any[]>([]);
     const [searchText, setSearchText] = React.useState<string>("");
+    const [ccPercentage, setCcPercentage] = React.useState<number>(0);
 
-    const onChampionSelected = (selectedChampion: string) => {
+    const onChampionSelected = (selectedChampion: any) => {
         const updatedSelectedChampions = [...selectedChampions];
+
         if (!updatedSelectedChampions.includes(selectedChampion)) {
             updatedSelectedChampions.push(selectedChampion);
         } else {
             updatedSelectedChampions.splice(updatedSelectedChampions.indexOf(selectedChampion), 1);
         }
+
+        let totalPercentage = 0;
+        for (let i = 0; i < updatedSelectedChampions.length; i++) {
+            totalPercentage += updatedSelectedChampions[i].ccPercentage;
+        }
+        setCcPercentage(totalPercentage);    
         setSelectedChampions(updatedSelectedChampions);
     };
 
@@ -36,10 +44,10 @@ const PatchNotes: React.FC<any> = () => {
                 </div>
                 <div className="cc-container">
                     <div className="selected-champs">
-                        Selected Champions: {selectedChampions.map((champName) => <span> {champName} |</span>)}
+                        Selected Champions: {selectedChampions.map((selectedChampion) => <span> {selectedChampion.name} |</span>)}
                     </div>
                     <div className="cc-info">
-                        CC: 0%
+                        {`CC: ${ccPercentage}%`}
                     </div>
                 </div>
             </div>

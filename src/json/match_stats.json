@@ -7,25 +7,28 @@
         {
           "patch": "11.20",
           "wins": 6,
+          "gamesPlayed": 11,
           "totalGames": 246,
           "picks": 11,
-          "winRate": "0.0244",
+          "winRate": "0.5455",
           "pickRate": "0.0448"
         },
         {
           "patch": "11.18",
           "wins": 46,
+          "gamesPlayed": 111,
           "totalGames": 2805,
           "picks": 111,
-          "winRate": "0.0164",
+          "winRate": "0.4145",
           "pickRate": "0.0396"
         },
         {
           "patch": "11.19",
           "wins": 71,
+          "gamesPlayed": 146,
           "totalGames": 3686,
           "picks": 146,
-          "winRate": "0.0193",
+          "winRate": "0.4864",
           "pickRate": "0.0397"
         }
       ]
@@ -37,25 +40,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 9,
           "totalGames": 246,
           "picks": 9,
-          "winRate": "0.0122",
+          "winRate": "0.3334",
           "pickRate": "0.0366"
         },
         {
           "patch": "11.18",
           "wins": 88,
+          "gamesPlayed": 160,
           "totalGames": 2805,
           "picks": 160,
-          "winRate": "0.0314",
+          "winRate": "0.55",
           "pickRate": "0.0571"
         },
         {
           "patch": "11.19",
           "wins": 79,
+          "gamesPlayed": 164,
           "totalGames": 3686,
           "picks": 164,
-          "winRate": "0.0215",
+          "winRate": "0.4818",
           "pickRate": "0.0445"
         }
       ]
@@ -67,25 +73,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 12,
           "totalGames": 246,
           "picks": 12,
-          "winRate": "0.0204",
+          "winRate": "0.4167",
           "pickRate": "0.0488"
         },
         {
           "patch": "11.18",
           "wins": 106,
+          "gamesPlayed": 206,
           "totalGames": 2805,
           "picks": 206,
-          "winRate": "0.0378",
+          "winRate": "0.5146",
           "pickRate": "0.0735"
         },
         {
           "patch": "11.19",
           "wins": 159,
+          "gamesPlayed": 316,
           "totalGames": 3686,
           "picks": 316,
-          "winRate": "0.0432",
+          "winRate": "0.5032",
           "pickRate": "0.0858"
         }
       ]
@@ -97,25 +106,28 @@
         {
           "patch": "11.20",
           "wins": 6,
+          "gamesPlayed": 11,
           "totalGames": 246,
           "picks": 11,
-          "winRate": "0.0244",
+          "winRate": "0.5455",
           "pickRate": "0.0448"
         },
         {
           "patch": "11.18",
           "wins": 79,
+          "gamesPlayed": 157,
           "totalGames": 2805,
           "picks": 157,
-          "winRate": "0.0282",
+          "winRate": "0.5032",
           "pickRate": "0.056"
         },
         {
           "patch": "11.19",
           "wins": 56,
+          "gamesPlayed": 131,
           "totalGames": 3686,
           "picks": 131,
-          "winRate": "0.0152",
+          "winRate": "0.4275",
           "pickRate": "0.0356"
         }
       ]
@@ -127,25 +139,28 @@
         {
           "patch": "11.20",
           "wins": 6,
+          "gamesPlayed": 8,
           "totalGames": 246,
           "picks": 8,
-          "winRate": "0.0244",
+          "winRate": "0.75",
           "pickRate": "0.0326"
         },
         {
           "patch": "11.18",
           "wins": 37,
+          "gamesPlayed": 81,
           "totalGames": 2805,
           "picks": 81,
-          "winRate": "0.0132",
+          "winRate": "0.4568",
           "pickRate": "0.0289"
         },
         {
           "patch": "11.19",
           "wins": 35,
+          "gamesPlayed": 70,
           "totalGames": 3686,
           "picks": 70,
-          "winRate": "0.0095",
+          "winRate": "0.5",
           "pickRate": "0.019"
         }
       ]
@@ -157,25 +172,28 @@
         {
           "patch": "11.20",
           "wins": 15,
+          "gamesPlayed": 31,
           "totalGames": 246,
           "picks": 31,
-          "winRate": "0.061",
+          "winRate": "0.4839",
           "pickRate": "0.1261"
         },
         {
           "patch": "11.18",
           "wins": 179,
+          "gamesPlayed": 329,
           "totalGames": 2805,
           "picks": 329,
-          "winRate": "0.0639",
+          "winRate": "0.5441",
           "pickRate": "0.1173"
         },
         {
           "patch": "11.19",
           "wins": 261,
+          "gamesPlayed": 504,
           "totalGames": 3686,
           "picks": 504,
-          "winRate": "0.0709",
+          "winRate": "0.5179",
           "pickRate": "0.1368"
         }
       ]
@@ -187,25 +205,28 @@
         {
           "patch": "11.20",
           "wins": 11,
+          "gamesPlayed": 26,
           "totalGames": 246,
           "picks": 26,
-          "winRate": "0.0448",
+          "winRate": "0.4231",
           "pickRate": "0.1057"
         },
         {
           "patch": "11.18",
           "wins": 133,
+          "gamesPlayed": 259,
           "totalGames": 2805,
           "picks": 259,
-          "winRate": "0.0475",
+          "winRate": "0.5136",
           "pickRate": "0.0924"
         },
         {
           "patch": "11.19",
           "wins": 157,
+          "gamesPlayed": 280,
           "totalGames": 3686,
           "picks": 280,
-          "winRate": "0.0426",
+          "winRate": "0.5608",
           "pickRate": "0.076"
         }
       ]
@@ -217,25 +238,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 6,
           "totalGames": 246,
           "picks": 6,
-          "winRate": "0.0122",
+          "winRate": "0.5",
           "pickRate": "0.0244"
         },
         {
           "patch": "11.18",
           "wins": 43,
+          "gamesPlayed": 94,
           "totalGames": 2805,
           "picks": 94,
-          "winRate": "0.0154",
+          "winRate": "0.4575",
           "pickRate": "0.0336"
         },
         {
           "patch": "11.19",
           "wins": 54,
+          "gamesPlayed": 96,
           "totalGames": 3686,
           "picks": 96,
-          "winRate": "0.0147",
+          "winRate": "0.5625",
           "pickRate": "0.0261"
         }
       ]
@@ -247,25 +271,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 3,
           "totalGames": 246,
           "picks": 3,
-          "winRate": "0.0082",
+          "winRate": "0.6667",
           "pickRate": "0.0122"
         },
         {
           "patch": "11.18",
           "wins": 64,
+          "gamesPlayed": 110,
           "totalGames": 2805,
           "picks": 110,
-          "winRate": "0.0229",
+          "winRate": "0.5819",
           "pickRate": "0.0393"
         },
         {
           "patch": "11.19",
           "wins": 68,
+          "gamesPlayed": 144,
           "totalGames": 3686,
           "picks": 144,
-          "winRate": "0.0185",
+          "winRate": "0.4723",
           "pickRate": "0.0391"
         }
       ]
@@ -277,25 +304,28 @@
         {
           "patch": "11.20",
           "wins": 8,
+          "gamesPlayed": 20,
           "totalGames": 246,
           "picks": 20,
-          "winRate": "0.0326",
+          "winRate": "0.4",
           "pickRate": "0.0814"
         },
         {
           "patch": "11.18",
           "wins": 165,
+          "gamesPlayed": 311,
           "totalGames": 2805,
           "picks": 311,
-          "winRate": "0.0589",
+          "winRate": "0.5306",
           "pickRate": "0.1109"
         },
         {
           "patch": "11.19",
           "wins": 151,
+          "gamesPlayed": 320,
           "totalGames": 3686,
           "picks": 320,
-          "winRate": "0.041",
+          "winRate": "0.4719",
           "pickRate": "0.0869"
         }
       ]
@@ -307,25 +337,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 4,
           "totalGames": 246,
           "picks": 4,
-          "winRate": "0.0122",
+          "winRate": "0.75",
           "pickRate": "0.0163"
         },
         {
           "patch": "11.18",
           "wins": 40,
+          "gamesPlayed": 77,
           "totalGames": 2805,
           "picks": 77,
-          "winRate": "0.0143",
+          "winRate": "0.5195",
           "pickRate": "0.0275"
         },
         {
           "patch": "11.19",
           "wins": 48,
+          "gamesPlayed": 93,
           "totalGames": 3686,
           "picks": 93,
-          "winRate": "0.0131",
+          "winRate": "0.5162",
           "pickRate": "0.0253"
         }
       ]
@@ -337,25 +370,28 @@
         {
           "patch": "11.20",
           "wins": 9,
+          "gamesPlayed": 15,
           "totalGames": 246,
           "picks": 15,
-          "winRate": "0.0366",
+          "winRate": "0.6",
           "pickRate": "0.061"
         },
         {
           "patch": "11.18",
           "wins": 79,
+          "gamesPlayed": 165,
           "totalGames": 2805,
           "picks": 165,
-          "winRate": "0.0282",
+          "winRate": "0.4788",
           "pickRate": "0.0589"
         },
         {
           "patch": "11.19",
           "wins": 114,
+          "gamesPlayed": 215,
           "totalGames": 3686,
           "picks": 215,
-          "winRate": "0.031",
+          "winRate": "0.5303",
           "pickRate": "0.0584"
         }
       ]
@@ -367,25 +403,28 @@
         {
           "patch": "11.20",
           "wins": 20,
+          "gamesPlayed": 42,
           "totalGames": 246,
           "picks": 42,
-          "winRate": "0.0814",
+          "winRate": "0.4762",
           "pickRate": "0.1708"
         },
         {
           "patch": "11.18",
           "wins": 157,
+          "gamesPlayed": 360,
           "totalGames": 2805,
           "picks": 360,
-          "winRate": "0.056",
+          "winRate": "0.4362",
           "pickRate": "0.1284"
         },
         {
           "patch": "11.19",
           "wins": 361,
+          "gamesPlayed": 707,
           "totalGames": 3686,
           "picks": 707,
-          "winRate": "0.098",
+          "winRate": "0.5107",
           "pickRate": "0.1919"
         }
       ]
@@ -397,25 +436,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 5,
           "totalGames": 246,
           "picks": 5,
-          "winRate": "0.0082",
+          "winRate": "0.4",
           "pickRate": "0.0204"
         },
         {
           "patch": "11.18",
           "wins": 23,
+          "gamesPlayed": 66,
           "totalGames": 2805,
           "picks": 66,
-          "winRate": "0.0082",
+          "winRate": "0.3485",
           "pickRate": "0.0236"
         },
         {
           "patch": "11.19",
           "wins": 29,
+          "gamesPlayed": 66,
           "totalGames": 3686,
           "picks": 66,
-          "winRate": "0.0079",
+          "winRate": "0.4394",
           "pickRate": "0.018"
         }
       ]
@@ -427,25 +469,28 @@
         {
           "patch": "11.20",
           "wins": 10,
+          "gamesPlayed": 26,
           "totalGames": 246,
           "picks": 26,
-          "winRate": "0.0407",
+          "winRate": "0.3847",
           "pickRate": "0.1057"
         },
         {
           "patch": "11.18",
           "wins": 65,
+          "gamesPlayed": 147,
           "totalGames": 2805,
           "picks": 147,
-          "winRate": "0.0232",
+          "winRate": "0.4422",
           "pickRate": "0.0525"
         },
         {
           "patch": "11.19",
           "wins": 183,
+          "gamesPlayed": 358,
           "totalGames": 3686,
           "picks": 358,
-          "winRate": "0.0497",
+          "winRate": "0.5112",
           "pickRate": "0.0972"
         }
       ]
@@ -457,25 +502,28 @@
         {
           "patch": "11.20",
           "wins": 9,
+          "gamesPlayed": 19,
           "totalGames": 246,
           "picks": 19,
-          "winRate": "0.0366",
+          "winRate": "0.4737",
           "pickRate": "0.0773"
         },
         {
           "patch": "11.18",
           "wins": 174,
+          "gamesPlayed": 397,
           "totalGames": 2805,
           "picks": 397,
-          "winRate": "0.0621",
+          "winRate": "0.4383",
           "pickRate": "0.1416"
         },
         {
           "patch": "11.19",
           "wins": 183,
+          "gamesPlayed": 387,
           "totalGames": 3686,
           "picks": 387,
-          "winRate": "0.0497",
+          "winRate": "0.4729",
           "pickRate": "0.105"
         }
       ]
@@ -487,25 +535,28 @@
         {
           "patch": "11.20",
           "wins": 10,
+          "gamesPlayed": 16,
           "totalGames": 246,
           "picks": 16,
-          "winRate": "0.0407",
+          "winRate": "0.625",
           "pickRate": "0.0651"
         },
         {
           "patch": "11.18",
           "wins": 15,
+          "gamesPlayed": 37,
           "totalGames": 2805,
           "picks": 37,
-          "winRate": "0.0054",
+          "winRate": "0.4055",
           "pickRate": "0.0132"
         },
         {
           "patch": "11.19",
           "wins": 32,
+          "gamesPlayed": 61,
           "totalGames": 3686,
           "picks": 61,
-          "winRate": "0.0087",
+          "winRate": "0.5246",
           "pickRate": "0.0166"
         }
       ]
@@ -517,25 +568,28 @@
         {
           "patch": "11.20",
           "wins": 19,
+          "gamesPlayed": 39,
           "totalGames": 246,
           "picks": 39,
-          "winRate": "0.0773",
+          "winRate": "0.4872",
           "pickRate": "0.1586"
         },
         {
           "patch": "11.18",
           "wins": 91,
+          "gamesPlayed": 176,
           "totalGames": 2805,
           "picks": 176,
-          "winRate": "0.0325",
+          "winRate": "0.5171",
           "pickRate": "0.0628"
         },
         {
           "patch": "11.19",
           "wins": 212,
+          "gamesPlayed": 403,
           "totalGames": 3686,
           "picks": 403,
-          "winRate": "0.0576",
+          "winRate": "0.5261",
           "pickRate": "0.1094"
         }
       ]
@@ -547,25 +601,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 10,
           "totalGames": 246,
           "picks": 10,
-          "winRate": "0.0204",
+          "winRate": "0.5",
           "pickRate": "0.0407"
         },
         {
           "patch": "11.18",
           "wins": 40,
+          "gamesPlayed": 91,
           "totalGames": 2805,
           "picks": 91,
-          "winRate": "0.0143",
+          "winRate": "0.4396",
           "pickRate": "0.0325"
         },
         {
           "patch": "11.19",
           "wins": 34,
+          "gamesPlayed": 87,
           "totalGames": 3686,
           "picks": 87,
-          "winRate": "0.0093",
+          "winRate": "0.3909",
           "pickRate": "0.0237"
         }
       ]
@@ -577,25 +634,28 @@
         {
           "patch": "11.20",
           "wins": 7,
+          "gamesPlayed": 18,
           "totalGames": 246,
           "picks": 18,
-          "winRate": "0.0285",
+          "winRate": "0.3889",
           "pickRate": "0.0732"
         },
         {
           "patch": "11.18",
           "wins": 97,
+          "gamesPlayed": 195,
           "totalGames": 2805,
           "picks": 195,
-          "winRate": "0.0346",
+          "winRate": "0.4975",
           "pickRate": "0.0696"
         },
         {
           "patch": "11.19",
           "wins": 135,
+          "gamesPlayed": 269,
           "totalGames": 3686,
           "picks": 269,
-          "winRate": "0.0367",
+          "winRate": "0.5019",
           "pickRate": "0.073"
         }
       ]
@@ -607,25 +667,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 5,
           "totalGames": 246,
           "picks": 5,
-          "winRate": "0.0082",
+          "winRate": "0.4",
           "pickRate": "0.0204"
         },
         {
           "patch": "11.18",
           "wins": 136,
+          "gamesPlayed": 275,
           "totalGames": 2805,
           "picks": 275,
-          "winRate": "0.0485",
+          "winRate": "0.4946",
           "pickRate": "0.0981"
         },
         {
           "patch": "11.19",
           "wins": 66,
+          "gamesPlayed": 161,
           "totalGames": 3686,
           "picks": 161,
-          "winRate": "0.018",
+          "winRate": "0.41",
           "pickRate": "0.0437"
         }
       ]
@@ -637,25 +700,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 9,
           "totalGames": 246,
           "picks": 9,
-          "winRate": "0.0122",
+          "winRate": "0.3334",
           "pickRate": "0.0366"
         },
         {
           "patch": "11.18",
           "wins": 37,
+          "gamesPlayed": 77,
           "totalGames": 2805,
           "picks": 77,
-          "winRate": "0.0132",
+          "winRate": "0.4806",
           "pickRate": "0.0275"
         },
         {
           "patch": "11.19",
           "wins": 49,
+          "gamesPlayed": 89,
           "totalGames": 3686,
           "picks": 89,
-          "winRate": "0.0133",
+          "winRate": "0.5506",
           "pickRate": "0.0242"
         }
       ]
@@ -667,6 +733,7 @@
         {
           "patch": "11.20",
           "wins": 0,
+          "gamesPlayed": 1,
           "totalGames": 246,
           "picks": 1,
           "winRate": "0",
@@ -675,17 +742,19 @@
         {
           "patch": "11.18",
           "wins": 13,
+          "gamesPlayed": 40,
           "totalGames": 2805,
           "picks": 40,
-          "winRate": "0.0047",
+          "winRate": "0.325",
           "pickRate": "0.0143"
         },
         {
           "patch": "11.19",
           "wins": 19,
+          "gamesPlayed": 55,
           "totalGames": 3686,
           "picks": 55,
-          "winRate": "0.0052",
+          "winRate": "0.3455",
           "pickRate": "0.015"
         }
       ]
@@ -697,25 +766,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 7,
           "totalGames": 246,
           "picks": 7,
-          "winRate": "0.0082",
+          "winRate": "0.2858",
           "pickRate": "0.0285"
         },
         {
           "patch": "11.18",
           "wins": 33,
+          "gamesPlayed": 76,
           "totalGames": 2805,
           "picks": 76,
-          "winRate": "0.0118",
+          "winRate": "0.4343",
           "pickRate": "0.0271"
         },
         {
           "patch": "11.19",
           "wins": 39,
+          "gamesPlayed": 77,
           "totalGames": 3686,
           "picks": 77,
-          "winRate": "0.0106",
+          "winRate": "0.5065",
           "pickRate": "0.0209"
         }
       ]
@@ -727,25 +799,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 15,
           "totalGames": 246,
           "picks": 15,
-          "winRate": "0.0204",
+          "winRate": "0.3334",
           "pickRate": "0.061"
         },
         {
           "patch": "11.18",
           "wins": 245,
+          "gamesPlayed": 490,
           "totalGames": 2805,
           "picks": 490,
-          "winRate": "0.0874",
+          "winRate": "0.5",
           "pickRate": "0.1747"
         },
         {
           "patch": "11.19",
           "wins": 207,
+          "gamesPlayed": 376,
           "totalGames": 3686,
           "picks": 376,
-          "winRate": "0.0562",
+          "winRate": "0.5506",
           "pickRate": "0.1021"
         }
       ]
@@ -757,25 +832,28 @@
         {
           "patch": "11.20",
           "wins": 8,
+          "gamesPlayed": 13,
           "totalGames": 246,
           "picks": 13,
-          "winRate": "0.0326",
+          "winRate": "0.6154",
           "pickRate": "0.0529"
         },
         {
           "patch": "11.18",
           "wins": 58,
+          "gamesPlayed": 110,
           "totalGames": 2805,
           "picks": 110,
-          "winRate": "0.0207",
+          "winRate": "0.5273",
           "pickRate": "0.0393"
         },
         {
           "patch": "11.19",
           "wins": 91,
+          "gamesPlayed": 164,
           "totalGames": 3686,
           "picks": 164,
-          "winRate": "0.0247",
+          "winRate": "0.5549",
           "pickRate": "0.0445"
         }
       ]
@@ -787,25 +865,28 @@
         {
           "patch": "11.20",
           "wins": 10,
+          "gamesPlayed": 24,
           "totalGames": 246,
           "picks": 24,
-          "winRate": "0.0407",
+          "winRate": "0.4167",
           "pickRate": "0.0976"
         },
         {
           "patch": "11.18",
           "wins": 148,
+          "gamesPlayed": 301,
           "totalGames": 2805,
           "picks": 301,
-          "winRate": "0.0528",
+          "winRate": "0.4917",
           "pickRate": "0.1074"
         },
         {
           "patch": "11.19",
           "wins": 153,
+          "gamesPlayed": 333,
           "totalGames": 3686,
           "picks": 333,
-          "winRate": "0.0416",
+          "winRate": "0.4595",
           "pickRate": "0.0904"
         }
       ]
@@ -817,25 +898,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 2,
           "totalGames": 246,
           "picks": 2,
-          "winRate": "0.0082",
+          "winRate": "1",
           "pickRate": "0.0082"
         },
         {
           "patch": "11.18",
           "wins": 8,
+          "gamesPlayed": 18,
           "totalGames": 2805,
           "picks": 18,
-          "winRate": "0.0029",
+          "winRate": "0.4445",
           "pickRate": "0.0065"
         },
         {
           "patch": "11.19",
           "wins": 16,
+          "gamesPlayed": 31,
           "totalGames": 3686,
           "picks": 31,
-          "winRate": "0.0044",
+          "winRate": "0.5162",
           "pickRate": "0.0085"
         }
       ]
@@ -847,25 +931,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 8,
           "totalGames": 246,
           "picks": 8,
-          "winRate": "0.0122",
+          "winRate": "0.375",
           "pickRate": "0.0326"
         },
         {
           "patch": "11.18",
           "wins": 86,
+          "gamesPlayed": 163,
           "totalGames": 2805,
           "picks": 163,
-          "winRate": "0.0307",
+          "winRate": "0.5277",
           "pickRate": "0.0582"
         },
         {
           "patch": "11.19",
           "wins": 68,
+          "gamesPlayed": 150,
           "totalGames": 3686,
           "picks": 150,
-          "winRate": "0.0185",
+          "winRate": "0.4534",
           "pickRate": "0.0407"
         }
       ]
@@ -877,25 +964,28 @@
         {
           "patch": "11.20",
           "wins": 31,
+          "gamesPlayed": 51,
           "totalGames": 246,
           "picks": 51,
-          "winRate": "0.1261",
+          "winRate": "0.6079",
           "pickRate": "0.2074"
         },
         {
           "patch": "11.18",
           "wins": 196,
+          "gamesPlayed": 386,
           "totalGames": 2805,
           "picks": 386,
-          "winRate": "0.0699",
+          "winRate": "0.5078",
           "pickRate": "0.1377"
         },
         {
           "patch": "11.19",
           "wins": 408,
+          "gamesPlayed": 879,
           "totalGames": 3686,
           "picks": 879,
-          "winRate": "0.1107",
+          "winRate": "0.4642",
           "pickRate": "0.2385"
         }
       ]
@@ -907,25 +997,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 6,
           "totalGames": 246,
           "picks": 6,
-          "winRate": "0.0163",
+          "winRate": "0.6667",
           "pickRate": "0.0244"
         },
         {
           "patch": "11.18",
           "wins": 80,
+          "gamesPlayed": 146,
           "totalGames": 2805,
           "picks": 146,
-          "winRate": "0.0286",
+          "winRate": "0.548",
           "pickRate": "0.0521"
         },
         {
           "patch": "11.19",
           "wins": 65,
+          "gamesPlayed": 118,
           "totalGames": 3686,
           "picks": 118,
-          "winRate": "0.0177",
+          "winRate": "0.5509",
           "pickRate": "0.0321"
         }
       ]
@@ -937,25 +1030,28 @@
         {
           "patch": "11.20",
           "wins": 13,
+          "gamesPlayed": 32,
           "totalGames": 246,
           "picks": 32,
-          "winRate": "0.0529",
+          "winRate": "0.4063",
           "pickRate": "0.1301"
         },
         {
           "patch": "11.18",
           "wins": 93,
+          "gamesPlayed": 183,
           "totalGames": 2805,
           "picks": 183,
-          "winRate": "0.0332",
+          "winRate": "0.5082",
           "pickRate": "0.0653"
         },
         {
           "patch": "11.19",
           "wins": 184,
+          "gamesPlayed": 343,
           "totalGames": 3686,
           "picks": 343,
-          "winRate": "0.05",
+          "winRate": "0.5365",
           "pickRate": "0.0931"
         }
       ]
@@ -967,25 +1063,28 @@
         {
           "patch": "11.20",
           "wins": 10,
+          "gamesPlayed": 21,
           "totalGames": 246,
           "picks": 21,
-          "winRate": "0.0407",
+          "winRate": "0.4762",
           "pickRate": "0.0854"
         },
         {
           "patch": "11.18",
           "wins": 103,
+          "gamesPlayed": 198,
           "totalGames": 2805,
           "picks": 198,
-          "winRate": "0.0368",
+          "winRate": "0.5203",
           "pickRate": "0.0706"
         },
         {
           "patch": "11.19",
           "wins": 154,
+          "gamesPlayed": 305,
           "totalGames": 3686,
           "picks": 305,
-          "winRate": "0.0418",
+          "winRate": "0.505",
           "pickRate": "0.0828"
         }
       ]
@@ -997,25 +1096,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 11,
           "totalGames": 246,
           "picks": 11,
-          "winRate": "0.0122",
+          "winRate": "0.2728",
           "pickRate": "0.0448"
         },
         {
           "patch": "11.18",
           "wins": 53,
+          "gamesPlayed": 112,
           "totalGames": 2805,
           "picks": 112,
-          "winRate": "0.0189",
+          "winRate": "0.4733",
           "pickRate": "0.04"
         },
         {
           "patch": "11.19",
           "wins": 112,
+          "gamesPlayed": 205,
           "totalGames": 3686,
           "picks": 205,
-          "winRate": "0.0304",
+          "winRate": "0.5464",
           "pickRate": "0.0557"
         }
       ]
@@ -1027,25 +1129,28 @@
         {
           "patch": "11.20",
           "wins": 11,
+          "gamesPlayed": 20,
           "totalGames": 246,
           "picks": 20,
-          "winRate": "0.0448",
+          "winRate": "0.55",
           "pickRate": "0.0814"
         },
         {
           "patch": "11.18",
           "wins": 97,
+          "gamesPlayed": 191,
           "totalGames": 2805,
           "picks": 191,
-          "winRate": "0.0346",
+          "winRate": "0.5079",
           "pickRate": "0.0681"
         },
         {
           "patch": "11.19",
           "wins": 125,
+          "gamesPlayed": 255,
           "totalGames": 3686,
           "picks": 255,
-          "winRate": "0.034",
+          "winRate": "0.4902",
           "pickRate": "0.0692"
         }
       ]
@@ -1057,25 +1162,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 5,
           "totalGames": 246,
           "picks": 5,
-          "winRate": "0.0082",
+          "winRate": "0.4",
           "pickRate": "0.0204"
         },
         {
           "patch": "11.18",
           "wins": 59,
+          "gamesPlayed": 112,
           "totalGames": 2805,
           "picks": 112,
-          "winRate": "0.0211",
+          "winRate": "0.5268",
           "pickRate": "0.04"
         },
         {
           "patch": "11.19",
           "wins": 65,
+          "gamesPlayed": 129,
           "totalGames": 3686,
           "picks": 129,
-          "winRate": "0.0177",
+          "winRate": "0.5039",
           "pickRate": "0.035"
         }
       ]
@@ -1087,25 +1195,28 @@
         {
           "patch": "11.20",
           "wins": 7,
+          "gamesPlayed": 13,
           "totalGames": 246,
           "picks": 13,
-          "winRate": "0.0285",
+          "winRate": "0.5385",
           "pickRate": "0.0529"
         },
         {
           "patch": "11.18",
           "wins": 94,
+          "gamesPlayed": 175,
           "totalGames": 2805,
           "picks": 175,
-          "winRate": "0.0336",
+          "winRate": "0.5372",
           "pickRate": "0.0624"
         },
         {
           "patch": "11.19",
           "wins": 128,
+          "gamesPlayed": 237,
           "totalGames": 3686,
           "picks": 237,
-          "winRate": "0.0348",
+          "winRate": "0.5401",
           "pickRate": "0.0643"
         }
       ]
@@ -1117,25 +1228,28 @@
         {
           "patch": "11.20",
           "wins": 10,
+          "gamesPlayed": 14,
           "totalGames": 246,
           "picks": 14,
-          "winRate": "0.0407",
+          "winRate": "0.7143",
           "pickRate": "0.057"
         },
         {
           "patch": "11.18",
           "wins": 35,
+          "gamesPlayed": 77,
           "totalGames": 2805,
           "picks": 77,
-          "winRate": "0.0125",
+          "winRate": "0.4546",
           "pickRate": "0.0275"
         },
         {
           "patch": "11.19",
           "wins": 54,
+          "gamesPlayed": 129,
           "totalGames": 3686,
           "picks": 129,
-          "winRate": "0.0147",
+          "winRate": "0.4187",
           "pickRate": "0.035"
         }
       ]
@@ -1147,55 +1261,61 @@
         {
           "patch": "11.20",
           "wins": 14,
+          "gamesPlayed": 22,
           "totalGames": 246,
           "picks": 22,
-          "winRate": "0.057",
+          "winRate": "0.6364",
           "pickRate": "0.0895"
         },
         {
           "patch": "11.18",
           "wins": 103,
+          "gamesPlayed": 232,
           "totalGames": 2805,
           "picks": 232,
-          "winRate": "0.0368",
+          "winRate": "0.444",
           "pickRate": "0.0828"
         },
         {
           "patch": "11.19",
           "wins": 170,
+          "gamesPlayed": 316,
           "totalGames": 3686,
           "picks": 316,
-          "winRate": "0.0462",
+          "winRate": "0.538",
           "pickRate": "0.0858"
         }
       ]
     },
     {
-      "name": "Chogath",
+      "name": "Cho'Gath",
       "id": 31,
       "change": [
         {
           "patch": "11.20",
           "wins": 7,
+          "gamesPlayed": 10,
           "totalGames": 246,
           "picks": 10,
-          "winRate": "0.0285",
+          "winRate": "0.7",
           "pickRate": "0.0407"
         },
         {
           "patch": "11.18",
           "wins": 21,
+          "gamesPlayed": 47,
           "totalGames": 2805,
           "picks": 47,
-          "winRate": "0.0075",
+          "winRate": "0.4469",
           "pickRate": "0.0168"
         },
         {
           "patch": "11.19",
           "wins": 34,
+          "gamesPlayed": 83,
           "totalGames": 3686,
           "picks": 83,
-          "winRate": "0.0093",
+          "winRate": "0.4097",
           "pickRate": "0.0226"
         }
       ]
@@ -1207,25 +1327,28 @@
         {
           "patch": "11.20",
           "wins": 13,
+          "gamesPlayed": 22,
           "totalGames": 246,
           "picks": 22,
-          "winRate": "0.0529",
+          "winRate": "0.591",
           "pickRate": "0.0895"
         },
         {
           "patch": "11.18",
           "wins": 199,
+          "gamesPlayed": 412,
           "totalGames": 2805,
           "picks": 412,
-          "winRate": "0.071",
+          "winRate": "0.4831",
           "pickRate": "0.1469"
         },
         {
           "patch": "11.19",
           "wins": 337,
+          "gamesPlayed": 674,
           "totalGames": 3686,
           "picks": 674,
-          "winRate": "0.0915",
+          "winRate": "0.5",
           "pickRate": "0.1829"
         }
       ]
@@ -1237,25 +1360,28 @@
         {
           "patch": "11.20",
           "wins": 0,
+          "gamesPlayed": 0,
           "totalGames": 246,
           "picks": 0,
-          "winRate": "0",
+          "winRate": "NaN",
           "pickRate": "0"
         },
         {
           "patch": "11.18",
           "wins": 3,
+          "gamesPlayed": 6,
           "totalGames": 2805,
           "picks": 6,
-          "winRate": "0.0011",
+          "winRate": "0.5",
           "pickRate": "0.0022"
         },
         {
           "patch": "11.19",
           "wins": 6,
+          "gamesPlayed": 17,
           "totalGames": 3686,
           "picks": 17,
-          "winRate": "0.0017",
+          "winRate": "0.353",
           "pickRate": "0.0047"
         }
       ]
@@ -1267,25 +1393,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 8,
           "totalGames": 246,
           "picks": 8,
-          "winRate": "0.0163",
+          "winRate": "0.5",
           "pickRate": "0.0326"
         },
         {
           "patch": "11.18",
           "wins": 76,
+          "gamesPlayed": 141,
           "totalGames": 2805,
           "picks": 141,
-          "winRate": "0.0271",
+          "winRate": "0.5391",
           "pickRate": "0.0503"
         },
         {
           "patch": "11.19",
           "wins": 44,
+          "gamesPlayed": 100,
           "totalGames": 3686,
           "picks": 100,
-          "winRate": "0.012",
+          "winRate": "0.44",
           "pickRate": "0.0272"
         }
       ]
@@ -1297,25 +1426,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 7,
           "totalGames": 246,
           "picks": 7,
-          "winRate": "0.0163",
+          "winRate": "0.5715",
           "pickRate": "0.0285"
         },
         {
           "patch": "11.18",
           "wins": 41,
+          "gamesPlayed": 87,
           "totalGames": 2805,
           "picks": 87,
-          "winRate": "0.0147",
+          "winRate": "0.4713",
           "pickRate": "0.0311"
         },
         {
           "patch": "11.19",
           "wins": 49,
+          "gamesPlayed": 91,
           "totalGames": 3686,
           "picks": 91,
-          "winRate": "0.0133",
+          "winRate": "0.5385",
           "pickRate": "0.0247"
         }
       ]
@@ -1327,25 +1459,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 6,
           "totalGames": 246,
           "picks": 6,
-          "winRate": "0.0122",
+          "winRate": "0.5",
           "pickRate": "0.0244"
         },
         {
           "patch": "11.18",
           "wins": 25,
+          "gamesPlayed": 63,
           "totalGames": 2805,
           "picks": 63,
-          "winRate": "0.009",
+          "winRate": "0.3969",
           "pickRate": "0.0225"
         },
         {
           "patch": "11.19",
           "wins": 19,
+          "gamesPlayed": 42,
           "totalGames": 3686,
           "picks": 42,
-          "winRate": "0.0052",
+          "winRate": "0.4524",
           "pickRate": "0.0114"
         }
       ]
@@ -1357,25 +1492,28 @@
         {
           "patch": "11.20",
           "wins": 14,
+          "gamesPlayed": 22,
           "totalGames": 246,
           "picks": 22,
-          "winRate": "0.057",
+          "winRate": "0.6364",
           "pickRate": "0.0895"
         },
         {
           "patch": "11.18",
           "wins": 247,
+          "gamesPlayed": 428,
           "totalGames": 2805,
           "picks": 428,
-          "winRate": "0.0881",
+          "winRate": "0.5772",
           "pickRate": "0.1526"
         },
         {
           "patch": "11.19",
           "wins": 241,
+          "gamesPlayed": 456,
           "totalGames": 3686,
           "picks": 456,
-          "winRate": "0.0654",
+          "winRate": "0.5286",
           "pickRate": "0.1238"
         }
       ]
@@ -1387,25 +1525,28 @@
         {
           "patch": "11.20",
           "wins": 1,
+          "gamesPlayed": 3,
           "totalGames": 246,
           "picks": 3,
-          "winRate": "0.0041",
+          "winRate": "0.3334",
           "pickRate": "0.0122"
         },
         {
           "patch": "11.18",
           "wins": 63,
+          "gamesPlayed": 128,
           "totalGames": 2805,
           "picks": 128,
-          "winRate": "0.0225",
+          "winRate": "0.4922",
           "pickRate": "0.0457"
         },
         {
           "patch": "11.19",
           "wins": 45,
+          "gamesPlayed": 98,
           "totalGames": 3686,
           "picks": 98,
-          "winRate": "0.0123",
+          "winRate": "0.4592",
           "pickRate": "0.0266"
         }
       ]
@@ -1417,25 +1558,28 @@
         {
           "patch": "11.20",
           "wins": 11,
+          "gamesPlayed": 28,
           "totalGames": 246,
           "picks": 28,
-          "winRate": "0.0448",
+          "winRate": "0.3929",
           "pickRate": "0.1139"
         },
         {
           "patch": "11.18",
           "wins": 210,
+          "gamesPlayed": 424,
           "totalGames": 2805,
           "picks": 424,
-          "winRate": "0.0749",
+          "winRate": "0.4953",
           "pickRate": "0.1512"
         },
         {
           "patch": "11.19",
           "wins": 310,
+          "gamesPlayed": 608,
           "totalGames": 3686,
           "picks": 608,
-          "winRate": "0.0842",
+          "winRate": "0.5099",
           "pickRate": "0.165"
         }
       ]
@@ -1447,25 +1591,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 10,
           "totalGames": 246,
           "picks": 10,
-          "winRate": "0.0163",
+          "winRate": "0.4",
           "pickRate": "0.0407"
         },
         {
           "patch": "11.18",
           "wins": 31,
+          "gamesPlayed": 72,
           "totalGames": 2805,
           "picks": 72,
-          "winRate": "0.0111",
+          "winRate": "0.4306",
           "pickRate": "0.0257"
         },
         {
           "patch": "11.19",
           "wins": 47,
+          "gamesPlayed": 119,
           "totalGames": 3686,
           "picks": 119,
-          "winRate": "0.0128",
+          "winRate": "0.395",
           "pickRate": "0.0323"
         }
       ]
@@ -1477,25 +1624,28 @@
         {
           "patch": "11.20",
           "wins": 1,
+          "gamesPlayed": 6,
           "totalGames": 246,
           "picks": 6,
-          "winRate": "0.0041",
+          "winRate": "0.1667",
           "pickRate": "0.0244"
         },
         {
           "patch": "11.18",
           "wins": 92,
+          "gamesPlayed": 199,
           "totalGames": 2805,
           "picks": 199,
-          "winRate": "0.0328",
+          "winRate": "0.4624",
           "pickRate": "0.071"
         },
         {
           "patch": "11.19",
           "wins": 92,
+          "gamesPlayed": 178,
           "totalGames": 3686,
           "picks": 178,
-          "winRate": "0.025",
+          "winRate": "0.5169",
           "pickRate": "0.0483"
         }
       ]
@@ -1507,25 +1657,28 @@
         {
           "patch": "11.20",
           "wins": 6,
+          "gamesPlayed": 9,
           "totalGames": 246,
           "picks": 9,
-          "winRate": "0.0244",
+          "winRate": "0.6667",
           "pickRate": "0.0366"
         },
         {
           "patch": "11.18",
           "wins": 44,
+          "gamesPlayed": 100,
           "totalGames": 2805,
           "picks": 100,
-          "winRate": "0.0157",
+          "winRate": "0.44",
           "pickRate": "0.0357"
         },
         {
           "patch": "11.19",
           "wins": 79,
+          "gamesPlayed": 147,
           "totalGames": 3686,
           "picks": 147,
-          "winRate": "0.0215",
+          "winRate": "0.5375",
           "pickRate": "0.0399"
         }
       ]
@@ -1537,25 +1690,28 @@
         {
           "patch": "11.20",
           "wins": 11,
+          "gamesPlayed": 25,
           "totalGames": 246,
           "picks": 25,
-          "winRate": "0.0448",
+          "winRate": "0.44",
           "pickRate": "0.1017"
         },
         {
           "patch": "11.18",
           "wins": 148,
+          "gamesPlayed": 296,
           "totalGames": 2805,
           "picks": 296,
-          "winRate": "0.0528",
+          "winRate": "0.5",
           "pickRate": "0.1056"
         },
         {
           "patch": "11.19",
           "wins": 121,
+          "gamesPlayed": 273,
           "totalGames": 3686,
           "picks": 273,
-          "winRate": "0.0329",
+          "winRate": "0.4433",
           "pickRate": "0.0741"
         }
       ]
@@ -1567,25 +1723,28 @@
         {
           "patch": "11.20",
           "wins": 14,
+          "gamesPlayed": 32,
           "totalGames": 246,
           "picks": 32,
-          "winRate": "0.057",
+          "winRate": "0.4375",
           "pickRate": "0.1301"
         },
         {
           "patch": "11.18",
           "wins": 128,
+          "gamesPlayed": 254,
           "totalGames": 2805,
           "picks": 254,
-          "winRate": "0.0457",
+          "winRate": "0.504",
           "pickRate": "0.0906"
         },
         {
           "patch": "11.19",
           "wins": 195,
+          "gamesPlayed": 342,
           "totalGames": 3686,
           "picks": 342,
-          "winRate": "0.053",
+          "winRate": "0.5702",
           "pickRate": "0.0928"
         }
       ]
@@ -1597,25 +1756,28 @@
         {
           "patch": "11.20",
           "wins": 0,
+          "gamesPlayed": 0,
           "totalGames": 246,
           "picks": 0,
-          "winRate": "0",
+          "winRate": "NaN",
           "pickRate": "0"
         },
         {
           "patch": "11.18",
           "wins": 16,
+          "gamesPlayed": 29,
           "totalGames": 2805,
           "picks": 29,
-          "winRate": "0.0058",
+          "winRate": "0.5518",
           "pickRate": "0.0104"
         },
         {
           "patch": "11.19",
           "wins": 13,
+          "gamesPlayed": 29,
           "totalGames": 3686,
           "picks": 29,
-          "winRate": "0.0036",
+          "winRate": "0.4483",
           "pickRate": "0.0079"
         }
       ]
@@ -1627,25 +1789,28 @@
         {
           "patch": "11.20",
           "wins": 1,
+          "gamesPlayed": 7,
           "totalGames": 246,
           "picks": 7,
-          "winRate": "0.0041",
+          "winRate": "0.1429",
           "pickRate": "0.0285"
         },
         {
           "patch": "11.18",
           "wins": 30,
+          "gamesPlayed": 59,
           "totalGames": 2805,
           "picks": 59,
-          "winRate": "0.0107",
+          "winRate": "0.5085",
           "pickRate": "0.0211"
         },
         {
           "patch": "11.19",
           "wins": 50,
+          "gamesPlayed": 90,
           "totalGames": 3686,
           "picks": 90,
-          "winRate": "0.0136",
+          "winRate": "0.5556",
           "pickRate": "0.0245"
         }
       ]
@@ -1657,25 +1822,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 4,
           "totalGames": 246,
           "picks": 4,
-          "winRate": "0.0082",
+          "winRate": "0.5",
           "pickRate": "0.0163"
         },
         {
           "patch": "11.18",
           "wins": 67,
+          "gamesPlayed": 155,
           "totalGames": 2805,
           "picks": 155,
-          "winRate": "0.0239",
+          "winRate": "0.4323",
           "pickRate": "0.0553"
         },
         {
           "patch": "11.19",
           "wins": 69,
+          "gamesPlayed": 148,
           "totalGames": 3686,
           "picks": 148,
-          "winRate": "0.0188",
+          "winRate": "0.4663",
           "pickRate": "0.0402"
         }
       ]
@@ -1687,25 +1855,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 12,
           "totalGames": 246,
           "picks": 12,
-          "winRate": "0.0163",
+          "winRate": "0.3334",
           "pickRate": "0.0488"
         },
         {
           "patch": "11.18",
           "wins": 41,
+          "gamesPlayed": 83,
           "totalGames": 2805,
           "picks": 83,
-          "winRate": "0.0147",
+          "winRate": "0.494",
           "pickRate": "0.0296"
         },
         {
           "patch": "11.19",
           "wins": 80,
+          "gamesPlayed": 137,
           "totalGames": 3686,
           "picks": 137,
-          "winRate": "0.0218",
+          "winRate": "0.584",
           "pickRate": "0.0372"
         }
       ]
@@ -1717,25 +1888,28 @@
         {
           "patch": "11.20",
           "wins": 20,
+          "gamesPlayed": 34,
           "totalGames": 246,
           "picks": 34,
-          "winRate": "0.0814",
+          "winRate": "0.5883",
           "pickRate": "0.1383"
         },
         {
           "patch": "11.18",
           "wins": 123,
+          "gamesPlayed": 261,
           "totalGames": 2805,
           "picks": 261,
-          "winRate": "0.0439",
+          "winRate": "0.4713",
           "pickRate": "0.0931"
         },
         {
           "patch": "11.19",
           "wins": 242,
+          "gamesPlayed": 475,
           "totalGames": 3686,
           "picks": 475,
-          "winRate": "0.0657",
+          "winRate": "0.5095",
           "pickRate": "0.1289"
         }
       ]
@@ -1747,25 +1921,28 @@
         {
           "patch": "11.20",
           "wins": 16,
+          "gamesPlayed": 23,
           "totalGames": 246,
           "picks": 23,
-          "winRate": "0.0651",
+          "winRate": "0.6957",
           "pickRate": "0.0935"
         },
         {
           "patch": "11.18",
           "wins": 81,
+          "gamesPlayed": 146,
           "totalGames": 2805,
           "picks": 146,
-          "winRate": "0.0289",
+          "winRate": "0.5548",
           "pickRate": "0.0521"
         },
         {
           "patch": "11.19",
           "wins": 114,
+          "gamesPlayed": 231,
           "totalGames": 3686,
           "picks": 231,
-          "winRate": "0.031",
+          "winRate": "0.4936",
           "pickRate": "0.0627"
         }
       ]
@@ -1777,25 +1954,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 8,
           "totalGames": 246,
           "picks": 8,
-          "winRate": "0.0204",
+          "winRate": "0.625",
           "pickRate": "0.0326"
         },
         {
           "patch": "11.18",
           "wins": 82,
+          "gamesPlayed": 177,
           "totalGames": 2805,
           "picks": 177,
-          "winRate": "0.0293",
+          "winRate": "0.4633",
           "pickRate": "0.0632"
         },
         {
           "patch": "11.19",
           "wins": 79,
+          "gamesPlayed": 179,
           "totalGames": 3686,
           "picks": 179,
-          "winRate": "0.0215",
+          "winRate": "0.4414",
           "pickRate": "0.0486"
         }
       ]
@@ -1807,25 +1987,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 4,
           "totalGames": 246,
           "picks": 4,
-          "winRate": "0.0082",
+          "winRate": "0.5",
           "pickRate": "0.0163"
         },
         {
           "patch": "11.18",
           "wins": 24,
+          "gamesPlayed": 60,
           "totalGames": 2805,
           "picks": 60,
-          "winRate": "0.0086",
+          "winRate": "0.4",
           "pickRate": "0.0214"
         },
         {
           "patch": "11.19",
           "wins": 35,
+          "gamesPlayed": 63,
           "totalGames": 3686,
           "picks": 63,
-          "winRate": "0.0095",
+          "winRate": "0.5556",
           "pickRate": "0.0171"
         }
       ]
@@ -1837,25 +2020,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 6,
           "totalGames": 246,
           "picks": 6,
-          "winRate": "0.0122",
+          "winRate": "0.5",
           "pickRate": "0.0244"
         },
         {
           "patch": "11.18",
           "wins": 44,
+          "gamesPlayed": 92,
           "totalGames": 2805,
           "picks": 92,
-          "winRate": "0.0157",
+          "winRate": "0.4783",
           "pickRate": "0.0328"
         },
         {
           "patch": "11.19",
           "wins": 54,
+          "gamesPlayed": 115,
           "totalGames": 3686,
           "picks": 115,
-          "winRate": "0.0147",
+          "winRate": "0.4696",
           "pickRate": "0.0312"
         }
       ]
@@ -1867,25 +2053,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 8,
           "totalGames": 246,
           "picks": 8,
-          "winRate": "0.0204",
+          "winRate": "0.625",
           "pickRate": "0.0326"
         },
         {
           "patch": "11.18",
           "wins": 15,
+          "gamesPlayed": 34,
           "totalGames": 2805,
           "picks": 34,
-          "winRate": "0.0054",
+          "winRate": "0.4412",
           "pickRate": "0.0122"
         },
         {
           "patch": "11.19",
           "wins": 34,
+          "gamesPlayed": 63,
           "totalGames": 3686,
           "picks": 63,
-          "winRate": "0.0093",
+          "winRate": "0.5397",
           "pickRate": "0.0171"
         }
       ]
@@ -1897,25 +2086,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 7,
           "totalGames": 246,
           "picks": 7,
-          "winRate": "0.0163",
+          "winRate": "0.5715",
           "pickRate": "0.0285"
         },
         {
           "patch": "11.18",
           "wins": 27,
+          "gamesPlayed": 64,
           "totalGames": 2805,
           "picks": 64,
-          "winRate": "0.0097",
+          "winRate": "0.4219",
           "pickRate": "0.0229"
         },
         {
           "patch": "11.19",
           "wins": 36,
+          "gamesPlayed": 84,
           "totalGames": 3686,
           "picks": 84,
-          "winRate": "0.0098",
+          "winRate": "0.4286",
           "pickRate": "0.0228"
         }
       ]
@@ -1927,25 +2119,28 @@
         {
           "patch": "11.20",
           "wins": 7,
+          "gamesPlayed": 15,
           "totalGames": 246,
           "picks": 15,
-          "winRate": "0.0285",
+          "winRate": "0.4667",
           "pickRate": "0.061"
         },
         {
           "patch": "11.18",
           "wins": 176,
+          "gamesPlayed": 331,
           "totalGames": 2805,
           "picks": 331,
-          "winRate": "0.0628",
+          "winRate": "0.5318",
           "pickRate": "0.1181"
         },
         {
           "patch": "11.19",
           "wins": 216,
+          "gamesPlayed": 412,
           "totalGames": 3686,
           "picks": 412,
-          "winRate": "0.0587",
+          "winRate": "0.5243",
           "pickRate": "0.1118"
         }
       ]
@@ -1957,25 +2152,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 11,
           "totalGames": 246,
           "picks": 11,
-          "winRate": "0.0163",
+          "winRate": "0.3637",
           "pickRate": "0.0448"
         },
         {
           "patch": "11.18",
           "wins": 40,
+          "gamesPlayed": 74,
           "totalGames": 2805,
           "picks": 74,
-          "winRate": "0.0143",
+          "winRate": "0.5406",
           "pickRate": "0.0264"
         },
         {
           "patch": "11.19",
           "wins": 45,
+          "gamesPlayed": 95,
           "totalGames": 3686,
           "picks": 95,
-          "winRate": "0.0123",
+          "winRate": "0.4737",
           "pickRate": "0.0258"
         }
       ]
@@ -1987,25 +2185,28 @@
         {
           "patch": "11.20",
           "wins": 1,
+          "gamesPlayed": 5,
           "totalGames": 246,
           "picks": 5,
-          "winRate": "0.0041",
+          "winRate": "0.2",
           "pickRate": "0.0204"
         },
         {
           "patch": "11.18",
           "wins": 48,
+          "gamesPlayed": 99,
           "totalGames": 2805,
           "picks": 99,
-          "winRate": "0.0172",
+          "winRate": "0.4849",
           "pickRate": "0.0353"
         },
         {
           "patch": "11.19",
           "wins": 50,
+          "gamesPlayed": 109,
           "totalGames": 3686,
           "picks": 109,
-          "winRate": "0.0136",
+          "winRate": "0.4588",
           "pickRate": "0.0296"
         }
       ]
@@ -2017,25 +2218,28 @@
         {
           "patch": "11.20",
           "wins": 8,
+          "gamesPlayed": 21,
           "totalGames": 246,
           "picks": 21,
-          "winRate": "0.0326",
+          "winRate": "0.381",
           "pickRate": "0.0854"
         },
         {
           "patch": "11.18",
           "wins": 96,
+          "gamesPlayed": 185,
           "totalGames": 2805,
           "picks": 185,
-          "winRate": "0.0343",
+          "winRate": "0.519",
           "pickRate": "0.066"
         },
         {
           "patch": "11.19",
           "wins": 127,
+          "gamesPlayed": 257,
           "totalGames": 3686,
           "picks": 257,
-          "winRate": "0.0345",
+          "winRate": "0.4942",
           "pickRate": "0.0698"
         }
       ]
@@ -2047,25 +2251,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 6,
           "totalGames": 246,
           "picks": 6,
-          "winRate": "0.0122",
+          "winRate": "0.5",
           "pickRate": "0.0244"
         },
         {
           "patch": "11.18",
           "wins": 23,
+          "gamesPlayed": 47,
           "totalGames": 2805,
           "picks": 47,
-          "winRate": "0.0082",
+          "winRate": "0.4894",
           "pickRate": "0.0168"
         },
         {
           "patch": "11.19",
           "wins": 18,
+          "gamesPlayed": 44,
           "totalGames": 3686,
           "picks": 44,
-          "winRate": "0.0049",
+          "winRate": "0.4091",
           "pickRate": "0.012"
         }
       ]
@@ -2077,25 +2284,28 @@
         {
           "patch": "11.20",
           "wins": 18,
+          "gamesPlayed": 44,
           "totalGames": 246,
           "picks": 44,
-          "winRate": "0.0732",
+          "winRate": "0.4091",
           "pickRate": "0.1789"
         },
         {
           "patch": "11.18",
           "wins": 316,
+          "gamesPlayed": 593,
           "totalGames": 2805,
           "picks": 593,
-          "winRate": "0.1127",
+          "winRate": "0.5329",
           "pickRate": "0.2115"
         },
         {
           "patch": "11.19",
           "wins": 331,
+          "gamesPlayed": 642,
           "totalGames": 3686,
           "picks": 642,
-          "winRate": "0.0898",
+          "winRate": "0.5156",
           "pickRate": "0.1742"
         }
       ]
@@ -2107,25 +2317,28 @@
         {
           "patch": "11.20",
           "wins": 18,
+          "gamesPlayed": 36,
           "totalGames": 246,
           "picks": 36,
-          "winRate": "0.0732",
+          "winRate": "0.5",
           "pickRate": "0.1464"
         },
         {
           "patch": "11.18",
           "wins": 159,
+          "gamesPlayed": 302,
           "totalGames": 2805,
           "picks": 302,
-          "winRate": "0.0567",
+          "winRate": "0.5265",
           "pickRate": "0.1077"
         },
         {
           "patch": "11.19",
           "wins": 211,
+          "gamesPlayed": 413,
           "totalGames": 3686,
           "picks": 413,
-          "winRate": "0.0573",
+          "winRate": "0.5109",
           "pickRate": "0.1121"
         }
       ]
@@ -2137,25 +2350,28 @@
         {
           "patch": "11.20",
           "wins": 15,
+          "gamesPlayed": 30,
           "totalGames": 246,
           "picks": 30,
-          "winRate": "0.061",
+          "winRate": "0.5",
           "pickRate": "0.122"
         },
         {
           "patch": "11.18",
           "wins": 95,
+          "gamesPlayed": 167,
           "totalGames": 2805,
           "picks": 167,
-          "winRate": "0.0339",
+          "winRate": "0.5689",
           "pickRate": "0.0596"
         },
         {
           "patch": "11.19",
           "wins": 132,
+          "gamesPlayed": 258,
           "totalGames": 3686,
           "picks": 258,
-          "winRate": "0.0359",
+          "winRate": "0.5117",
           "pickRate": "0.07"
         }
       ]
@@ -2167,25 +2383,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 5,
           "totalGames": 246,
           "picks": 5,
-          "winRate": "0.0122",
+          "winRate": "0.6",
           "pickRate": "0.0204"
         },
         {
           "patch": "11.18",
           "wins": 121,
+          "gamesPlayed": 230,
           "totalGames": 2805,
           "picks": 230,
-          "winRate": "0.0432",
+          "winRate": "0.5261",
           "pickRate": "0.082"
         },
         {
           "patch": "11.19",
           "wins": 123,
+          "gamesPlayed": 227,
           "totalGames": 3686,
           "picks": 227,
-          "winRate": "0.0334",
+          "winRate": "0.5419",
           "pickRate": "0.0616"
         }
       ]
@@ -2197,6 +2416,7 @@
         {
           "patch": "11.20",
           "wins": 0,
+          "gamesPlayed": 1,
           "totalGames": 246,
           "picks": 1,
           "winRate": "0",
@@ -2205,17 +2425,19 @@
         {
           "patch": "11.18",
           "wins": 1,
+          "gamesPlayed": 4,
           "totalGames": 2805,
           "picks": 4,
-          "winRate": "0.0004",
+          "winRate": "0.25",
           "pickRate": "0.0015"
         },
         {
           "patch": "11.19",
           "wins": 7,
+          "gamesPlayed": 9,
           "totalGames": 3686,
           "picks": 9,
-          "winRate": "0.0019",
+          "winRate": "0.7778",
           "pickRate": "0.0025"
         }
       ]
@@ -2227,25 +2449,28 @@
         {
           "patch": "11.20",
           "wins": 1,
+          "gamesPlayed": 3,
           "totalGames": 246,
           "picks": 3,
-          "winRate": "0.0041",
+          "winRate": "0.3334",
           "pickRate": "0.0122"
         },
         {
           "patch": "11.18",
           "wins": 22,
+          "gamesPlayed": 52,
           "totalGames": 2805,
           "picks": 52,
-          "winRate": "0.0079",
+          "winRate": "0.4231",
           "pickRate": "0.0186"
         },
         {
           "patch": "11.19",
           "wins": 19,
+          "gamesPlayed": 41,
           "totalGames": 3686,
           "picks": 41,
-          "winRate": "0.0052",
+          "winRate": "0.4635",
           "pickRate": "0.0112"
         }
       ]
@@ -2257,25 +2482,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 5,
           "totalGames": 246,
           "picks": 5,
-          "winRate": "0.0082",
+          "winRate": "0.4",
           "pickRate": "0.0204"
         },
         {
           "patch": "11.18",
           "wins": 20,
+          "gamesPlayed": 41,
           "totalGames": 2805,
           "picks": 41,
-          "winRate": "0.0072",
+          "winRate": "0.4879",
           "pickRate": "0.0147"
         },
         {
           "patch": "11.19",
           "wins": 53,
+          "gamesPlayed": 117,
           "totalGames": 3686,
           "picks": 117,
-          "winRate": "0.0144",
+          "winRate": "0.453",
           "pickRate": "0.0318"
         }
       ]
@@ -2287,25 +2515,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 10,
           "totalGames": 246,
           "picks": 10,
-          "winRate": "0.0204",
+          "winRate": "0.5",
           "pickRate": "0.0407"
         },
         {
           "patch": "11.18",
           "wins": 85,
+          "gamesPlayed": 175,
           "totalGames": 2805,
           "picks": 175,
-          "winRate": "0.0304",
+          "winRate": "0.4858",
           "pickRate": "0.0624"
         },
         {
           "patch": "11.19",
           "wins": 91,
+          "gamesPlayed": 179,
           "totalGames": 3686,
           "picks": 179,
-          "winRate": "0.0247",
+          "winRate": "0.5084",
           "pickRate": "0.0486"
         }
       ]
@@ -2317,25 +2548,28 @@
         {
           "patch": "11.20",
           "wins": 1,
+          "gamesPlayed": 3,
           "totalGames": 246,
           "picks": 3,
-          "winRate": "0.0041",
+          "winRate": "0.3334",
           "pickRate": "0.0122"
         },
         {
           "patch": "11.18",
           "wins": 4,
+          "gamesPlayed": 8,
           "totalGames": 2805,
           "picks": 8,
-          "winRate": "0.0015",
+          "winRate": "0.5",
           "pickRate": "0.0029"
         },
         {
           "patch": "11.19",
           "wins": 5,
+          "gamesPlayed": 11,
           "totalGames": 3686,
           "picks": 11,
-          "winRate": "0.0014",
+          "winRate": "0.4546",
           "pickRate": "0.003"
         }
       ]
@@ -2347,25 +2581,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 14,
           "totalGames": 246,
           "picks": 14,
-          "winRate": "0.0163",
+          "winRate": "0.2858",
           "pickRate": "0.057"
         },
         {
           "patch": "11.18",
           "wins": 71,
+          "gamesPlayed": 136,
           "totalGames": 2805,
           "picks": 136,
-          "winRate": "0.0254",
+          "winRate": "0.5221",
           "pickRate": "0.0485"
         },
         {
           "patch": "11.19",
           "wins": 91,
+          "gamesPlayed": 175,
           "totalGames": 3686,
           "picks": 175,
-          "winRate": "0.0247",
+          "winRate": "0.52",
           "pickRate": "0.0475"
         }
       ]
@@ -2377,25 +2614,28 @@
         {
           "patch": "11.20",
           "wins": 8,
+          "gamesPlayed": 18,
           "totalGames": 246,
           "picks": 18,
-          "winRate": "0.0326",
+          "winRate": "0.4445",
           "pickRate": "0.0732"
         },
         {
           "patch": "11.18",
           "wins": 86,
+          "gamesPlayed": 141,
           "totalGames": 2805,
           "picks": 141,
-          "winRate": "0.0307",
+          "winRate": "0.61",
           "pickRate": "0.0503"
         },
         {
           "patch": "11.19",
           "wins": 75,
+          "gamesPlayed": 170,
           "totalGames": 3686,
           "picks": 170,
-          "winRate": "0.0204",
+          "winRate": "0.4412",
           "pickRate": "0.0462"
         }
       ]
@@ -2407,25 +2647,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 11,
           "totalGames": 246,
           "picks": 11,
-          "winRate": "0.0163",
+          "winRate": "0.3637",
           "pickRate": "0.0448"
         },
         {
           "patch": "11.18",
           "wins": 67,
+          "gamesPlayed": 136,
           "totalGames": 2805,
           "picks": 136,
-          "winRate": "0.0239",
+          "winRate": "0.4927",
           "pickRate": "0.0485"
         },
         {
           "patch": "11.19",
           "wins": 89,
+          "gamesPlayed": 178,
           "totalGames": 3686,
           "picks": 178,
-          "winRate": "0.0242",
+          "winRate": "0.5",
           "pickRate": "0.0483"
         }
       ]
@@ -2437,25 +2680,28 @@
         {
           "patch": "11.20",
           "wins": 20,
+          "gamesPlayed": 46,
           "totalGames": 246,
           "picks": 46,
-          "winRate": "0.0814",
+          "winRate": "0.4348",
           "pickRate": "0.187"
         },
         {
           "patch": "11.18",
           "wins": 271,
+          "gamesPlayed": 550,
           "totalGames": 2805,
           "picks": 550,
-          "winRate": "0.0967",
+          "winRate": "0.4928",
           "pickRate": "0.1961"
         },
         {
           "patch": "11.19",
           "wins": 335,
+          "gamesPlayed": 680,
           "totalGames": 3686,
           "picks": 680,
-          "winRate": "0.0909",
+          "winRate": "0.4927",
           "pickRate": "0.1845"
         }
       ]
@@ -2467,25 +2713,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 3,
           "totalGames": 246,
           "picks": 3,
-          "winRate": "0.0082",
+          "winRate": "0.6667",
           "pickRate": "0.0122"
         },
         {
           "patch": "11.18",
           "wins": 66,
+          "gamesPlayed": 132,
           "totalGames": 2805,
           "picks": 132,
-          "winRate": "0.0236",
+          "winRate": "0.5",
           "pickRate": "0.0471"
         },
         {
           "patch": "11.19",
           "wins": 71,
+          "gamesPlayed": 163,
           "totalGames": 3686,
           "picks": 163,
-          "winRate": "0.0193",
+          "winRate": "0.4356",
           "pickRate": "0.0443"
         }
       ]
@@ -2497,25 +2746,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 2,
           "totalGames": 246,
           "picks": 2,
-          "winRate": "0.0082",
+          "winRate": "1",
           "pickRate": "0.0082"
         },
         {
           "patch": "11.18",
           "wins": 9,
+          "gamesPlayed": 19,
           "totalGames": 2805,
           "picks": 19,
-          "winRate": "0.0033",
+          "winRate": "0.4737",
           "pickRate": "0.0068"
         },
         {
           "patch": "11.19",
           "wins": 4,
+          "gamesPlayed": 11,
           "totalGames": 3686,
           "picks": 11,
-          "winRate": "0.0011",
+          "winRate": "0.3637",
           "pickRate": "0.003"
         }
       ]
@@ -2527,25 +2779,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 10,
           "totalGames": 246,
           "picks": 10,
-          "winRate": "0.0204",
+          "winRate": "0.5",
           "pickRate": "0.0407"
         },
         {
           "patch": "11.18",
           "wins": 49,
+          "gamesPlayed": 111,
           "totalGames": 2805,
           "picks": 111,
-          "winRate": "0.0175",
+          "winRate": "0.4415",
           "pickRate": "0.0396"
         },
         {
           "patch": "11.19",
           "wins": 63,
+          "gamesPlayed": 130,
           "totalGames": 3686,
           "picks": 130,
-          "winRate": "0.0171",
+          "winRate": "0.4847",
           "pickRate": "0.0353"
         }
       ]
@@ -2557,25 +2812,28 @@
         {
           "patch": "11.20",
           "wins": 12,
+          "gamesPlayed": 18,
           "totalGames": 246,
           "picks": 18,
-          "winRate": "0.0488",
+          "winRate": "0.6667",
           "pickRate": "0.0732"
         },
         {
           "patch": "11.18",
           "wins": 153,
+          "gamesPlayed": 280,
           "totalGames": 2805,
           "picks": 280,
-          "winRate": "0.0546",
+          "winRate": "0.5465",
           "pickRate": "0.0999"
         },
         {
           "patch": "11.19",
           "wins": 182,
+          "gamesPlayed": 342,
           "totalGames": 3686,
           "picks": 342,
-          "winRate": "0.0494",
+          "winRate": "0.5322",
           "pickRate": "0.0928"
         }
       ]
@@ -2587,25 +2845,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 4,
           "totalGames": 246,
           "picks": 4,
-          "winRate": "0.0082",
+          "winRate": "0.5",
           "pickRate": "0.0163"
         },
         {
           "patch": "11.18",
           "wins": 39,
+          "gamesPlayed": 72,
           "totalGames": 2805,
           "picks": 72,
-          "winRate": "0.014",
+          "winRate": "0.5417",
           "pickRate": "0.0257"
         },
         {
           "patch": "11.19",
           "wins": 37,
+          "gamesPlayed": 67,
           "totalGames": 3686,
           "picks": 67,
-          "winRate": "0.0101",
+          "winRate": "0.5523",
           "pickRate": "0.0182"
         }
       ]
@@ -2617,25 +2878,28 @@
         {
           "patch": "11.20",
           "wins": 15,
+          "gamesPlayed": 33,
           "totalGames": 246,
           "picks": 33,
-          "winRate": "0.061",
+          "winRate": "0.4546",
           "pickRate": "0.1342"
         },
         {
           "patch": "11.18",
           "wins": 185,
+          "gamesPlayed": 392,
           "totalGames": 2805,
           "picks": 392,
-          "winRate": "0.066",
+          "winRate": "0.472",
           "pickRate": "0.1398"
         },
         {
           "patch": "11.19",
           "wins": 243,
+          "gamesPlayed": 477,
           "totalGames": 3686,
           "picks": 477,
-          "winRate": "0.066",
+          "winRate": "0.5095",
           "pickRate": "0.1295"
         }
       ]
@@ -2647,25 +2911,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 5,
           "totalGames": 246,
           "picks": 5,
-          "winRate": "0.0122",
+          "winRate": "0.6",
           "pickRate": "0.0204"
         },
         {
           "patch": "11.18",
           "wins": 10,
+          "gamesPlayed": 22,
           "totalGames": 2805,
           "picks": 22,
-          "winRate": "0.0036",
+          "winRate": "0.4546",
           "pickRate": "0.0079"
         },
         {
           "patch": "11.19",
           "wins": 13,
+          "gamesPlayed": 36,
           "totalGames": 3686,
           "picks": 36,
-          "winRate": "0.0036",
+          "winRate": "0.3612",
           "pickRate": "0.0098"
         }
       ]
@@ -2677,25 +2944,28 @@
         {
           "patch": "11.20",
           "wins": 21,
+          "gamesPlayed": 34,
           "totalGames": 246,
           "picks": 34,
-          "winRate": "0.0854",
+          "winRate": "0.6177",
           "pickRate": "0.1383"
         },
         {
           "patch": "11.18",
           "wins": 143,
+          "gamesPlayed": 257,
           "totalGames": 2805,
           "picks": 257,
-          "winRate": "0.051",
+          "winRate": "0.5565",
           "pickRate": "0.0917"
         },
         {
           "patch": "11.19",
           "wins": 180,
+          "gamesPlayed": 369,
           "totalGames": 3686,
           "picks": 369,
-          "winRate": "0.0489",
+          "winRate": "0.4879",
           "pickRate": "0.1002"
         }
       ]
@@ -2707,25 +2977,28 @@
         {
           "patch": "11.20",
           "wins": 13,
+          "gamesPlayed": 28,
           "totalGames": 246,
           "picks": 28,
-          "winRate": "0.0529",
+          "winRate": "0.4643",
           "pickRate": "0.1139"
         },
         {
           "patch": "11.18",
           "wins": 140,
+          "gamesPlayed": 263,
           "totalGames": 2805,
           "picks": 263,
-          "winRate": "0.05",
+          "winRate": "0.5324",
           "pickRate": "0.0938"
         },
         {
           "patch": "11.19",
           "wins": 171,
+          "gamesPlayed": 313,
           "totalGames": 3686,
           "picks": 313,
-          "winRate": "0.0464",
+          "winRate": "0.5464",
           "pickRate": "0.085"
         }
       ]
@@ -2737,25 +3010,28 @@
         {
           "patch": "11.20",
           "wins": 12,
+          "gamesPlayed": 19,
           "totalGames": 246,
           "picks": 19,
-          "winRate": "0.0488",
+          "winRate": "0.6316",
           "pickRate": "0.0773"
         },
         {
           "patch": "11.18",
           "wins": 143,
+          "gamesPlayed": 279,
           "totalGames": 2805,
           "picks": 279,
-          "winRate": "0.051",
+          "winRate": "0.5126",
           "pickRate": "0.0995"
         },
         {
           "patch": "11.19",
           "wins": 181,
+          "gamesPlayed": 377,
           "totalGames": 3686,
           "picks": 377,
-          "winRate": "0.0492",
+          "winRate": "0.4802",
           "pickRate": "0.1023"
         }
       ]
@@ -2767,25 +3043,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 6,
           "totalGames": 246,
           "picks": 6,
-          "winRate": "0.0082",
+          "winRate": "0.3334",
           "pickRate": "0.0244"
         },
         {
           "patch": "11.18",
           "wins": 64,
+          "gamesPlayed": 121,
           "totalGames": 2805,
           "picks": 121,
-          "winRate": "0.0229",
+          "winRate": "0.529",
           "pickRate": "0.0432"
         },
         {
           "patch": "11.19",
           "wins": 44,
+          "gamesPlayed": 97,
           "totalGames": 3686,
           "picks": 97,
-          "winRate": "0.012",
+          "winRate": "0.4537",
           "pickRate": "0.0264"
         }
       ]
@@ -2797,25 +3076,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 8,
           "totalGames": 246,
           "picks": 8,
-          "winRate": "0.0204",
+          "winRate": "0.625",
           "pickRate": "0.0326"
         },
         {
           "patch": "11.18",
           "wins": 107,
+          "gamesPlayed": 206,
           "totalGames": 2805,
           "picks": 206,
-          "winRate": "0.0382",
+          "winRate": "0.5195",
           "pickRate": "0.0735"
         },
         {
           "patch": "11.19",
           "wins": 113,
+          "gamesPlayed": 248,
           "totalGames": 3686,
           "picks": 248,
-          "winRate": "0.0307",
+          "winRate": "0.4557",
           "pickRate": "0.0673"
         }
       ]
@@ -2827,25 +3109,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 7,
           "totalGames": 246,
           "picks": 7,
-          "winRate": "0.0122",
+          "winRate": "0.4286",
           "pickRate": "0.0285"
         },
         {
           "patch": "11.18",
           "wins": 25,
+          "gamesPlayed": 69,
           "totalGames": 2805,
           "picks": 69,
-          "winRate": "0.009",
+          "winRate": "0.3624",
           "pickRate": "0.0246"
         },
         {
           "patch": "11.19",
           "wins": 38,
+          "gamesPlayed": 93,
           "totalGames": 3686,
           "picks": 93,
-          "winRate": "0.0104",
+          "winRate": "0.4087",
           "pickRate": "0.0253"
         }
       ]
@@ -2857,25 +3142,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 7,
           "totalGames": 246,
           "picks": 7,
-          "winRate": "0.0122",
+          "winRate": "0.4286",
           "pickRate": "0.0285"
         },
         {
           "patch": "11.18",
           "wins": 40,
+          "gamesPlayed": 77,
           "totalGames": 2805,
           "picks": 77,
-          "winRate": "0.0143",
+          "winRate": "0.5195",
           "pickRate": "0.0275"
         },
         {
           "patch": "11.19",
           "wins": 45,
+          "gamesPlayed": 97,
           "totalGames": 3686,
           "picks": 97,
-          "winRate": "0.0123",
+          "winRate": "0.464",
           "pickRate": "0.0264"
         }
       ]
@@ -2887,25 +3175,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 3,
           "totalGames": 246,
           "picks": 3,
-          "winRate": "0.0082",
+          "winRate": "0.6667",
           "pickRate": "0.0122"
         },
         {
           "patch": "11.18",
           "wins": 34,
+          "gamesPlayed": 78,
           "totalGames": 2805,
           "picks": 78,
-          "winRate": "0.0122",
+          "winRate": "0.4359",
           "pickRate": "0.0279"
         },
         {
           "patch": "11.19",
           "wins": 39,
+          "gamesPlayed": 79,
           "totalGames": 3686,
           "picks": 79,
-          "winRate": "0.0106",
+          "winRate": "0.4937",
           "pickRate": "0.0215"
         }
       ]
@@ -2917,25 +3208,28 @@
         {
           "patch": "11.20",
           "wins": 10,
+          "gamesPlayed": 18,
           "totalGames": 246,
           "picks": 18,
-          "winRate": "0.0407",
+          "winRate": "0.5556",
           "pickRate": "0.0732"
         },
         {
           "patch": "11.18",
           "wins": 73,
+          "gamesPlayed": 141,
           "totalGames": 2805,
           "picks": 141,
-          "winRate": "0.0261",
+          "winRate": "0.5178",
           "pickRate": "0.0503"
         },
         {
           "patch": "11.19",
           "wins": 116,
+          "gamesPlayed": 206,
           "totalGames": 3686,
           "picks": 206,
-          "winRate": "0.0315",
+          "winRate": "0.5632",
           "pickRate": "0.0559"
         }
       ]
@@ -2947,25 +3241,28 @@
         {
           "patch": "11.20",
           "wins": 34,
+          "gamesPlayed": 53,
           "totalGames": 246,
           "picks": 53,
-          "winRate": "0.1383",
+          "winRate": "0.6416",
           "pickRate": "0.2155"
         },
         {
           "patch": "11.18",
           "wins": 203,
+          "gamesPlayed": 398,
           "totalGames": 2805,
           "picks": 398,
-          "winRate": "0.0724",
+          "winRate": "0.5101",
           "pickRate": "0.1419"
         },
         {
           "patch": "11.19",
           "wins": 250,
+          "gamesPlayed": 532,
           "totalGames": 3686,
           "picks": 532,
-          "winRate": "0.0679",
+          "winRate": "0.47",
           "pickRate": "0.1444"
         }
       ]
@@ -2977,25 +3274,28 @@
         {
           "patch": "11.20",
           "wins": 10,
+          "gamesPlayed": 16,
           "totalGames": 246,
           "picks": 16,
-          "winRate": "0.0407",
+          "winRate": "0.625",
           "pickRate": "0.0651"
         },
         {
           "patch": "11.18",
           "wins": 83,
+          "gamesPlayed": 191,
           "totalGames": 2805,
           "picks": 191,
-          "winRate": "0.0296",
+          "winRate": "0.4346",
           "pickRate": "0.0681"
         },
         {
           "patch": "11.19",
           "wins": 117,
+          "gamesPlayed": 231,
           "totalGames": 3686,
           "picks": 231,
-          "winRate": "0.0318",
+          "winRate": "0.5065",
           "pickRate": "0.0627"
         }
       ]
@@ -3007,25 +3307,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 8,
           "totalGames": 246,
           "picks": 8,
-          "winRate": "0.0122",
+          "winRate": "0.375",
           "pickRate": "0.0326"
         },
         {
           "patch": "11.18",
           "wins": 30,
+          "gamesPlayed": 72,
           "totalGames": 2805,
           "picks": 72,
-          "winRate": "0.0107",
+          "winRate": "0.4167",
           "pickRate": "0.0257"
         },
         {
           "patch": "11.19",
           "wins": 71,
+          "gamesPlayed": 140,
           "totalGames": 3686,
           "picks": 140,
-          "winRate": "0.0193",
+          "winRate": "0.5072",
           "pickRate": "0.038"
         }
       ]
@@ -3037,25 +3340,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 7,
           "totalGames": 246,
           "picks": 7,
-          "winRate": "0.0122",
+          "winRate": "0.4286",
           "pickRate": "0.0285"
         },
         {
           "patch": "11.18",
           "wins": 35,
+          "gamesPlayed": 65,
           "totalGames": 2805,
           "picks": 65,
-          "winRate": "0.0125",
+          "winRate": "0.5385",
           "pickRate": "0.0232"
         },
         {
           "patch": "11.19",
           "wins": 18,
+          "gamesPlayed": 40,
           "totalGames": 3686,
           "picks": 40,
-          "winRate": "0.0049",
+          "winRate": "0.45",
           "pickRate": "0.0109"
         }
       ]
@@ -3067,25 +3373,28 @@
         {
           "patch": "11.20",
           "wins": 15,
+          "gamesPlayed": 25,
           "totalGames": 246,
           "picks": 25,
-          "winRate": "0.061",
+          "winRate": "0.6",
           "pickRate": "0.1017"
         },
         {
           "patch": "11.18",
           "wins": 227,
+          "gamesPlayed": 470,
           "totalGames": 2805,
           "picks": 470,
-          "winRate": "0.081",
+          "winRate": "0.483",
           "pickRate": "0.1676"
         },
         {
           "patch": "11.19",
           "wins": 288,
+          "gamesPlayed": 554,
           "totalGames": 3686,
           "picks": 554,
-          "winRate": "0.0782",
+          "winRate": "0.5199",
           "pickRate": "0.1503"
         }
       ]
@@ -3097,25 +3406,28 @@
         {
           "patch": "11.20",
           "wins": 11,
+          "gamesPlayed": 14,
           "totalGames": 246,
           "picks": 14,
-          "winRate": "0.0448",
+          "winRate": "0.7858",
           "pickRate": "0.057"
         },
         {
           "patch": "11.18",
           "wins": 95,
+          "gamesPlayed": 196,
           "totalGames": 2805,
           "picks": 196,
-          "winRate": "0.0339",
+          "winRate": "0.4847",
           "pickRate": "0.0699"
         },
         {
           "patch": "11.19",
           "wins": 113,
+          "gamesPlayed": 211,
           "totalGames": 3686,
           "picks": 211,
-          "winRate": "0.0307",
+          "winRate": "0.5356",
           "pickRate": "0.0573"
         }
       ]
@@ -3127,25 +3439,28 @@
         {
           "patch": "11.20",
           "wins": 13,
+          "gamesPlayed": 20,
           "totalGames": 246,
           "picks": 20,
-          "winRate": "0.0529",
+          "winRate": "0.65",
           "pickRate": "0.0814"
         },
         {
           "patch": "11.18",
           "wins": 81,
+          "gamesPlayed": 160,
           "totalGames": 2805,
           "picks": 160,
-          "winRate": "0.0289",
+          "winRate": "0.5063",
           "pickRate": "0.0571"
         },
         {
           "patch": "11.19",
           "wins": 122,
+          "gamesPlayed": 244,
           "totalGames": 3686,
           "picks": 244,
-          "winRate": "0.0331",
+          "winRate": "0.5",
           "pickRate": "0.0662"
         }
       ]
@@ -3157,25 +3472,28 @@
         {
           "patch": "11.20",
           "wins": 0,
+          "gamesPlayed": 0,
           "totalGames": 246,
           "picks": 0,
-          "winRate": "0",
+          "winRate": "NaN",
           "pickRate": "0"
         },
         {
           "patch": "11.18",
           "wins": 70,
+          "gamesPlayed": 143,
           "totalGames": 2805,
           "picks": 143,
-          "winRate": "0.025",
+          "winRate": "0.4896",
           "pickRate": "0.051"
         },
         {
           "patch": "11.19",
           "wins": 26,
+          "gamesPlayed": 52,
           "totalGames": 3686,
           "picks": 52,
-          "winRate": "0.0071",
+          "winRate": "0.5",
           "pickRate": "0.0142"
         }
       ]
@@ -3187,25 +3505,28 @@
         {
           "patch": "11.20",
           "wins": 21,
+          "gamesPlayed": 32,
           "totalGames": 246,
           "picks": 32,
-          "winRate": "0.0854",
+          "winRate": "0.6563",
           "pickRate": "0.1301"
         },
         {
           "patch": "11.18",
           "wins": 119,
+          "gamesPlayed": 233,
           "totalGames": 2805,
           "picks": 233,
-          "winRate": "0.0425",
+          "winRate": "0.5108",
           "pickRate": "0.0831"
         },
         {
           "patch": "11.19",
           "wins": 188,
+          "gamesPlayed": 346,
           "totalGames": 3686,
           "picks": 346,
-          "winRate": "0.0511",
+          "winRate": "0.5434",
           "pickRate": "0.0939"
         }
       ]
@@ -3217,25 +3538,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 9,
           "totalGames": 246,
           "picks": 9,
-          "winRate": "0.0122",
+          "winRate": "0.3334",
           "pickRate": "0.0366"
         },
         {
           "patch": "11.18",
           "wins": 39,
+          "gamesPlayed": 76,
           "totalGames": 2805,
           "picks": 76,
-          "winRate": "0.014",
+          "winRate": "0.5132",
           "pickRate": "0.0271"
         },
         {
           "patch": "11.19",
           "wins": 55,
+          "gamesPlayed": 113,
           "totalGames": 3686,
           "picks": 113,
-          "winRate": "0.015",
+          "winRate": "0.4868",
           "pickRate": "0.0307"
         }
       ]
@@ -3247,25 +3571,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 8,
           "totalGames": 246,
           "picks": 8,
-          "winRate": "0.0163",
+          "winRate": "0.5",
           "pickRate": "0.0326"
         },
         {
           "patch": "11.18",
           "wins": 21,
+          "gamesPlayed": 39,
           "totalGames": 2805,
           "picks": 39,
-          "winRate": "0.0075",
+          "winRate": "0.5385",
           "pickRate": "0.014"
         },
         {
           "patch": "11.19",
           "wins": 39,
+          "gamesPlayed": 78,
           "totalGames": 3686,
           "picks": 78,
-          "winRate": "0.0106",
+          "winRate": "0.5",
           "pickRate": "0.0212"
         }
       ]
@@ -3277,25 +3604,28 @@
         {
           "patch": "11.20",
           "wins": 25,
+          "gamesPlayed": 36,
           "totalGames": 246,
           "picks": 36,
-          "winRate": "0.1017",
+          "winRate": "0.6945",
           "pickRate": "0.1464"
         },
         {
           "patch": "11.18",
           "wins": 167,
+          "gamesPlayed": 320,
           "totalGames": 2805,
           "picks": 320,
-          "winRate": "0.0596",
+          "winRate": "0.5219",
           "pickRate": "0.1141"
         },
         {
           "patch": "11.19",
           "wins": 244,
+          "gamesPlayed": 469,
           "totalGames": 3686,
           "picks": 469,
-          "winRate": "0.0662",
+          "winRate": "0.5203",
           "pickRate": "0.1273"
         }
       ]
@@ -3307,25 +3637,28 @@
         {
           "patch": "11.20",
           "wins": 6,
+          "gamesPlayed": 19,
           "totalGames": 246,
           "picks": 19,
-          "winRate": "0.0244",
+          "winRate": "0.3158",
           "pickRate": "0.0773"
         },
         {
           "patch": "11.18",
           "wins": 127,
+          "gamesPlayed": 243,
           "totalGames": 2805,
           "picks": 243,
-          "winRate": "0.0453",
+          "winRate": "0.5227",
           "pickRate": "0.0867"
         },
         {
           "patch": "11.19",
           "wins": 161,
+          "gamesPlayed": 308,
           "totalGames": 3686,
           "picks": 308,
-          "winRate": "0.0437",
+          "winRate": "0.5228",
           "pickRate": "0.0836"
         }
       ]
@@ -3337,25 +3670,28 @@
         {
           "patch": "11.20",
           "wins": 6,
+          "gamesPlayed": 15,
           "totalGames": 246,
           "picks": 15,
-          "winRate": "0.0244",
+          "winRate": "0.4",
           "pickRate": "0.061"
         },
         {
           "patch": "11.18",
           "wins": 105,
+          "gamesPlayed": 232,
           "totalGames": 2805,
           "picks": 232,
-          "winRate": "0.0375",
+          "winRate": "0.4526",
           "pickRate": "0.0828"
         },
         {
           "patch": "11.19",
           "wins": 123,
+          "gamesPlayed": 266,
           "totalGames": 3686,
           "picks": 266,
-          "winRate": "0.0334",
+          "winRate": "0.4625",
           "pickRate": "0.0722"
         }
       ]
@@ -3367,25 +3703,28 @@
         {
           "patch": "11.20",
           "wins": 15,
+          "gamesPlayed": 31,
           "totalGames": 246,
           "picks": 31,
-          "winRate": "0.061",
+          "winRate": "0.4839",
           "pickRate": "0.1261"
         },
         {
           "patch": "11.18",
           "wins": 209,
+          "gamesPlayed": 415,
           "totalGames": 2805,
           "picks": 415,
-          "winRate": "0.0746",
+          "winRate": "0.5037",
           "pickRate": "0.148"
         },
         {
           "patch": "11.19",
           "wins": 217,
+          "gamesPlayed": 402,
           "totalGames": 3686,
           "picks": 402,
-          "winRate": "0.0589",
+          "winRate": "0.5399",
           "pickRate": "0.1091"
         }
       ]
@@ -3397,25 +3736,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 7,
           "totalGames": 246,
           "picks": 7,
-          "winRate": "0.0122",
+          "winRate": "0.4286",
           "pickRate": "0.0285"
         },
         {
           "patch": "11.18",
           "wins": 19,
+          "gamesPlayed": 47,
           "totalGames": 2805,
           "picks": 47,
-          "winRate": "0.0068",
+          "winRate": "0.4043",
           "pickRate": "0.0168"
         },
         {
           "patch": "11.19",
           "wins": 54,
+          "gamesPlayed": 109,
           "totalGames": 3686,
           "picks": 109,
-          "winRate": "0.0147",
+          "winRate": "0.4955",
           "pickRate": "0.0296"
         }
       ]
@@ -3427,25 +3769,28 @@
         {
           "patch": "11.20",
           "wins": 8,
+          "gamesPlayed": 18,
           "totalGames": 246,
           "picks": 18,
-          "winRate": "0.0326",
+          "winRate": "0.4445",
           "pickRate": "0.0732"
         },
         {
           "patch": "11.18",
           "wins": 54,
+          "gamesPlayed": 90,
           "totalGames": 2805,
           "picks": 90,
-          "winRate": "0.0193",
+          "winRate": "0.6",
           "pickRate": "0.0321"
         },
         {
           "patch": "11.19",
           "wins": 74,
+          "gamesPlayed": 158,
           "totalGames": 3686,
           "picks": 158,
-          "winRate": "0.0201",
+          "winRate": "0.4684",
           "pickRate": "0.0429"
         }
       ]
@@ -3457,25 +3802,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 17,
           "totalGames": 246,
           "picks": 17,
-          "winRate": "0.0204",
+          "winRate": "0.2942",
           "pickRate": "0.0692"
         },
         {
           "patch": "11.18",
           "wins": 162,
+          "gamesPlayed": 343,
           "totalGames": 2805,
           "picks": 343,
-          "winRate": "0.0578",
+          "winRate": "0.4724",
           "pickRate": "0.1223"
         },
         {
           "patch": "11.19",
           "wins": 172,
+          "gamesPlayed": 369,
           "totalGames": 3686,
           "picks": 369,
-          "winRate": "0.0467",
+          "winRate": "0.4662",
           "pickRate": "0.1002"
         }
       ]
@@ -3487,25 +3835,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 9,
           "totalGames": 246,
           "picks": 9,
-          "winRate": "0.0082",
+          "winRate": "0.2223",
           "pickRate": "0.0366"
         },
         {
           "patch": "11.18",
           "wins": 18,
+          "gamesPlayed": 50,
           "totalGames": 2805,
           "picks": 50,
-          "winRate": "0.0065",
+          "winRate": "0.36",
           "pickRate": "0.0179"
         },
         {
           "patch": "11.19",
           "wins": 23,
+          "gamesPlayed": 52,
           "totalGames": 3686,
           "picks": 52,
-          "winRate": "0.0063",
+          "winRate": "0.4424",
           "pickRate": "0.0142"
         }
       ]
@@ -3517,25 +3868,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 14,
           "totalGames": 246,
           "picks": 14,
-          "winRate": "0.0204",
+          "winRate": "0.3572",
           "pickRate": "0.057"
         },
         {
           "patch": "11.18",
           "wins": 112,
+          "gamesPlayed": 241,
           "totalGames": 2805,
           "picks": 241,
-          "winRate": "0.04",
+          "winRate": "0.4648",
           "pickRate": "0.086"
         },
         {
           "patch": "11.19",
           "wins": 107,
+          "gamesPlayed": 230,
           "totalGames": 3686,
           "picks": 230,
-          "winRate": "0.0291",
+          "winRate": "0.4653",
           "pickRate": "0.0624"
         }
       ]
@@ -3547,25 +3901,28 @@
         {
           "patch": "11.20",
           "wins": 1,
+          "gamesPlayed": 6,
           "totalGames": 246,
           "picks": 6,
-          "winRate": "0.0041",
+          "winRate": "0.1667",
           "pickRate": "0.0244"
         },
         {
           "patch": "11.18",
           "wins": 27,
+          "gamesPlayed": 80,
           "totalGames": 2805,
           "picks": 80,
-          "winRate": "0.0097",
+          "winRate": "0.3375",
           "pickRate": "0.0286"
         },
         {
           "patch": "11.19",
           "wins": 61,
+          "gamesPlayed": 124,
           "totalGames": 3686,
           "picks": 124,
-          "winRate": "0.0166",
+          "winRate": "0.492",
           "pickRate": "0.0337"
         }
       ]
@@ -3577,25 +3934,28 @@
         {
           "patch": "11.20",
           "wins": 3,
+          "gamesPlayed": 6,
           "totalGames": 246,
           "picks": 6,
-          "winRate": "0.0122",
+          "winRate": "0.5",
           "pickRate": "0.0244"
         },
         {
           "patch": "11.18",
           "wins": 64,
+          "gamesPlayed": 150,
           "totalGames": 2805,
           "picks": 150,
-          "winRate": "0.0229",
+          "winRate": "0.4267",
           "pickRate": "0.0535"
         },
         {
           "patch": "11.19",
           "wins": 84,
+          "gamesPlayed": 168,
           "totalGames": 3686,
           "picks": 168,
-          "winRate": "0.0228",
+          "winRate": "0.5",
           "pickRate": "0.0456"
         }
       ]
@@ -3607,25 +3967,28 @@
         {
           "patch": "11.20",
           "wins": 0,
+          "gamesPlayed": 0,
           "totalGames": 246,
           "picks": 0,
-          "winRate": "0",
+          "winRate": "NaN",
           "pickRate": "0"
         },
         {
           "patch": "11.18",
           "wins": 7,
+          "gamesPlayed": 10,
           "totalGames": 2805,
           "picks": 10,
-          "winRate": "0.0025",
+          "winRate": "0.7",
           "pickRate": "0.0036"
         },
         {
           "patch": "11.19",
           "wins": 15,
+          "gamesPlayed": 34,
           "totalGames": 3686,
           "picks": 34,
-          "winRate": "0.0041",
+          "winRate": "0.4412",
           "pickRate": "0.0093"
         }
       ]
@@ -3637,25 +4000,28 @@
         {
           "patch": "11.20",
           "wins": 8,
+          "gamesPlayed": 12,
           "totalGames": 246,
           "picks": 12,
-          "winRate": "0.0326",
+          "winRate": "0.6667",
           "pickRate": "0.0488"
         },
         {
           "patch": "11.18",
           "wins": 64,
+          "gamesPlayed": 127,
           "totalGames": 2805,
           "picks": 127,
-          "winRate": "0.0229",
+          "winRate": "0.504",
           "pickRate": "0.0453"
         },
         {
           "patch": "11.19",
           "wins": 89,
+          "gamesPlayed": 163,
           "totalGames": 3686,
           "picks": 163,
-          "winRate": "0.0242",
+          "winRate": "0.5461",
           "pickRate": "0.0443"
         }
       ]
@@ -3667,25 +4033,28 @@
         {
           "patch": "11.20",
           "wins": 1,
+          "gamesPlayed": 2,
           "totalGames": 246,
           "picks": 2,
-          "winRate": "0.0041",
+          "winRate": "0.5",
           "pickRate": "0.0082"
         },
         {
           "patch": "11.18",
           "wins": 5,
+          "gamesPlayed": 9,
           "totalGames": 2805,
           "picks": 9,
-          "winRate": "0.0018",
+          "winRate": "0.5556",
           "pickRate": "0.0033"
         },
         {
           "patch": "11.19",
           "wins": 9,
+          "gamesPlayed": 19,
           "totalGames": 3686,
           "picks": 19,
-          "winRate": "0.0025",
+          "winRate": "0.4737",
           "pickRate": "0.0052"
         }
       ]
@@ -3697,25 +4066,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 13,
           "totalGames": 246,
           "picks": 13,
-          "winRate": "0.0163",
+          "winRate": "0.3077",
           "pickRate": "0.0529"
         },
         {
           "patch": "11.18",
           "wins": 92,
+          "gamesPlayed": 184,
           "totalGames": 2805,
           "picks": 184,
-          "winRate": "0.0328",
+          "winRate": "0.5",
           "pickRate": "0.0656"
         },
         {
           "patch": "11.19",
           "wins": 166,
+          "gamesPlayed": 337,
           "totalGames": 3686,
           "picks": 337,
-          "winRate": "0.0451",
+          "winRate": "0.4926",
           "pickRate": "0.0915"
         }
       ]
@@ -3727,25 +4099,28 @@
         {
           "patch": "11.20",
           "wins": 14,
+          "gamesPlayed": 21,
           "totalGames": 246,
           "picks": 21,
-          "winRate": "0.057",
+          "winRate": "0.6667",
           "pickRate": "0.0854"
         },
         {
           "patch": "11.18",
           "wins": 84,
+          "gamesPlayed": 172,
           "totalGames": 2805,
           "picks": 172,
-          "winRate": "0.03",
+          "winRate": "0.4884",
           "pickRate": "0.0614"
         },
         {
           "patch": "11.19",
           "wins": 97,
+          "gamesPlayed": 190,
           "totalGames": 3686,
           "picks": 190,
-          "winRate": "0.0264",
+          "winRate": "0.5106",
           "pickRate": "0.0516"
         }
       ]
@@ -3757,25 +4132,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 8,
           "totalGames": 246,
           "picks": 8,
-          "winRate": "0.0163",
+          "winRate": "0.5",
           "pickRate": "0.0326"
         },
         {
           "patch": "11.18",
           "wins": 20,
+          "gamesPlayed": 44,
           "totalGames": 2805,
           "picks": 44,
-          "winRate": "0.0072",
+          "winRate": "0.4546",
           "pickRate": "0.0157"
         },
         {
           "patch": "11.19",
           "wins": 35,
+          "gamesPlayed": 55,
           "totalGames": 3686,
           "picks": 55,
-          "winRate": "0.0095",
+          "winRate": "0.6364",
           "pickRate": "0.015"
         }
       ]
@@ -3787,25 +4165,28 @@
         {
           "patch": "11.20",
           "wins": 9,
+          "gamesPlayed": 23,
           "totalGames": 246,
           "picks": 23,
-          "winRate": "0.0366",
+          "winRate": "0.3914",
           "pickRate": "0.0935"
         },
         {
           "patch": "11.18",
           "wins": 104,
+          "gamesPlayed": 210,
           "totalGames": 2805,
           "picks": 210,
-          "winRate": "0.0371",
+          "winRate": "0.4953",
           "pickRate": "0.0749"
         },
         {
           "patch": "11.19",
           "wins": 147,
+          "gamesPlayed": 299,
           "totalGames": 3686,
           "picks": 299,
-          "winRate": "0.0399",
+          "winRate": "0.4917",
           "pickRate": "0.0812"
         }
       ]
@@ -3817,25 +4198,28 @@
         {
           "patch": "11.20",
           "wins": 7,
+          "gamesPlayed": 13,
           "totalGames": 246,
           "picks": 13,
-          "winRate": "0.0285",
+          "winRate": "0.5385",
           "pickRate": "0.0529"
         },
         {
           "patch": "11.18",
           "wins": 123,
+          "gamesPlayed": 222,
           "totalGames": 2805,
           "picks": 222,
-          "winRate": "0.0439",
+          "winRate": "0.5541",
           "pickRate": "0.0792"
         },
         {
           "patch": "11.19",
           "wins": 164,
+          "gamesPlayed": 353,
           "totalGames": 3686,
           "picks": 353,
-          "winRate": "0.0445",
+          "winRate": "0.4646",
           "pickRate": "0.0958"
         }
       ]
@@ -3847,25 +4231,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 3,
           "totalGames": 246,
           "picks": 3,
-          "winRate": "0.0082",
+          "winRate": "0.6667",
           "pickRate": "0.0122"
         },
         {
           "patch": "11.18",
           "wins": 50,
+          "gamesPlayed": 103,
           "totalGames": 2805,
           "picks": 103,
-          "winRate": "0.0179",
+          "winRate": "0.4855",
           "pickRate": "0.0368"
         },
         {
           "patch": "11.19",
           "wins": 40,
+          "gamesPlayed": 95,
           "totalGames": 3686,
           "picks": 95,
-          "winRate": "0.0109",
+          "winRate": "0.4211",
           "pickRate": "0.0258"
         }
       ]
@@ -3877,25 +4264,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 9,
           "totalGames": 246,
           "picks": 9,
-          "winRate": "0.0163",
+          "winRate": "0.4445",
           "pickRate": "0.0366"
         },
         {
           "patch": "11.18",
           "wins": 70,
+          "gamesPlayed": 121,
           "totalGames": 2805,
           "picks": 121,
-          "winRate": "0.025",
+          "winRate": "0.5786",
           "pickRate": "0.0432"
         },
         {
           "patch": "11.19",
           "wins": 94,
+          "gamesPlayed": 176,
           "totalGames": 3686,
           "picks": 176,
-          "winRate": "0.0256",
+          "winRate": "0.5341",
           "pickRate": "0.0478"
         }
       ]
@@ -3907,25 +4297,28 @@
         {
           "patch": "11.20",
           "wins": 12,
+          "gamesPlayed": 29,
           "totalGames": 246,
           "picks": 29,
-          "winRate": "0.0488",
+          "winRate": "0.4138",
           "pickRate": "0.1179"
         },
         {
           "patch": "11.18",
           "wins": 151,
+          "gamesPlayed": 335,
           "totalGames": 2805,
           "picks": 335,
-          "winRate": "0.0539",
+          "winRate": "0.4508",
           "pickRate": "0.1195"
         },
         {
           "patch": "11.19",
           "wins": 215,
+          "gamesPlayed": 438,
           "totalGames": 3686,
           "picks": 438,
-          "winRate": "0.0584",
+          "winRate": "0.4909",
           "pickRate": "0.1189"
         }
       ]
@@ -3937,25 +4330,28 @@
         {
           "patch": "11.20",
           "wins": 20,
+          "gamesPlayed": 35,
           "totalGames": 246,
           "picks": 35,
-          "winRate": "0.0814",
+          "winRate": "0.5715",
           "pickRate": "0.1423"
         },
         {
           "patch": "11.18",
           "wins": 189,
+          "gamesPlayed": 333,
           "totalGames": 2805,
           "picks": 333,
-          "winRate": "0.0674",
+          "winRate": "0.5676",
           "pickRate": "0.1188"
         },
         {
           "patch": "11.19",
           "wins": 206,
+          "gamesPlayed": 426,
           "totalGames": 3686,
           "picks": 426,
-          "winRate": "0.0559",
+          "winRate": "0.4836",
           "pickRate": "0.1156"
         }
       ]
@@ -3967,25 +4363,28 @@
         {
           "patch": "11.20",
           "wins": 1,
+          "gamesPlayed": 3,
           "totalGames": 246,
           "picks": 3,
-          "winRate": "0.0041",
+          "winRate": "0.3334",
           "pickRate": "0.0122"
         },
         {
           "patch": "11.18",
           "wins": 13,
+          "gamesPlayed": 27,
           "totalGames": 2805,
           "picks": 27,
-          "winRate": "0.0047",
+          "winRate": "0.4815",
           "pickRate": "0.0097"
         },
         {
           "patch": "11.19",
           "wins": 13,
+          "gamesPlayed": 24,
           "totalGames": 3686,
           "picks": 24,
-          "winRate": "0.0036",
+          "winRate": "0.5417",
           "pickRate": "0.0066"
         }
       ]
@@ -3997,25 +4396,28 @@
         {
           "patch": "11.20",
           "wins": 10,
+          "gamesPlayed": 25,
           "totalGames": 246,
           "picks": 25,
-          "winRate": "0.0407",
+          "winRate": "0.4",
           "pickRate": "0.1017"
         },
         {
           "patch": "11.18",
           "wins": 126,
+          "gamesPlayed": 247,
           "totalGames": 2805,
           "picks": 247,
-          "winRate": "0.045",
+          "winRate": "0.5102",
           "pickRate": "0.0881"
         },
         {
           "patch": "11.19",
           "wins": 240,
+          "gamesPlayed": 426,
           "totalGames": 3686,
           "picks": 426,
-          "winRate": "0.0652",
+          "winRate": "0.5634",
           "pickRate": "0.1156"
         }
       ]
@@ -4027,25 +4429,28 @@
         {
           "patch": "11.20",
           "wins": 31,
+          "gamesPlayed": 60,
           "totalGames": 246,
           "picks": 60,
-          "winRate": "0.1261",
+          "winRate": "0.5167",
           "pickRate": "0.244"
         },
         {
           "patch": "11.18",
           "wins": 306,
+          "gamesPlayed": 570,
           "totalGames": 2805,
           "picks": 570,
-          "winRate": "0.1091",
+          "winRate": "0.5369",
           "pickRate": "0.2033"
         },
         {
           "patch": "11.19",
           "wins": 417,
+          "gamesPlayed": 805,
           "totalGames": 3686,
           "picks": 805,
-          "winRate": "0.1132",
+          "winRate": "0.5181",
           "pickRate": "0.2184"
         }
       ]
@@ -4057,25 +4462,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 2,
           "totalGames": 246,
           "picks": 2,
-          "winRate": "0.0082",
+          "winRate": "1",
           "pickRate": "0.0082"
         },
         {
           "patch": "11.18",
           "wins": 1,
+          "gamesPlayed": 6,
           "totalGames": 2805,
           "picks": 6,
-          "winRate": "0.0004",
+          "winRate": "0.1667",
           "pickRate": "0.0022"
         },
         {
           "patch": "11.19",
           "wins": 18,
+          "gamesPlayed": 29,
           "totalGames": 3686,
           "picks": 29,
-          "winRate": "0.0049",
+          "winRate": "0.6207",
           "pickRate": "0.0079"
         }
       ]
@@ -4087,25 +4495,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 2,
           "totalGames": 246,
           "picks": 2,
-          "winRate": "0.0082",
+          "winRate": "1",
           "pickRate": "0.0082"
         },
         {
           "patch": "11.18",
           "wins": 13,
+          "gamesPlayed": 30,
           "totalGames": 2805,
           "picks": 30,
-          "winRate": "0.0047",
+          "winRate": "0.4334",
           "pickRate": "0.0107"
         },
         {
           "patch": "11.19",
           "wins": 33,
+          "gamesPlayed": 61,
           "totalGames": 3686,
           "picks": 61,
-          "winRate": "0.009",
+          "winRate": "0.541",
           "pickRate": "0.0166"
         }
       ]
@@ -4117,25 +4528,28 @@
         {
           "patch": "11.20",
           "wins": 13,
+          "gamesPlayed": 25,
           "totalGames": 246,
           "picks": 25,
-          "winRate": "0.0529",
+          "winRate": "0.52",
           "pickRate": "0.1017"
         },
         {
           "patch": "11.18",
           "wins": 85,
+          "gamesPlayed": 162,
           "totalGames": 2805,
           "picks": 162,
-          "winRate": "0.0304",
+          "winRate": "0.5247",
           "pickRate": "0.0578"
         },
         {
           "patch": "11.19",
           "wins": 139,
+          "gamesPlayed": 251,
           "totalGames": 3686,
           "picks": 251,
-          "winRate": "0.0378",
+          "winRate": "0.5538",
           "pickRate": "0.0681"
         }
       ]
@@ -4147,25 +4561,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 12,
           "totalGames": 246,
           "picks": 12,
-          "winRate": "0.0204",
+          "winRate": "0.4167",
           "pickRate": "0.0488"
         },
         {
           "patch": "11.18",
           "wins": 37,
+          "gamesPlayed": 70,
           "totalGames": 2805,
           "picks": 70,
-          "winRate": "0.0132",
+          "winRate": "0.5286",
           "pickRate": "0.025"
         },
         {
           "patch": "11.19",
           "wins": 105,
+          "gamesPlayed": 194,
           "totalGames": 3686,
           "picks": 194,
-          "winRate": "0.0285",
+          "winRate": "0.5413",
           "pickRate": "0.0527"
         }
       ]
@@ -4177,25 +4594,28 @@
         {
           "patch": "11.20",
           "wins": 2,
+          "gamesPlayed": 2,
           "totalGames": 246,
           "picks": 2,
-          "winRate": "0.0082",
+          "winRate": "1",
           "pickRate": "0.0082"
         },
         {
           "patch": "11.18",
           "wins": 31,
+          "gamesPlayed": 66,
           "totalGames": 2805,
           "picks": 66,
-          "winRate": "0.0111",
+          "winRate": "0.4697",
           "pickRate": "0.0236"
         },
         {
           "patch": "11.19",
           "wins": 25,
+          "gamesPlayed": 45,
           "totalGames": 3686,
           "picks": 45,
-          "winRate": "0.0068",
+          "winRate": "0.5556",
           "pickRate": "0.0123"
         }
       ]
@@ -4207,25 +4627,28 @@
         {
           "patch": "11.20",
           "wins": 6,
+          "gamesPlayed": 13,
           "totalGames": 246,
           "picks": 13,
-          "winRate": "0.0244",
+          "winRate": "0.4616",
           "pickRate": "0.0529"
         },
         {
           "patch": "11.18",
           "wins": 119,
+          "gamesPlayed": 230,
           "totalGames": 2805,
           "picks": 230,
-          "winRate": "0.0425",
+          "winRate": "0.5174",
           "pickRate": "0.082"
         },
         {
           "patch": "11.19",
           "wins": 139,
+          "gamesPlayed": 272,
           "totalGames": 3686,
           "picks": 272,
-          "winRate": "0.0378",
+          "winRate": "0.5111",
           "pickRate": "0.0738"
         }
       ]
@@ -4237,17 +4660,19 @@
         {
           "patch": "11.20",
           "wins": 20,
+          "gamesPlayed": 42,
           "totalGames": 246,
           "picks": 42,
-          "winRate": "0.0814",
+          "winRate": "0.4762",
           "pickRate": "0.1708"
         },
         {
           "patch": "11.19",
           "wins": 303,
+          "gamesPlayed": 667,
           "totalGames": 3686,
           "picks": 667,
-          "winRate": "0.0823",
+          "winRate": "0.4543",
           "pickRate": "0.181"
         }
       ]
@@ -4259,25 +4684,28 @@
         {
           "patch": "11.20",
           "wins": 7,
+          "gamesPlayed": 9,
           "totalGames": 246,
           "picks": 9,
-          "winRate": "0.0285",
+          "winRate": "0.7778",
           "pickRate": "0.0366"
         },
         {
           "patch": "11.18",
           "wins": 78,
+          "gamesPlayed": 130,
           "totalGames": 2805,
           "picks": 130,
-          "winRate": "0.0279",
+          "winRate": "0.6",
           "pickRate": "0.0464"
         },
         {
           "patch": "11.19",
           "wins": 96,
+          "gamesPlayed": 177,
           "totalGames": 3686,
           "picks": 177,
-          "winRate": "0.0261",
+          "winRate": "0.5424",
           "pickRate": "0.0481"
         }
       ]
@@ -4289,25 +4717,28 @@
         {
           "patch": "11.20",
           "wins": 10,
+          "gamesPlayed": 23,
           "totalGames": 246,
           "picks": 23,
-          "winRate": "0.0407",
+          "winRate": "0.4348",
           "pickRate": "0.0935"
         },
         {
           "patch": "11.18",
           "wins": 204,
+          "gamesPlayed": 400,
           "totalGames": 2805,
           "picks": 400,
-          "winRate": "0.0728",
+          "winRate": "0.51",
           "pickRate": "0.1427"
         },
         {
           "patch": "11.19",
           "wins": 238,
+          "gamesPlayed": 475,
           "totalGames": 3686,
           "picks": 475,
-          "winRate": "0.0646",
+          "winRate": "0.5011",
           "pickRate": "0.1289"
         }
       ]
@@ -4319,25 +4750,28 @@
         {
           "patch": "11.20",
           "wins": 19,
+          "gamesPlayed": 27,
           "totalGames": 246,
           "picks": 27,
-          "winRate": "0.0773",
+          "winRate": "0.7038",
           "pickRate": "0.1098"
         },
         {
           "patch": "11.18",
           "wins": 103,
+          "gamesPlayed": 218,
           "totalGames": 2805,
           "picks": 218,
-          "winRate": "0.0368",
+          "winRate": "0.4725",
           "pickRate": "0.0778"
         },
         {
           "patch": "11.19",
           "wins": 178,
+          "gamesPlayed": 349,
           "totalGames": 3686,
           "picks": 349,
-          "winRate": "0.0483",
+          "winRate": "0.5101",
           "pickRate": "0.0947"
         }
       ]
@@ -4349,25 +4783,28 @@
         {
           "patch": "11.20",
           "wins": 9,
+          "gamesPlayed": 14,
           "totalGames": 246,
           "picks": 14,
-          "winRate": "0.0366",
+          "winRate": "0.6429",
           "pickRate": "0.057"
         },
         {
           "patch": "11.18",
           "wins": 97,
+          "gamesPlayed": 174,
           "totalGames": 2805,
           "picks": 174,
-          "winRate": "0.0346",
+          "winRate": "0.5575",
           "pickRate": "0.0621"
         },
         {
           "patch": "11.19",
           "wins": 130,
+          "gamesPlayed": 231,
           "totalGames": 3686,
           "picks": 231,
-          "winRate": "0.0353",
+          "winRate": "0.5628",
           "pickRate": "0.0627"
         }
       ]
@@ -4379,25 +4816,28 @@
         {
           "patch": "11.20",
           "wins": 4,
+          "gamesPlayed": 8,
           "totalGames": 246,
           "picks": 8,
-          "winRate": "0.0163",
+          "winRate": "0.5",
           "pickRate": "0.0326"
         },
         {
           "patch": "11.18",
           "wins": 52,
+          "gamesPlayed": 109,
           "totalGames": 2805,
           "picks": 109,
-          "winRate": "0.0186",
+          "winRate": "0.4771",
           "pickRate": "0.0389"
         },
         {
           "patch": "11.19",
           "wins": 65,
+          "gamesPlayed": 136,
           "totalGames": 3686,
           "picks": 136,
-          "winRate": "0.0177",
+          "winRate": "0.478",
           "pickRate": "0.0369"
         }
       ]
@@ -4409,25 +4849,28 @@
         {
           "patch": "11.20",
           "wins": 7,
+          "gamesPlayed": 15,
           "totalGames": 246,
           "picks": 15,
-          "winRate": "0.0285",
+          "winRate": "0.4667",
           "pickRate": "0.061"
         },
         {
           "patch": "11.18",
           "wins": 105,
+          "gamesPlayed": 236,
           "totalGames": 2805,
           "picks": 236,
-          "winRate": "0.0375",
+          "winRate": "0.445",
           "pickRate": "0.0842"
         },
         {
           "patch": "11.19",
           "wins": 123,
+          "gamesPlayed": 261,
           "totalGames": 3686,
           "picks": 261,
-          "winRate": "0.0334",
+          "winRate": "0.4713",
           "pickRate": "0.0709"
         }
       ]
@@ -4439,25 +4882,28 @@
         {
           "patch": "11.20",
           "wins": 14,
+          "gamesPlayed": 24,
           "totalGames": 246,
           "picks": 24,
-          "winRate": "0.057",
+          "winRate": "0.5834",
           "pickRate": "0.0976"
         },
         {
           "patch": "11.18",
           "wins": 80,
+          "gamesPlayed": 163,
           "totalGames": 2805,
           "picks": 163,
-          "winRate": "0.0286",
+          "winRate": "0.4908",
           "pickRate": "0.0582"
         },
         {
           "patch": "11.19",
           "wins": 131,
+          "gamesPlayed": 239,
           "totalGames": 3686,
           "picks": 239,
-          "winRate": "0.0356",
+          "winRate": "0.5482",
           "pickRate": "0.0649"
         }
       ]
@@ -4469,25 +4915,28 @@
         {
           "patch": "11.20",
           "wins": 31,
+          "gamesPlayed": 64,
           "totalGames": 246,
           "picks": 64,
-          "winRate": "0.1261",
+          "winRate": "0.4844",
           "pickRate": "0.2602"
         },
         {
           "patch": "11.18",
           "wins": 249,
+          "gamesPlayed": 488,
           "totalGames": 2805,
           "picks": 488,
-          "winRate": "0.0888",
+          "winRate": "0.5103",
           "pickRate": "0.174"
         },
         {
           "patch": "11.19",
           "wins": 403,
+          "gamesPlayed": 850,
           "totalGames": 3686,
           "picks": 850,
-          "winRate": "0.1094",
+          "winRate": "0.4742",
           "pickRate": "0.2307"
         }
       ]
@@ -4499,25 +4948,28 @@
         {
           "patch": "11.20",
           "wins": 13,
+          "gamesPlayed": 31,
           "totalGames": 246,
           "picks": 31,
-          "winRate": "0.0529",
+          "winRate": "0.4194",
           "pickRate": "0.1261"
         },
         {
           "patch": "11.18",
           "wins": 222,
+          "gamesPlayed": 470,
           "totalGames": 2805,
           "picks": 470,
-          "winRate": "0.0792",
+          "winRate": "0.4724",
           "pickRate": "0.1676"
         },
         {
           "patch": "11.19",
           "wins": 218,
+          "gamesPlayed": 460,
           "totalGames": 3686,
           "picks": 460,
-          "winRate": "0.0592",
+          "winRate": "0.474",
           "pickRate": "0.1248"
         }
       ]
@@ -4529,25 +4981,28 @@
         {
           "patch": "11.20",
           "wins": 1,
+          "gamesPlayed": 3,
           "totalGames": 246,
           "picks": 3,
-          "winRate": "0.0041",
+          "winRate": "0.3334",
           "pickRate": "0.0122"
         },
         {
           "patch": "11.18",
           "wins": 49,
+          "gamesPlayed": 97,
           "totalGames": 2805,
           "picks": 97,
-          "winRate": "0.0175",
+          "winRate": "0.5052",
           "pickRate": "0.0346"
         },
         {
           "patch": "11.19",
           "wins": 66,
+          "gamesPlayed": 126,
           "totalGames": 3686,
           "picks": 126,
-          "winRate": "0.018",
+          "winRate": "0.5239",
           "pickRate": "0.0342"
         }
       ]
@@ -4559,25 +5014,28 @@
         {
           "patch": "11.20",
           "wins": 18,
+          "gamesPlayed": 33,
           "totalGames": 246,
           "picks": 33,
-          "winRate": "0.0732",
+          "winRate": "0.5455",
           "pickRate": "0.1342"
         },
         {
           "patch": "11.18",
           "wins": 199,
+          "gamesPlayed": 358,
           "totalGames": 2805,
           "picks": 358,
-          "winRate": "0.071",
+          "winRate": "0.5559",
           "pickRate": "0.1277"
         },
         {
           "patch": "11.19",
           "wins": 192,
+          "gamesPlayed": 415,
           "totalGames": 3686,
           "picks": 415,
-          "winRate": "0.0521",
+          "winRate": "0.4627",
           "pickRate": "0.1126"
         }
       ]
@@ -4589,25 +5047,28 @@
         {
           "patch": "11.20",
           "wins": 5,
+          "gamesPlayed": 14,
           "totalGames": 246,
           "picks": 14,
-          "winRate": "0.0204",
+          "winRate": "0.3572",
           "pickRate": "0.057"
         },
         {
           "patch": "11.18",
           "wins": 107,
+          "gamesPlayed": 205,
           "totalGames": 2805,
           "picks": 205,
-          "winRate": "0.0382",
+          "winRate": "0.522",
           "pickRate": "0.0731"
         },
         {
           "patch": "11.19",
           "wins": 80,
+          "gamesPlayed": 162,
           "totalGames": 3686,
           "picks": 162,
-          "winRate": "0.0218",
+          "winRate": "0.4939",
           "pickRate": "0.044"
         }
       ]
@@ -4619,25 +5080,28 @@
         {
           "patch": "11.20",
           "wins": 19,
+          "gamesPlayed": 40,
           "totalGames": 246,
           "picks": 40,
-          "winRate": "0.0773",
+          "winRate": "0.475",
           "pickRate": "0.1627"
         },
         {
           "patch": "11.18",
           "wins": 239,
+          "gamesPlayed": 523,
           "totalGames": 2805,
           "picks": 523,
-          "winRate": "0.0853",
+          "winRate": "0.457",
           "pickRate": "0.1865"
         },
         {
           "patch": "11.19",
           "wins": 350,
+          "gamesPlayed": 721,
           "totalGames": 3686,
           "picks": 721,
-          "winRate": "0.095",
+          "winRate": "0.4855",
           "pickRate": "0.1957"
         }
       ]
@@ -4649,25 +5113,28 @@
         {
           "patch": "11.20",
           "wins": 12,
+          "gamesPlayed": 31,
           "totalGames": 246,
           "picks": 31,
-          "winRate": "0.0488",
+          "winRate": "0.3871",
           "pickRate": "0.1261"
         },
         {
           "patch": "11.18",
           "wins": 221,
+          "gamesPlayed": 429,
           "totalGames": 2805,
           "picks": 429,
-          "winRate": "0.0788",
+          "winRate": "0.5152",
           "pickRate": "0.153"
         },
         {
           "patch": "11.19",
           "wins": 234,
+          "gamesPlayed": 501,
           "totalGames": 3686,
           "picks": 501,
-          "winRate": "0.0635",
+          "winRate": "0.4671",
           "pickRate": "0.136"
         }
       ]
@@ -4679,25 +5146,28 @@
         {
           "patch": "11.20",
           "wins": 0,
+          "gamesPlayed": 0,
           "totalGames": 246,
           "picks": 0,
-          "winRate": "0",
+          "winRate": "NaN",
           "pickRate": "0"
         },
         {
           "patch": "11.18",
           "wins": 6,
+          "gamesPlayed": 20,
           "totalGames": 2805,
           "picks": 20,
-          "winRate": "0.0022",
+          "winRate": "0.3",
           "pickRate": "0.0072"
         },
         {
           "patch": "11.19",
           "wins": 32,
+          "gamesPlayed": 69,
           "totalGames": 3686,
           "picks": 69,
-          "winRate": "0.0087",
+          "winRate": "0.4638",
           "pickRate": "0.0188"
         }
       ]

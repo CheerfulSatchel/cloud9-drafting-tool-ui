@@ -46,7 +46,7 @@ const ChampionCard: React.FC<ChampionCardProps> = ({
     const [badgeText, setBadgeText] = React.useState<string>("Buff");
 
     const onCardClick = () => {
-      onChampionSelected(data.name);
+      onChampionSelected(data);
       setIsSelected(!isSelected);
     };
 

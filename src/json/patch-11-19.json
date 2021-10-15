@@ -3,6 +3,7 @@
         {
             "name": "Aatrox",
             "isNew": false,
+            "ccPercentage": 8,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Aatrox.png",
             "summary": "W cooldown decreased.",
             "comment": "Aatrox's W cooldown was heavily nerfed in patch 9.9 in an effort to reduce his Pro domination. He's not running over the Pro scene anymore, so we're loosening his chains a bit.",
@@ -24,6 +25,7 @@
         {
             "name": "Akali",
             "isNew": false,
+            "ccPercentage": 2,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Akali.png",
             "summary": "Base health regen increased.",
             "comment": "In a rare flip of events, Akali has room for some power at all levels of play. We're taking this opportunity to make her missteps a bit more forgiving in a way that doesn't win her more fights, but instead helps her subtly throughout her games.",
@@ -51,6 +53,7 @@
         {
             "name": "Cho'Gath",
             "isNew": false,
+            "ccPercentage": 17,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Chogath.png",
             "summary": "Q cooldown decreased.",
             "comment": "Despite being terrifyingly tanky, Cho'Gath is still weak across the board. We're increasing his CC and zoning capabilities so that he has more influence in fights.",
@@ -71,7 +74,8 @@
         },
         {
             "name": "Fizz",
-            "isNew": false,
+            "isNew": false,            
+            "ccPercentage": 10,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Fizz.png",
             "summary": "Passive damage reduction against basic attacks removed. W damage reduced. E cooldown decreased late. R damage increased.",
             "comment": "The 11.18 changes were an unintentional nerf to Fizz. We overestimated the Passive and W buffs and underestimated the R nerf. Rather than trying to fine tune those changes, we're reverting them entirely and doing a simpler buff instead. Go fish!",
@@ -141,6 +145,7 @@
         {
             "name": "Galio",
             "isNew": false,
+            "ccPercentage": 15,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Galio.png",
             "summary": "W cooldown now decreases with rank.",
             "comment": "",
@@ -162,6 +167,7 @@
         {
             "name": "Gragas",
             "isNew": false,
+            "ccPercentage": 12,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Gragas.png",
             "summary": "W damage AP scaling increased.",
             "comment": "Gragas didn't benefit much from the Predator changes last patch, so he's still pretty weak. We're helping his various AP builds pack more of a punch and speed up his mid-game clear. However, please remember to always drink responsibly.",
@@ -183,6 +189,7 @@
         {
             "name": "Gwen",
             "isNew": false,
+            "ccPercentage": 0,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Gwen.png",
             "summary": "Base health regen increased.",
             "comment": "Gwen's E nerf in 11.15 was effective in snipping her overwhelming early lane power, especially in Pro. Now, similar to Akali's situation, there's room to weave in some more durability for Gwen players at all levels.",
@@ -204,6 +211,7 @@
         {
             "name": "Kennen",
             "isNew": false,
+            "ccPercentage": 10,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Kennen.png",
             "summary": "Q damage decreased.",
             "comment": "Kennen's been on a dramatic rise in Pro priority since our changes in 11.15. We\u2019re reducing his power by walking back on those changes slightly.",
@@ -225,6 +233,7 @@
         {
             "name": "Mordekaiser",
             "isNew": false,
+            "ccPercentage": 3,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Mordekaiser.png",
             "summary": "E cooldown decreased early.",
             "comment": "Mordekaiser's bummed that he\u2019s been falling behind his peers. We don\u2019t want the god of metal to be the butt of jokes, so we\u2019re buffing him for skilled players by granting him more access to his most flexible spell.",
@@ -246,6 +255,7 @@
         {
             "name": "Poppy",
             "isNew": false,
+            "ccPercentage": 5,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Poppy.png",
             "summary": "Passive cooldown decreased.",
             "comment": "Poppy hasn't been looking too heroic lately, especially in top lane. We're enhancing her early lane power so that she can take greater advantage of favorable matchups, which should also make her more appealing as a Pro pick in specific situations.",
@@ -267,6 +277,7 @@
         {
             "name": "Qiyana",
             "isNew": false,
+            "ccPercentage": 11,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Qiyana.png",
             "summary": "E+Q combo targeting on dashing targets adjusted. Q bonus damage against monsters increased.",
             "comment": "",
@@ -294,6 +305,7 @@
         {
             "name": "Renekton",
             "isNew": false,
+            "ccPercentage": 10,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Renekton.png",
             "summary": "Base health and health growth increased. W self-lockout duration decreased and empowered animation sped up.",
             "comment": "We over swung on Renekton's nerf last patch. We still believe reducing the stun on his empowered W was a step in the right direction to mitigate his Pro dominance, so we're improving its look and feel. We're also giving him more chances to start fights and increasing his tankiness.",
@@ -321,6 +333,7 @@
         {
             "name": "Ryze",
             "isNew": false,
+            "ccPercentage": 4,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Ryze.png",
             "summary": "Q AP ratio reduced. E cooldown increased.",
             "comment": "Ryze has risen above the other mid laners in most regions. We're nerfing his overall output to ensure he doesn't completely dominate at Worlds.",
@@ -354,6 +367,7 @@
         {
             "name": "Sejuani",
             "isNew": false,
+            "ccPercentage": 15,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Sejuani.png",
             "summary": "Q cooldown decreased and damage increased.",
             "comment": "Sejuani has been a bit of a boar lately. We\u2019re slightly boosting her damage and giving her more access to her Q so she can stir up some more action!",
@@ -381,6 +395,7 @@
         {
             "name": "Seraphine",
             "isNew": false,
+            "ccPercentage": 15,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Seraphine.png",
             "summary": "R cooldown decreased.",
             "comment": "",
@@ -402,6 +417,7 @@
         {
             "name": "Sion",
             "isNew": false,
+            "ccPercentage": 14,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Sion.png",
             "summary": "W shield increased.",
             "comment": "Sion isn't doing so hot right now, so we're carefully buffing his shield to help him lane more stably.",
@@ -423,6 +439,7 @@
         {
             "name": "Sona",
             "isNew": false,
+            "ccPercentage": 13,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Sona.png",
             "summary": "Base armor reduced. Passive damage bug fixed. Q can no longer target hidden enemies. Power Chord E bug fixed.",
             "comment": "Sona's songs have been a bit too powerful, especially in Skilled play. In addition to a few bugfixes, we're nerfing her base defenses a bit, all of which should add up to an appropriate nerf for the virtuoso.",
@@ -468,6 +485,7 @@
         {
             "name": "Soraka",
             "isNew": false,
+            "ccPercentage": 7,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Soraka.png",
             "summary": "R healing decreased.",
             "comment": "Soraka got a bit too powerful with her new ability to cleanse Grievous Wounds before applying her buffed ult's heal. We still think this strategy works to help her against heal reduction, so we're just tapping down the numbers.",
@@ -489,6 +507,7 @@
         {
             "name": "Sylas",
             "isNew": false,
+            "ccPercentage": 6,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Sylas.png",
             "summary": "Base mana and mana regen increased.",
             "comment": "Our 11.15 nerfs to Sylas's Q and W restrained him more than intended. We're offering him back some power by easing up on his mana constraints in lane, allowing him to be more proactive with his spells earlier in the game.",
@@ -516,6 +535,7 @@
         {
             "name": "Varus",
             "isNew": false,
+            "ccPercentage": 8,
             "imageUrl": "https://am-a.akamaihd.net/image?f=http://ddragon.leagueoflegends.com/cdn/11.18.1/img/champion/Varus.png",
             "summary": "Q cooldown increased.",
             "comment": "",
